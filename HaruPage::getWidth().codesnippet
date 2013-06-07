@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::getWidth</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::getWidth (  );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>91131AEC-ED1E-4A7E-9518-8FA18BB1FA8E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::getWidth()</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

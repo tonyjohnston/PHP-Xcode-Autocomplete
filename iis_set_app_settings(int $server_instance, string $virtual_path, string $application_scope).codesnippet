@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>iis_set_app_settings</string>
+	<key>IDECodeSnippetContents</key>
+	<string>iis_set_app_settings ( &lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt;, &lt;#string $application_scope#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E496AAE8-28AC-4941-AA20-73A86630B8CE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>iis_set_app_settings(int $server_instance, string $virtual_path, string $application_scope)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

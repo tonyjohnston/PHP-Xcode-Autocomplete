@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqlite_busy_timeout</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqlite_busy_timeout ( &lt;#resource $dbhandle#&gt;, &lt;#int $milliseconds#&gt;, &lt;#int $milliseconds#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DA8AF282-47D0-44A8-A4E4-BAF4F1F930E2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqlite_busy_timeout(resource $dbhandle, int $milliseconds, int $milliseconds)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagecopymerge</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagecopymerge ( &lt;#resource $dst_im#&gt;, &lt;#resource $src_im#&gt;, &lt;#int $dst_x#&gt;, &lt;#int $dst_y#&gt;, &lt;#int $src_x#&gt;, &lt;#int $src_y#&gt;, &lt;#int $src_w#&gt;, &lt;#int $src_h#&gt;, &lt;#int $pct#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B3D128EA-64CC-4AB3-849A-A014960DE10F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagecopymerge(resource $dst_im, resource $src_im, int $dst_x, int $dst_y, int $src_x, int $src_y, int $src_w, int $src_h, int $pct)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

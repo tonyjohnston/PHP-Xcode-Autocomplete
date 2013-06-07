@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagefilledellipse</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagefilledellipse ( &lt;#resource $image#&gt;, &lt;#int $cx#&gt;, &lt;#int $cy#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3A6C5B2E-8879-4BB2-98E1-60156DD98E8D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagefilledellipse(resource $image, int $cx, int $cy, int $width, int $height, int $color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

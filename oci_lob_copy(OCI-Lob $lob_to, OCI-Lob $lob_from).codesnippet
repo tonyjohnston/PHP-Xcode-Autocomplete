@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>oci_lob_copy</string>
+	<key>IDECodeSnippetContents</key>
+	<string>oci_lob_copy ( &lt;#OCI-Lob $lob_to#&gt;, &lt;#OCI-Lob $lob_from#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FBB36570-0F0C-408B-8553-742DDD4664CE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>oci_lob_copy(OCI-Lob $lob_to, OCI-Lob $lob_from)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

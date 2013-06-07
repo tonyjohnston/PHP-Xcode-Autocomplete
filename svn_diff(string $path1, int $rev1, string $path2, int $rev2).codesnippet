@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>svn_diff</string>
+	<key>IDECodeSnippetContents</key>
+	<string>svn_diff ( &lt;#string $path1#&gt;, &lt;#int $rev1#&gt;, &lt;#string $path2#&gt;, &lt;#int $rev2#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1DE0554E-EB1A-428C-A952-B07487F2BBA6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>svn_diff(string $path1, int $rev1, string $path2, int $rev2)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

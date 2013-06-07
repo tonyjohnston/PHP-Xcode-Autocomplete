@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::setGrayStroke</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::setGrayStroke ( &lt;#float $value#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>21FABFB7-5D8A-4170-884A-BC039FB3F4A4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::setGrayStroke(float $value)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

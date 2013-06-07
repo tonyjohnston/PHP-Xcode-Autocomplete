@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lchgrp</string>
+	<key>IDECodeSnippetContents</key>
+	<string>lchgrp ( &lt;#string $filename#&gt;, &lt;#mixed $group#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5FD2CC9B-ECB8-47AE-8584-D96F533D9ADA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>lchgrp(string $filename, mixed $group)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

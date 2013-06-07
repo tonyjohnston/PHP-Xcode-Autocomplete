@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ps_set_border_color</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ps_set_border_color ( &lt;#resource $psdoc#&gt;, &lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C04861D1-5BC1-4391-A3C0-E5C1469CDDF4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ps_set_border_color(resource $psdoc, float $red, float $green, float $blue)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqlite_fetch_object</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqlite_fetch_object ( &lt;#resource $result#&gt;, &lt;#string $class_name#&gt;, &lt;#array $ctor_params#&gt;, &lt;#bool $decode_binary = true
+	  ]]] )
+
+	  Object oriented style (method):
+
+	   SQLiteResult
+
+	    object fetchObject
+	     ([ string $class_name#&gt;, &lt;#array $ctor_params#&gt;, &lt;#bool $decode_binary = true
+	   ]]] )
+
+
+
+	   SQLiteUnbuffered
+
+	    object fetchObject
+	     ([ string $class_name#&gt;, &lt;#array $ctor_params#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>06CE81E0-374F-4AD8-BE5C-7D224B71FDA8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqlite_fetch_object(resource $result, string $class_name, array $ctor_params, bool $decode_binary = true)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

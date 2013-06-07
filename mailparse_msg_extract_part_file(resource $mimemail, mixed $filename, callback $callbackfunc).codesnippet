@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mailparse_msg_extract_part_file</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mailparse_msg_extract_part_file ( &lt;#resource $mimemail#&gt;, &lt;#mixed $filename#&gt;, &lt;#callback $callbackfunc#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F1D0465D-1699-4FDD-A5ED-5A3A117DDBE0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mailparse_msg_extract_part_file(resource $mimemail, mixed $filename, callback $callbackfunc)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

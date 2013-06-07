@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setStrokeDashOffset</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setStrokeDashOffset ( &lt;#float $dash_offset#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FDA205A0-E2C2-4210-8B08-83F479D0AF8D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setStrokeDashOffset(float $dash_offset)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

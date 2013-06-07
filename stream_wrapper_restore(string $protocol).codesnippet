@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stream_wrapper_restore</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stream_wrapper_restore ( &lt;#string $protocol#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0B21AEBA-C85E-4C7B-A461-77CACD8F35CD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stream_wrapper_restore(string $protocol)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

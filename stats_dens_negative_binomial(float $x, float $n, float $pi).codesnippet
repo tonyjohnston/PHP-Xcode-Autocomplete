@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_dens_negative_binomial</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_dens_negative_binomial ( &lt;#float $x#&gt;, &lt;#float $n#&gt;, &lt;#float $pi#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0ED09EEC-7333-4B82-94D3-DC3FA738BA8B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_dens_negative_binomial(float $x, float $n, float $pi)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

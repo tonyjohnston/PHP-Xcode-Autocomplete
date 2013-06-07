@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>array_replace_recursive</string>
+	<key>IDECodeSnippetContents</key>
+	<string>array_replace_recursive ( &lt;#array &amp;amp;$array#&gt;, &lt;#array &amp;amp;$array1#&gt;, &lt;#array &amp;amp;$array2#&gt;, &lt;#array &amp;amp;$...#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F57A4470-D442-4326-B239-513657F03A45</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>array_replace_recursive(array &amp;amp;$array, array &amp;amp;$array1, array &amp;amp;$array2, array &amp;amp;$...)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

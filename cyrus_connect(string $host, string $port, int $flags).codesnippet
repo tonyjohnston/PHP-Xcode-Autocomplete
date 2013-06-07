@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cyrus_connect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cyrus_connect ( &lt;#string $host#&gt;, &lt;#string $port#&gt;, &lt;#int $flags#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D43667D2-FCBA-4D7D-9DF1-6474097AF378</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cyrus_connect(string $host, string $port, int $flags)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

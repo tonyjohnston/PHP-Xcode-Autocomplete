@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_stringwidth</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_stringwidth ( &lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#int $font#&gt;, &lt;#float $fontsize#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BC748E18-F2A6-41C0-B365-F9ECBD7F4053</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_stringwidth(resource $p, string $text, int $font, float $fontsize)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

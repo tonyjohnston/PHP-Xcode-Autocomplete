@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>socket_connect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>socket_connect ( &lt;#resource $socket#&gt;, &lt;#string $address#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>85015D44-4FF9-444B-BD39-A3B381CFE72A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>socket_connect(resource $socket, string $address)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

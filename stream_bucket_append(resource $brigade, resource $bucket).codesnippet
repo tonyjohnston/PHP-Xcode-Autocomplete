@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stream_bucket_append</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stream_bucket_append ( &lt;#resource $brigade#&gt;, &lt;#resource $bucket#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2622EDEF-A543-456A-B9BE-1DECD0F9D5D3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stream_bucket_append(resource $brigade, resource $bucket)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

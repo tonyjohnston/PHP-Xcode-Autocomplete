@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::contrastStretchImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::contrastStretchImage ( &lt;#float $black_point#&gt;, &lt;#float $white_point#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>595502D8-2DD3-44FF-A478-346B1BE3BE14</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::contrastStretchImage(float $black_point, float $white_point)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gupnp_context_get_host_ip</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gupnp_context_get_host_ip ( &lt;#resource $context#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6DADDC84-83DA-4404-AAEF-820F53B94DFE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gupnp_context_get_host_ip(resource $context)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

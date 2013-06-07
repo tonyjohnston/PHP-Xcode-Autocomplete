@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_surface_get_type</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_surface_get_type ( &lt;#CairoSurface $surface#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4932E7A1-2314-4FBB-8A69-C986DB7C9F73</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_surface_get_type(CairoSurface $surface)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

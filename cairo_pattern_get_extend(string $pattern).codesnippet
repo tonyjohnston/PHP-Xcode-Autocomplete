@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_pattern_get_extend</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_pattern_get_extend ( &lt;#string $pattern#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0ECC1EBA-CAD8-4D24-A3B7-DA8955A9A016</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_pattern_get_extend(string $pattern)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

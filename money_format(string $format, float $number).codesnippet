@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>money_format</string>
+	<key>IDECodeSnippetContents</key>
+	<string>money_format ( &lt;#string $format#&gt;, &lt;#float $number#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FB510B6A-3DA4-4013-939E-993CB8BEF0DC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>money_format(string $format, float $number)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

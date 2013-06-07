@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>m_getcellbynum</string>
+	<key>IDECodeSnippetContents</key>
+	<string>m_getcellbynum ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#int $column#&gt;, &lt;#int $row#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DE5D80A5-5F5E-428C-A3EE-F56C02D236EE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>m_getcellbynum(resource $conn, int $identifier, int $column, int $row)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

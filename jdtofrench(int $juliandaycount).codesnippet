@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>jdtofrench</string>
+	<key>IDECodeSnippetContents</key>
+	<string>jdtofrench ( &lt;#int $juliandaycount#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>90D8B602-3CFC-479F-8477-15D9B2885536</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>jdtofrench(int $juliandaycount)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

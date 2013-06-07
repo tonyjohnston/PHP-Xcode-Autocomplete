@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>msql_drop_db</string>
+	<key>IDECodeSnippetContents</key>
+	<string>msql_drop_db ( &lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D14DB750-C503-4719-B7FB-B8EECD33269F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>msql_drop_db(string $database_name, resource $link_identifier)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

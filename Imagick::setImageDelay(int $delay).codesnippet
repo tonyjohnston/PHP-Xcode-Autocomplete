@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setImageDelay</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setImageDelay ( &lt;#int $delay#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8DABAF3B-69A4-49D7-9ABF-8560EA9FA893</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setImageDelay(int $delay)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

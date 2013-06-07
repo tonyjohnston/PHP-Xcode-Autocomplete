@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fdf_remove_item</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fdf_remove_item ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $item#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8B1B7550-25C4-41FD-A22E-71753A9864F4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fdf_remove_item(resource $fdf_document, string $fieldname, int $item)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

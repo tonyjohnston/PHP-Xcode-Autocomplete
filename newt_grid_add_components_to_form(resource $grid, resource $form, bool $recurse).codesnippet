@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_grid_add_components_to_form</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_grid_add_components_to_form ( &lt;#resource $grid#&gt;, &lt;#resource $form#&gt;, &lt;#bool $recurse#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>367189CB-D629-4540-B688-E8E6C848E2AC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_grid_add_components_to_form(resource $grid, resource $form, bool $recurse)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

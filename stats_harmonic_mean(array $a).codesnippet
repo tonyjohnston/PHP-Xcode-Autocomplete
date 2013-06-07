@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_harmonic_mean</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_harmonic_mean ( &lt;#array $a#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B385F843-14BA-4B86-B742-58B551D274C2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_harmonic_mean(array $a)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

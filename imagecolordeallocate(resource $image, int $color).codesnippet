@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagecolordeallocate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagecolordeallocate ( &lt;#resource $image#&gt;, &lt;#int $color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4D1DA6DB-3F34-47F3-9BB2-E5D7700C29F5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagecolordeallocate(resource $image, int $color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

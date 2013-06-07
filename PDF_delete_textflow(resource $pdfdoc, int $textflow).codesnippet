@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_delete_textflow</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_delete_textflow ( &lt;#resource $pdfdoc#&gt;, &lt;#int $textflow#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D0C9FD78-F5F3-4817-8B4E-6B17CC2571A3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_delete_textflow(resource $pdfdoc, int $textflow)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

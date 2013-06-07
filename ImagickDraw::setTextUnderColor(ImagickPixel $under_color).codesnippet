@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setTextUnderColor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setTextUnderColor ( &lt;#ImagickPixel $under_color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AA025CAD-9D67-4D4D-956A-F13FB06B4FA9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setTextUnderColor(ImagickPixel $under_color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

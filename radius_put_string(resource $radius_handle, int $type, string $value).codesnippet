@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>radius_put_string</string>
+	<key>IDECodeSnippetContents</key>
+	<string>radius_put_string ( &lt;#resource $radius_handle#&gt;, &lt;#int $type#&gt;, &lt;#string $value#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>40321E24-03D4-47F9-9D4A-E425A3179001</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>radius_put_string(resource $radius_handle, int $type, string $value)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

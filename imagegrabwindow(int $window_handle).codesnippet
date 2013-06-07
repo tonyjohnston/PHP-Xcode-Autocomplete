@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagegrabwindow</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagegrabwindow ( &lt;#int $window_handle#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2D9F914E-3158-4051-8771-F163717D59E9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagegrabwindow(int $window_handle)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

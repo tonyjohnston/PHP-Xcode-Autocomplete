@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>register_tick_function</string>
+	<key>IDECodeSnippetContents</key>
+	<string>register_tick_function ( &lt;#callback $function#&gt;, &lt;#mixed $arg#&gt;, &lt;#mixed $...#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6305AE70-68E5-45C2-B48F-26C0113C527F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>register_tick_function(callback $function, mixed $arg, mixed $...)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

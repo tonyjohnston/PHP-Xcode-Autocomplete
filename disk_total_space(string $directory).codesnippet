@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>disk_total_space</string>
+	<key>IDECodeSnippetContents</key>
+	<string>disk_total_space ( &lt;#string $directory#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E3F464D1-8EEA-4D56-8B5B-69C683317EA5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>disk_total_space(string $directory)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>shm_remove</string>
+	<key>IDECodeSnippetContents</key>
+	<string>shm_remove ( &lt;#resource $shm_identifier#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A6AE0748-2EF8-4356-9DC9-F02DF6336A0B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>shm_remove(resource $shm_identifier)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

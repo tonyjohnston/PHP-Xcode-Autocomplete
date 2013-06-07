@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruImage::setColorMask</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruImage::setColorMask ( &lt;#int $rmin#&gt;, &lt;#int $rmax#&gt;, &lt;#int $gmin#&gt;, &lt;#int $gmax#&gt;, &lt;#int $bmin#&gt;, &lt;#int $bmax#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>40E25544-B8D8-4F7F-A973-7DE70818CDD5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruImage::setColorMask(int $rmin, int $rmax, int $gmin, int $gmax, int $bmin, int $bmax)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

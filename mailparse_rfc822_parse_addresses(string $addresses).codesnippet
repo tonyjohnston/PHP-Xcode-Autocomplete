@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mailparse_rfc822_parse_addresses</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mailparse_rfc822_parse_addresses ( &lt;#string $addresses#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B178CD80-2DCF-4FC7-B20E-3D8BE7E0665F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mailparse_rfc822_parse_addresses(string $addresses)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

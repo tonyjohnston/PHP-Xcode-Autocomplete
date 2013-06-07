@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::getTextDecoration</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::getTextDecoration (  );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E1C2D888-A70E-4E36-85C2-A6DBDA71761D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::getTextDecoration()</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_delete_font</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_delete_font ( &lt;#resource $font_handle#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E851816F-58BC-499D-B324-F8F6DDC08D5D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_delete_font(resource $font_handle)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

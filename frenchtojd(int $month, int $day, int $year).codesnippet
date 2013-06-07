@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>frenchtojd</string>
+	<key>IDECodeSnippetContents</key>
+	<string>frenchtojd ( &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A9E089CE-D8A5-4D2A-B674-36006C7F278D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>frenchtojd(int $month, int $day, int $year)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ssh2_sftp_rename</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ssh2_sftp_rename ( &lt;#resource $sftp#&gt;, &lt;#string $from#&gt;, &lt;#string $to#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>007BA77C-8120-4790-87BB-785B0E47FF4E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ssh2_sftp_rename(resource $sftp, string $from, string $to)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>enchant_broker_get_error</string>
+	<key>IDECodeSnippetContents</key>
+	<string>enchant_broker_get_error ( &lt;#resource $broker#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8BD2827D-7119-42FB-9F0F-61E56A480895</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>enchant_broker_get_error(resource $broker)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

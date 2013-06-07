@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_addcolor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_addcolor ( &lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt;, &lt;#float $a#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7596B2D9-9C3B-4F47-896A-D5B68E0BE960</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_addcolor(float $r, float $g, float $b, float $a)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

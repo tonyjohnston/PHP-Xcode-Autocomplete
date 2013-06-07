@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>id3_get_frame_long_name</string>
+	<key>IDECodeSnippetContents</key>
+	<string>id3_get_frame_long_name ( &lt;#string $frameId#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F86E0D2E-CDFA-49E6-B13A-0D7B53481FBF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>id3_get_frame_long_name(string $frameId)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

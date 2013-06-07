@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>radius_put_vendor_addr</string>
+	<key>IDECodeSnippetContents</key>
+	<string>radius_put_vendor_addr ( &lt;#resource $radius_handle#&gt;, &lt;#int $vendor#&gt;, &lt;#int $type#&gt;, &lt;#string $addr#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9BEB7A87-5C3C-451D-9FE7-EC00D7271766</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>radius_put_vendor_addr(resource $radius_handle, int $vendor, int $type, string $addr)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

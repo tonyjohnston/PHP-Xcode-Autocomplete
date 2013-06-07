@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ps_makespotcolor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ps_makespotcolor ( &lt;#resource $psdoc#&gt;, &lt;#string $name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EC2BFE02-7287-4B84-9BE4-FF23A5670FB5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ps_makespotcolor(resource $psdoc, string $name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

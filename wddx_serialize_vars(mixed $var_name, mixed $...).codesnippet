@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>wddx_serialize_vars</string>
+	<key>IDECodeSnippetContents</key>
+	<string>wddx_serialize_vars ( &lt;#mixed $var_name#&gt;, &lt;#mixed $...#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1F9B4B43-B493-4246-8C13-086BD3DFB047</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>wddx_serialize_vars(mixed $var_name, mixed $...)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

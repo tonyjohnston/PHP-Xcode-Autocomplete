@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>svn_fs_abort_txn</string>
+	<key>IDECodeSnippetContents</key>
+	<string>svn_fs_abort_txn ( &lt;#resource $txn#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7BCAE73C-0E2A-4CFD-8545-4935BAD516C8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>svn_fs_abort_txn(resource $txn)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

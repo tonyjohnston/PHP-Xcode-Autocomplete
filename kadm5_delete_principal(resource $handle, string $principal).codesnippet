@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>kadm5_delete_principal</string>
+	<key>IDECodeSnippetContents</key>
+	<string>kadm5_delete_principal ( &lt;#resource $handle#&gt;, &lt;#string $principal#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3BD97F34-F339-47B9-8E50-B762B079A49C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>kadm5_delete_principal(resource $handle, string $principal)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

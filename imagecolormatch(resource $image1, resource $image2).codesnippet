@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagecolormatch</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagecolormatch ( &lt;#resource $image1#&gt;, &lt;#resource $image2#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F782F30D-CD94-4DE1-B930-48783A8C41E8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagecolormatch(resource $image1, resource $image2)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>streamMP3</string>
+	<key>IDECodeSnippetContents</key>
+	<string>streamMP3 ( &lt;#mixed $mp3file#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BFDFD2E6-F9E3-4EDE-AC16-6F9E4AB2B58A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>streamMP3(mixed $mp3file)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

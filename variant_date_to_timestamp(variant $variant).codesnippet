@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>variant_date_to_timestamp</string>
+	<key>IDECodeSnippetContents</key>
+	<string>variant_date_to_timestamp ( &lt;#variant $variant#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DD5992A1-42C4-412E-BAEF-C75020171B5F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>variant_date_to_timestamp(variant $variant)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

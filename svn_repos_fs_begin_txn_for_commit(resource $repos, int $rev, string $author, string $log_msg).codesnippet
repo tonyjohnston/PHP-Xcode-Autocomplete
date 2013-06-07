@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>svn_repos_fs_begin_txn_for_commit</string>
+	<key>IDECodeSnippetContents</key>
+	<string>svn_repos_fs_begin_txn_for_commit ( &lt;#resource $repos#&gt;, &lt;#int $rev#&gt;, &lt;#string $author#&gt;, &lt;#string $log_msg#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>982F4F0B-3868-4AA0-83DC-74FE2D6CFD6F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>svn_repos_fs_begin_txn_for_commit(resource $repos, int $rev, string $author, string $log_msg)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

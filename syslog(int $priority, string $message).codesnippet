@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>syslog</string>
+	<key>IDECodeSnippetContents</key>
+	<string>syslog ( &lt;#int $priority#&gt;, &lt;#string $message#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>60AC5EEF-D06A-4453-9548-FE634585D723</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>syslog(int $priority, string $message)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

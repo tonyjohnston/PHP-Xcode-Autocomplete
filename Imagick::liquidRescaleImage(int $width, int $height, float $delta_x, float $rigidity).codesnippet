@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::liquidRescaleImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::liquidRescaleImage ( &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#float $delta_x#&gt;, &lt;#float $rigidity#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7E3D2DFF-8694-46AE-9C9E-C8AD2172DA4C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::liquidRescaleImage(int $width, int $height, float $delta_x, float $rigidity)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

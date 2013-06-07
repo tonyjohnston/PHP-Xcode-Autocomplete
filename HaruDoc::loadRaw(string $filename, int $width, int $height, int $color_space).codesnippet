@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruDoc::loadRaw</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruDoc::loadRaw ( &lt;#string $filename#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $color_space#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>21A96E5C-91BC-4C76-A4CA-A780AFF2C9D0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruDoc::loadRaw(string $filename, int $width, int $height, int $color_space)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>SCA_LocalProxy::createDataObject</string>
+	<key>IDECodeSnippetContents</key>
+	<string>SCA_LocalProxy::createDataObject (  );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2F7B6584-00E2-40D1-992C-328DFC3A9DDE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SCA_LocalProxy::createDataObject()</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

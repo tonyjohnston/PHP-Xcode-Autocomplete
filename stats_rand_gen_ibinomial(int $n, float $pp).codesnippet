@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_rand_gen_ibinomial</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_rand_gen_ibinomial ( &lt;#int $n#&gt;, &lt;#float $pp#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E41B1657-3424-44B4-ABA2-1349DCEAE7C0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_rand_gen_ibinomial(int $n, float $pp)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

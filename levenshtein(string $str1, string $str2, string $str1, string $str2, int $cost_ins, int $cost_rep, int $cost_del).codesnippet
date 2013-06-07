@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>levenshtein</string>
+	<key>IDECodeSnippetContents</key>
+	<string>levenshtein ( &lt;#string $str1#&gt;, &lt;#string $str2#&gt;, &lt;#string $str1#&gt;, &lt;#string $str2#&gt;, &lt;#int $cost_ins#&gt;, &lt;#int $cost_rep#&gt;, &lt;#int $cost_del#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5E274F97-5A59-49B9-BF01-565C9FD2AD91</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>levenshtein(string $str1, string $str2, string $str1, string $str2, int $cost_ins, int $cost_rep, int $cost_del)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

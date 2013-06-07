@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gethostbyaddr</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gethostbyaddr ( &lt;#string $ip_address#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1CDF22EB-D219-4B04-BA60-0F0ED706BE3B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gethostbyaddr(string $ip_address)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>posix_getpwnam</string>
+	<key>IDECodeSnippetContents</key>
+	<string>posix_getpwnam ( &lt;#string $username#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9662C6A3-3B1E-4B1F-A671-34EDB69CC598</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>posix_getpwnam(string $username)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

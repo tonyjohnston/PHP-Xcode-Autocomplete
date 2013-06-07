@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_definebitmap</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_definebitmap ( &lt;#int $objid#&gt;, &lt;#string $image_name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4ACADA0A-2A1D-46D8-90D5-D54DBC8BDA5A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_definebitmap(int $objid, string $image_name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

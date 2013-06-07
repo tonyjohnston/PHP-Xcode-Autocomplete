@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_pattern_get_radial_circles</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_pattern_get_radial_circles ( &lt;#CairoRadialGradient $pattern#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4618BCA9-AC66-402A-BD04-AB5A13F2B898</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_pattern_get_radial_circles(CairoRadialGradient $pattern)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

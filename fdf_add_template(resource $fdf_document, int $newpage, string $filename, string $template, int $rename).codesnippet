@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fdf_add_template</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fdf_add_template ( &lt;#resource $fdf_document#&gt;, &lt;#int $newpage#&gt;, &lt;#string $filename#&gt;, &lt;#string $template#&gt;, &lt;#int $rename#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B2E36AD9-5DF7-4B3D-B347-46BF0B9F0A5F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fdf_add_template(resource $fdf_document, int $newpage, string $filename, string $template, int $rename)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

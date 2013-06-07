@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>variant_fix</string>
+	<key>IDECodeSnippetContents</key>
+	<string>variant_fix ( &lt;#mixed $variant#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1419D169-AF82-4339-8D55-2A74DD8370D4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>variant_fix(mixed $variant)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

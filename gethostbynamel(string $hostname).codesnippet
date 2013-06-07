@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gethostbynamel</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gethostbynamel ( &lt;#string $hostname#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>51320FB3-6017-40AD-AB33-BFC6B0F1C040</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gethostbynamel(string $hostname)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

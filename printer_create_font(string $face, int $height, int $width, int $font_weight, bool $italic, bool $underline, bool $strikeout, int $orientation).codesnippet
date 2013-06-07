@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_create_font</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_create_font ( &lt;#string $face#&gt;, &lt;#int $height#&gt;, &lt;#int $width#&gt;, &lt;#int $font_weight#&gt;, &lt;#bool $italic#&gt;, &lt;#bool $underline#&gt;, &lt;#bool $strikeout#&gt;, &lt;#int $orientation#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A4A2BE6E-1160-43DE-8B79-BCD318964A91</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_create_font(string $face, int $height, int $width, int $font_weight, bool $italic, bool $underline, bool $strikeout, int $orientation)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_fit_table</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_fit_table ( &lt;#resource $pdfdoc#&gt;, &lt;#int $table#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $optlist#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>99614D7F-FF5C-4D8F-80ED-B4473E98D4D1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_fit_table(resource $pdfdoc, int $table, float $llx, float $lly, float $urx, float $ury, string $optlist)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

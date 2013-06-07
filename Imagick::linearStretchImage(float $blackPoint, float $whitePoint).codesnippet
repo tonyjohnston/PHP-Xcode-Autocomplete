@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::linearStretchImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::linearStretchImage ( &lt;#float $blackPoint#&gt;, &lt;#float $whitePoint#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>446DDF2F-B94B-4B6E-BCE2-0D10A30F0677</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::linearStretchImage(float $blackPoint, float $whitePoint)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

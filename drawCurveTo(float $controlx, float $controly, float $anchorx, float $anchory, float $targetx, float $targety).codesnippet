@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>drawCurveTo</string>
+	<key>IDECodeSnippetContents</key>
+	<string>drawCurveTo ( &lt;#float $controlx#&gt;, &lt;#float $controly#&gt;, &lt;#float $anchorx#&gt;, &lt;#float $anchory#&gt;, &lt;#float $targetx#&gt;, &lt;#float $targety#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>65CC2B2D-9611-4347-8870-657B5A345BBC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>drawCurveTo(float $controlx, float $controly, float $anchorx, float $anchory, float $targetx, float $targety)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

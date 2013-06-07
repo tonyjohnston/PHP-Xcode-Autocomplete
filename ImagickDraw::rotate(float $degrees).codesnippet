@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::rotate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::rotate ( &lt;#float $degrees#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AF4392C3-68CF-4B94-8BCC-F0C6CC341FD2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::rotate(float $degrees)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_perspective</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_perspective ( &lt;#float $fovy#&gt;, &lt;#float $aspect#&gt;, &lt;#float $near#&gt;, &lt;#float $far#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>355C36D4-84F1-4862-87E0-ADA8A4F3FF9B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_perspective(float $fovy, float $aspect, float $near, float $far)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

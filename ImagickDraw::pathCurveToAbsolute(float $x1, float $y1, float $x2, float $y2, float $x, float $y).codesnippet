@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::pathCurveToAbsolute</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::pathCurveToAbsolute ( &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A3B9D856-31E4-45BE-B80D-75A2B6E0A1A5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::pathCurveToAbsolute(float $x1, float $y1, float $x2, float $y2, float $x, float $y)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

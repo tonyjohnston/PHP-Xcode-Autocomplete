@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dotnet_load</string>
+	<key>IDECodeSnippetContents</key>
+	<string>dotnet_load ( &lt;#string $assembly_name#&gt;, &lt;#string $datatype_name#&gt;, &lt;#int $codepage#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A57E2A33-D204-493B-8D39-8B9572F8D1DC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>dotnet_load(string $assembly_name, string $datatype_name, int $codepage)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

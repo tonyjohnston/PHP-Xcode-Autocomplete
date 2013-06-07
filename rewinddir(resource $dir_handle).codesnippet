@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rewinddir</string>
+	<key>IDECodeSnippetContents</key>
+	<string>rewinddir ( &lt;#resource $dir_handle#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DDA02630-A4CF-4EA2-AB48-AC243ACB0B70</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>rewinddir(resource $dir_handle)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

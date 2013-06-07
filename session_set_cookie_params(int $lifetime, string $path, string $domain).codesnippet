@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>session_set_cookie_params</string>
+	<key>IDECodeSnippetContents</key>
+	<string>session_set_cookie_params ( &lt;#int $lifetime#&gt;, &lt;#string $path#&gt;, &lt;#string $domain#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>12B9D6CC-E35E-4A01-8DA8-1E6AF4E9DDDF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>session_set_cookie_params(int $lifetime, string $path, string $domain)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ssh2_auth_pubkey_file</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ssh2_auth_pubkey_file ( &lt;#resource $session#&gt;, &lt;#string $username#&gt;, &lt;#string $pubkeyfile#&gt;, &lt;#string $privkeyfile#&gt;, &lt;#string $passphrase#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>72F6FE08-5AB0-4E69-AB4E-EE6F5A453701</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ssh2_auth_pubkey_file(resource $session, string $username, string $pubkeyfile, string $privkeyfile, string $passphrase)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

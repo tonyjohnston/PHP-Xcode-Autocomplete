@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_scale_set</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_scale_set ( &lt;#resource $scale#&gt;, &lt;#int $amount#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DE6BD280-5F5A-43E0-983A-FA413AAABAFB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_scale_set(resource $scale, int $amount)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

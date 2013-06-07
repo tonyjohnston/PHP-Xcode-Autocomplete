@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HttpRequest::setSslOptions</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HttpRequest::setSslOptions ( &lt;#array $options#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D9132167-E1B3-409A-8630-EA05B8A4E388</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HttpRequest::setSslOptions(array $options)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

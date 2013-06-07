@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>odbc_rollback</string>
+	<key>IDECodeSnippetContents</key>
+	<string>odbc_rollback ( &lt;#resource $connection_id#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0831DC5B-B074-48FE-A2FA-73877F601ABC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>odbc_rollback(resource $connection_id)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

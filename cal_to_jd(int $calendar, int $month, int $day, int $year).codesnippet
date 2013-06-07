@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cal_to_jd</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cal_to_jd ( &lt;#int $calendar#&gt;, &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A2671C6A-1179-4F70-96C7-F83874692AC3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cal_to_jd(int $calendar, int $month, int $day, int $year)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

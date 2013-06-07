@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_checkbox_tree_get_multi_selection</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_checkbox_tree_get_multi_selection ( &lt;#resource $checkboxtree#&gt;, &lt;#string $seqnum#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>51DE00B2-549E-4EA0-9A65-26DCF8C60D64</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_checkbox_tree_get_multi_selection(resource $checkboxtree, string $seqnum)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

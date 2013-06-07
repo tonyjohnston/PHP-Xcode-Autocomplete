@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_begin_glyph</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_begin_glyph ( &lt;#resource $pdfdoc#&gt;, &lt;#string $glyphname#&gt;, &lt;#float $wx#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DA2E2A64-13F4-4CB8-92E4-74F06F5D2BB8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_begin_glyph(resource $pdfdoc, string $glyphname, float $wx, float $llx, float $lly, float $urx, float $ury)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>oci_cancel</string>
+	<key>IDECodeSnippetContents</key>
+	<string>oci_cancel ( &lt;#resource $statement#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DF0A8A96-332B-4F70-B4E3-DE69AF5E7978</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>oci_cancel(resource $statement)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

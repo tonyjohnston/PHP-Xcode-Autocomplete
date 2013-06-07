@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dbase_delete_record</string>
+	<key>IDECodeSnippetContents</key>
+	<string>dbase_delete_record ( &lt;#int $dbase_identifier#&gt;, &lt;#int $record_number#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>70536769-EB9D-46C6-9FCD-B0B76616140C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>dbase_delete_record(int $dbase_identifier, int $record_number)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

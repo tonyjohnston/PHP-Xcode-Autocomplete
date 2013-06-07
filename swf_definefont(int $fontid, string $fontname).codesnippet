@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_definefont</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_definefont ( &lt;#int $fontid#&gt;, &lt;#string $fontname#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1E006A29-59D4-4FD4-AF49-3D6DB8D9369B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_definefont(int $fontid, string $fontname)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_open_memory_image</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_open_memory_image ( &lt;#resource $p#&gt;, &lt;#resource $image#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>83F648C8-76C0-4B68-B3FD-1B4F483A7CE9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_open_memory_image(resource $p, resource $image)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

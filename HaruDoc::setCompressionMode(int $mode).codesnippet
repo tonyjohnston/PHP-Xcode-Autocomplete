@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruDoc::setCompressionMode</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruDoc::setCompressionMode ( &lt;#int $mode#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0A0C9F74-2E5E-4BD3-B443-639F4C906B64</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruDoc::setCompressionMode(int $mode)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

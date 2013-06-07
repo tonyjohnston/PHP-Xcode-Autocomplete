@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>method_exists</string>
+	<key>IDECodeSnippetContents</key>
+	<string>method_exists ( &lt;#mixed $object#&gt;, &lt;#string $method_name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9BBFA5CD-5BA3-4BA7-A761-E8CF460B1B38</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>method_exists(mixed $object, string $method_name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

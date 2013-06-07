@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_shapecurveto</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_shapecurveto ( &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>44155291-92F2-47EE-B8F5-1ACF6F91B5B8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_shapecurveto(float $x1, float $y1, float $x2, float $y2)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

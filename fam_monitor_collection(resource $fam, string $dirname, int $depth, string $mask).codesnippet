@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fam_monitor_collection</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fam_monitor_collection ( &lt;#resource $fam#&gt;, &lt;#string $dirname#&gt;, &lt;#int $depth#&gt;, &lt;#string $mask#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DD21E8B4-E8E9-4A74-9E5D-80BF36BC9C35</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fam_monitor_collection(resource $fam, string $dirname, int $depth, string $mask)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

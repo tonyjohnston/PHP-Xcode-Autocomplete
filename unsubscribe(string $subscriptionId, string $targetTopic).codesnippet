@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>unsubscribe</string>
+	<key>IDECodeSnippetContents</key>
+	<string>unsubscribe ( &lt;#string $subscriptionId#&gt;, &lt;#string $targetTopic#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FDB2C8BE-32F3-41DC-88CA-F3728B2A6878</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>unsubscribe(string $subscriptionId, string $targetTopic)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

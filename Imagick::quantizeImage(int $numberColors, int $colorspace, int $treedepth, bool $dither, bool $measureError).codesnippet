@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::quantizeImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::quantizeImage ( &lt;#int $numberColors#&gt;, &lt;#int $colorspace#&gt;, &lt;#int $treedepth#&gt;, &lt;#bool $dither#&gt;, &lt;#bool $measureError#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F5406CDA-6143-4F12-97F2-8FF2BF7016BB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::quantizeImage(int $numberColors, int $colorspace, int $treedepth, bool $dither, bool $measureError)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

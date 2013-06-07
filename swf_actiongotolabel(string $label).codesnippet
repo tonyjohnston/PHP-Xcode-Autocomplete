@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_actiongotolabel</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_actiongotolabel ( &lt;#string $label#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>30A4CF7E-31F4-45A7-9AFB-5F8CB8AF2972</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_actiongotolabel(string $label)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

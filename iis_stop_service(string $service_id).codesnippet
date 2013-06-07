@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>iis_stop_service</string>
+	<key>IDECodeSnippetContents</key>
+	<string>iis_stop_service ( &lt;#string $service_id#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>240C4162-2C00-4146-9FA5-D0F515407B80</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>iis_stop_service(string $service_id)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

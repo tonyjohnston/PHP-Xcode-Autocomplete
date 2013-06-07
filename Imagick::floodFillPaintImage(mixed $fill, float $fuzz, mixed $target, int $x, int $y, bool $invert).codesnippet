@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::floodFillPaintImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::floodFillPaintImage ( &lt;#mixed $fill#&gt;, &lt;#float $fuzz#&gt;, &lt;#mixed $target#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#bool $invert#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>537643C1-8BBB-41E1-8F42-B86900AD5724</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::floodFillPaintImage(mixed $fill, float $fuzz, mixed $target, int $x, int $y, bool $invert)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

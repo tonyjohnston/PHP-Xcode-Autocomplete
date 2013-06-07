@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_listbox_set_width</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_listbox_set_width ( &lt;#resource $listbox#&gt;, &lt;#int $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3FD9BF12-9B16-41A8-A307-06B786CF51FB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_listbox_set_width(resource $listbox, int $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mssql_free_result</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mssql_free_result ( &lt;#resource $result#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FE1A886F-4D3D-4D55-9FF3-9B654E3D33E3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mssql_free_result(resource $result)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

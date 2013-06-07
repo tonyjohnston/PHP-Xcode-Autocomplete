@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dbplus_restorepos</string>
+	<key>IDECodeSnippetContents</key>
+	<string>dbplus_restorepos ( &lt;#resource $relation#&gt;, &lt;#array $tuple#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>21C7B4CE-96F1-4722-864F-6946A02106BE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>dbplus_restorepos(resource $relation, array $tuple)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

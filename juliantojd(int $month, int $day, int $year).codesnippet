@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>juliantojd</string>
+	<key>IDECodeSnippetContents</key>
+	<string>juliantojd ( &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>ACF5F12B-77D6-478E-A14C-EDD7E2ED9059</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>juliantojd(int $month, int $day, int $year)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

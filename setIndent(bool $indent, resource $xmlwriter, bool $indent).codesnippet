@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>setIndent</string>
+	<key>IDECodeSnippetContents</key>
+	<string>setIndent ( &lt;#bool $indent#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $indent#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EA356561-4AB6-4969-9CF2-6B7476B5E134</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>setIndent(bool $indent, resource $xmlwriter, bool $indent)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

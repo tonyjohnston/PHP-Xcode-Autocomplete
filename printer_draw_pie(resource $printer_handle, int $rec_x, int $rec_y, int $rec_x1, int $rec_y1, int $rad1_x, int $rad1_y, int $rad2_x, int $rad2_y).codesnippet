@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_draw_pie</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_draw_pie ( &lt;#resource $printer_handle#&gt;, &lt;#int $rec_x#&gt;, &lt;#int $rec_y#&gt;, &lt;#int $rec_x1#&gt;, &lt;#int $rec_y1#&gt;, &lt;#int $rad1_x#&gt;, &lt;#int $rad1_y#&gt;, &lt;#int $rad2_x#&gt;, &lt;#int $rad2_y#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A80FC7D1-323A-479C-84FF-8DC5054221C0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_draw_pie(resource $printer_handle, int $rec_x, int $rec_y, int $rec_x1, int $rec_y1, int $rad1_x, int $rad1_y, int $rad2_x, int $rad2_y)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setFontFamily</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setFontFamily ( &lt;#string $font_family#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>659235FD-B668-4C35-9DEF-78513B1707EF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setFontFamily(string $font_family)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

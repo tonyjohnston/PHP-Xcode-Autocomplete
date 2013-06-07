@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>bbcode_set_flags</string>
+	<key>IDECodeSnippetContents</key>
+	<string>bbcode_set_flags ( &lt;#resource $bbcode_container#&gt;, &lt;#int $flags#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7A9E9400-6BD5-4978-82A7-0523FB4BA53F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>bbcode_set_flags(resource $bbcode_container, int $flags)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tidy::diagnose</string>
+	<key>IDECodeSnippetContents</key>
+	<string>tidy::diagnose ( &lt;#void
+	   )
+
+	  Procedural style
+
+	   bool tidy_diagnose
+	    ( tidy $object#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8BB711A6-BCD8-4D8E-AB7B-A28CAC5559B3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>tidy::diagnose(void
+	   )
+
+	  Procedural style
+
+	   bool tidy_diagnose
+	    ( tidy $object)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

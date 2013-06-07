@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagepsfreefont</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagepsfreefont ( &lt;#resource $font_index#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1B3EDB05-4B22-496C-8452-491A3B36AA27</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagepsfreefont(resource $font_index)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

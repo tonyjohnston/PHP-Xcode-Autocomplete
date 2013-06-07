@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>addShape</string>
+	<key>IDECodeSnippetContents</key>
+	<string>addShape ( &lt;#SWFShape $shape#&gt;, &lt;#int $flags#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7149923C-1FC7-4975-9329-E1BF7DF0BE64</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>addShape(SWFShape $shape, int $flags)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

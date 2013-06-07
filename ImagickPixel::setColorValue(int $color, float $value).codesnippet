@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickPixel::setColorValue</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickPixel::setColorValue ( &lt;#int $color#&gt;, &lt;#float $value#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4393E29F-3873-4D0B-A1CB-336C27684B21</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickPixel::setColorValue(int $color, float $value)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

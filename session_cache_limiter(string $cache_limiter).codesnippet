@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>session_cache_limiter</string>
+	<key>IDECodeSnippetContents</key>
+	<string>session_cache_limiter ( &lt;#string $cache_limiter#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CFB4C397-B645-4650-B626-FD69521802CD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>session_cache_limiter(string $cache_limiter)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

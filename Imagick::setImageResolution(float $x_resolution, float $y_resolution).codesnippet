@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setImageResolution</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setImageResolution ( &lt;#float $x_resolution#&gt;, &lt;#float $y_resolution#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A0FC5972-5D02-425C-8DAC-E6376480625D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setImageResolution(float $x_resolution, float $y_resolution)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

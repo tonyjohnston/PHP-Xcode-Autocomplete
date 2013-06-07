@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqlite_create_function</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqlite_create_function ( &lt;#resource $dbhandle#&gt;, &lt;#string $function_name#&gt;, &lt;#callback $callback#&gt;, &lt;#int $num_args = -1
+	  ] )
+
+	  Object oriented style (method):
+
+	   SQLiteDatabase
+
+	    void createFunction
+	     ( string $function_name#&gt;, &lt;#callback $callback#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2703E004-6BA5-42CC-87C6-AB0AA15EB20A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqlite_create_function(resource $dbhandle, string $function_name, callback $callback, int $num_args = -1)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::medianFilterImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::medianFilterImage ( &lt;#float $radius#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>49474EEA-E8DA-434F-ACEF-18E473013246</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::medianFilterImage(float $radius)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

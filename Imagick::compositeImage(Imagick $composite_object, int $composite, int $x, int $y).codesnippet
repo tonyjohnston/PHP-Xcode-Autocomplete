@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::compositeImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::compositeImage ( &lt;#Imagick $composite_object#&gt;, &lt;#int $composite#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EC8DA5B2-1891-46AD-80B4-2E6586E15FFC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::compositeImage(Imagick $composite_object, int $composite, int $x, int $y)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::sepiaToneImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::sepiaToneImage ( &lt;#float $threshold#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E173B939-DC5C-446D-9F3E-2A6B7DB999EE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::sepiaToneImage(float $threshold)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

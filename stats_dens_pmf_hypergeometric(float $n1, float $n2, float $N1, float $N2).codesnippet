@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_dens_pmf_hypergeometric</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_dens_pmf_hypergeometric ( &lt;#float $n1#&gt;, &lt;#float $n2#&gt;, &lt;#float $N1#&gt;, &lt;#float $N2#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3F983697-E114-494F-A9E1-1D4AAF174595</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_dens_pmf_hypergeometric(float $n1, float $n2, float $N1, float $N2)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

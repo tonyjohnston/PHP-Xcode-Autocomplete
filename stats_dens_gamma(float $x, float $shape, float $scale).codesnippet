@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_dens_gamma</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_dens_gamma ( &lt;#float $x#&gt;, &lt;#float $shape#&gt;, &lt;#float $scale#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6FA9CA65-B2D6-4AC7-B92C-1D666DAB1433</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_dens_gamma(float $x, float $shape, float $scale)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>move_uploaded_file</string>
+	<key>IDECodeSnippetContents</key>
+	<string>move_uploaded_file ( &lt;#string $filename#&gt;, &lt;#string $destination#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BF0C1380-2F1D-4915-B96B-629E953787F0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>move_uploaded_file(string $filename, string $destination)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

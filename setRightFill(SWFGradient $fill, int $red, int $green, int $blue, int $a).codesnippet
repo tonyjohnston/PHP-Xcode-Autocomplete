@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>setRightFill</string>
+	<key>IDECodeSnippetContents</key>
+	<string>setRightFill ( &lt;#SWFGradient $fill#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $a#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>83909588-6816-4040-8E1A-2896881C21EA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>setRightFill(SWFGradient $fill, int $red, int $green, int $blue, int $a)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

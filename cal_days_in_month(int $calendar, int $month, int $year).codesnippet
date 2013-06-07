@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cal_days_in_month</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cal_days_in_month ( &lt;#int $calendar#&gt;, &lt;#int $month#&gt;, &lt;#int $year#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>71A1B80A-6A9D-4F81-84CA-3E0CB72C550D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cal_days_in_month(int $calendar, int $month, int $year)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagedashedline</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagedashedline ( &lt;#resource $image#&gt;, &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;, &lt;#int $color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B42D3636-A34A-4F86-91F4-AFB5E46CB563</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagedashedline(resource $image, int $x1, int $y1, int $x2, int $y2, int $color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

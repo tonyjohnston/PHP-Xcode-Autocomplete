@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_draw_line</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_draw_line ( &lt;#resource $printer_handle#&gt;, &lt;#int $from_x#&gt;, &lt;#int $from_y#&gt;, &lt;#int $to_x#&gt;, &lt;#int $to_y#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>74BDDF75-8DB7-44AB-8302-FAD7C1EF9F91</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_draw_line(resource $printer_handle, int $from_x, int $from_y, int $to_x, int $to_y)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

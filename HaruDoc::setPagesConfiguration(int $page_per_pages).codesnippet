@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruDoc::setPagesConfiguration</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruDoc::setPagesConfiguration ( &lt;#int $page_per_pages#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D9118D18-9062-4436-95B3-CE5B016A5024</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruDoc::setPagesConfiguration(int $page_per_pages)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

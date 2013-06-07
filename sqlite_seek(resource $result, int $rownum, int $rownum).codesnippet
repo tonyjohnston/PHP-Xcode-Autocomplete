@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqlite_seek</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqlite_seek ( &lt;#resource $result#&gt;, &lt;#int $rownum#&gt;, &lt;#int $rownum#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3FBCCB4E-549E-431D-87E5-47840BDA454D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqlite_seek(resource $result, int $rownum, int $rownum)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

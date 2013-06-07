@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::oilPaintImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::oilPaintImage ( &lt;#float $radius#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>51E3760E-59BB-4738-A5DB-5EC313EC9529</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::oilPaintImage(float $radius)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

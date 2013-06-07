@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rad2deg</string>
+	<key>IDECodeSnippetContents</key>
+	<string>rad2deg ( &lt;#float $number#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EEC2D7AC-2DF7-4A39-833D-10B5DDE3FFAF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>rad2deg(float $number)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

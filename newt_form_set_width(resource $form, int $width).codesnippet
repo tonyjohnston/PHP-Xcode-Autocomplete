@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_form_set_width</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_form_set_width ( &lt;#resource $form#&gt;, &lt;#int $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>61D68046-D8D4-4ED6-8BDF-8432F67157E4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_form_set_width(resource $form, int $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

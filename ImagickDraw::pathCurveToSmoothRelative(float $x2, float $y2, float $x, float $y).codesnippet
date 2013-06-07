@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::pathCurveToSmoothRelative</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::pathCurveToSmoothRelative ( &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0332A6D9-1FF7-46A1-97FF-D9A47EC05370</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::pathCurveToSmoothRelative(float $x2, float $y2, float $x, float $y)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

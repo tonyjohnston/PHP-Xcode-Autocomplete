@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fseek</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fseek ( &lt;#resource $handle#&gt;, &lt;#int $offset#&gt;, &lt;#int $whence#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8D11CE4B-1927-4B14-AADE-CBFB48698F61</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fseek(resource $handle, int $offset, int $whence)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_vertical_scrollbar</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_vertical_scrollbar ( &lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#int $height#&gt;, &lt;#int $normal_colorset#&gt;, &lt;#int $thumb_colorset#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C3DD5F2F-43F7-407F-96BA-CC111A4ADE9D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_vertical_scrollbar(int $left, int $top, int $height, int $normal_colorset, int $thumb_colorset)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

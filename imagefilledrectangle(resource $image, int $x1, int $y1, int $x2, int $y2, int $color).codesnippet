@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagefilledrectangle</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagefilledrectangle ( &lt;#resource $image#&gt;, &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;, &lt;#int $color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E8642FE5-6BC8-491E-BBE4-DE2F95417A6D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagefilledrectangle(resource $image, int $x1, int $y1, int $x2, int $y2, int $color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

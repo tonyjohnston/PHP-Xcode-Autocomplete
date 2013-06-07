@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_fill_pdfblock</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_fill_pdfblock ( &lt;#resource $pdfdoc#&gt;, &lt;#int $page#&gt;, &lt;#string $blockname#&gt;, &lt;#int $contents#&gt;, &lt;#string $optlist#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CE100799-C1B1-4D46-AEE6-1A35007F8513</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_fill_pdfblock(resource $pdfdoc, int $page, string $blockname, int $contents, string $optlist)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snmp_set_oid_numeric_print</string>
+	<key>IDECodeSnippetContents</key>
+	<string>snmp_set_oid_numeric_print ( &lt;#int $oid_numeric_print#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>96B82C87-F8AC-4024-9A36-8D3E46D8C585</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>snmp_set_oid_numeric_print(int $oid_numeric_print)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ncurses_getmaxyx</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ncurses_getmaxyx ( &lt;#resource $window#&gt;, &lt;#int &amp;amp;$y#&gt;, &lt;#int &amp;amp;$x#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>83C4C698-486C-4462-8111-0E6712EC447D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ncurses_getmaxyx(resource $window, int &amp;amp;$y, int &amp;amp;$x)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

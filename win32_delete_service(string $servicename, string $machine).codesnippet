@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>win32_delete_service</string>
+	<key>IDECodeSnippetContents</key>
+	<string>win32_delete_service ( &lt;#string $servicename#&gt;, &lt;#string $machine#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D03C3649-5555-453F-9F84-2E74BFEA8DF6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>win32_delete_service(string $servicename, string $machine)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

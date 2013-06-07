@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_svg_surface_create</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_svg_surface_create ( &lt;#string $file#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A2EFAB86-AFA9-4AC0-A107-4BC5C33DCFDC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_svg_surface_create(string $file, float $width, float $height)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

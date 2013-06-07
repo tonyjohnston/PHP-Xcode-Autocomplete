@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_checkbox_tree_set_width</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_checkbox_tree_set_width ( &lt;#resource $checkbox_tree#&gt;, &lt;#int $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6DFCC812-7A57-4610-A5DF-3AFDF6803C49</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_checkbox_tree_set_width(resource $checkbox_tree, int $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

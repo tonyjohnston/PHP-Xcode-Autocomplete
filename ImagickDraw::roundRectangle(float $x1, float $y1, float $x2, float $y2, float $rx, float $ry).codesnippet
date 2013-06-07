@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::roundRectangle</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::roundRectangle ( &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $rx#&gt;, &lt;#float $ry#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9A621D8D-E622-4DF6-9DAC-E7488C1A8AD4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::roundRectangle(float $x1, float $y1, float $x2, float $y2, float $rx, float $ry)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

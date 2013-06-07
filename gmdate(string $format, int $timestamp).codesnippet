@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gmdate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gmdate ( &lt;#string $format#&gt;, &lt;#int $timestamp#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7BCEC56A-5D84-47AA-BAF4-E6370F7EB384</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gmdate(string $format, int $timestamp)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>drawCubicTo</string>
+	<key>IDECodeSnippetContents</key>
+	<string>drawCubicTo ( &lt;#float $bx#&gt;, &lt;#float $by#&gt;, &lt;#float $cx#&gt;, &lt;#float $cy#&gt;, &lt;#float $dx#&gt;, &lt;#float $dy#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5C7DB60C-972E-4A76-A0B9-9EC8EA2A01CE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>drawCubicTo(float $bx, float $by, float $cx, float $cy, float $dx, float $dy)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

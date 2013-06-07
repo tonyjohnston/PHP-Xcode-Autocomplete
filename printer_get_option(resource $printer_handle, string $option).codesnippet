@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_get_option</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_get_option ( &lt;#resource $printer_handle#&gt;, &lt;#string $option#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DF907B5A-E6C9-4F6E-AF23-C753CB8327B3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_get_option(resource $printer_handle, string $option)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

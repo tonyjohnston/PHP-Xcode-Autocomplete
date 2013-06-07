@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_form_set_size</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_form_set_size ( &lt;#resource $form#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CA3C132D-3C89-4DE4-A535-A8FDB40EA7AA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_form_set_size(resource $form)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

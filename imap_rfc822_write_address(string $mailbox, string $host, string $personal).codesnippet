@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imap_rfc822_write_address</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imap_rfc822_write_address ( &lt;#string $mailbox#&gt;, &lt;#string $host#&gt;, &lt;#string $personal#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>187617FB-60E0-4E5C-B054-1AA467725A89</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imap_rfc822_write_address(string $mailbox, string $host, string $personal)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>runkit_method_rename</string>
+	<key>IDECodeSnippetContents</key>
+	<string>runkit_method_rename ( &lt;#string $classname#&gt;, &lt;#string $methodname#&gt;, &lt;#string $newname#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9A643F35-DFED-45FF-9C37-2D25638BD25D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>runkit_method_rename(string $classname, string $methodname, string $newname)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

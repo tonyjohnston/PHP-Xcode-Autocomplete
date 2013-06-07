@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>hwapi_hgcsp</string>
+	<key>IDECodeSnippetContents</key>
+	<string>hwapi_hgcsp ( &lt;#string $hostname#&gt;, &lt;#int $port#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BC743281-87C1-4696-9A7B-608310897424</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>hwapi_hgcsp(string $hostname, int $port)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

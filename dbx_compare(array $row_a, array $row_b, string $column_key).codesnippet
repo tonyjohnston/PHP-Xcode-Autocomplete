@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dbx_compare</string>
+	<key>IDECodeSnippetContents</key>
+	<string>dbx_compare ( &lt;#array $row_a#&gt;, &lt;#array $row_b#&gt;, &lt;#string $column_key#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>08715AE6-16CC-4798-B19F-972407A890FD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>dbx_compare(array $row_a, array $row_b, string $column_key)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

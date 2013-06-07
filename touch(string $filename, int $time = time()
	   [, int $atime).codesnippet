@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>touch</string>
+	<key>IDECodeSnippetContents</key>
+	<string>touch ( &lt;#string $filename#&gt;, &lt;#int $time = time()
+	   [, int $atime#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4096892C-32DF-4274-A4ED-F5BF8F52B71F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>touch(string $filename, int $time = time()
+	   [, int $atime)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

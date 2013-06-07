@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::adaptiveBlurImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::adaptiveBlurImage ( &lt;#float $radius#&gt;, &lt;#float $sigma#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1C361EE2-788D-4751-B3DC-700E09EC6290</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::adaptiveBlurImage(float $radius, float $sigma)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

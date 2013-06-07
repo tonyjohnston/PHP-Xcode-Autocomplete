@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::setRGBStroke</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::setRGBStroke ( &lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F44BE7FB-8B10-49AF-A61B-76FB8F4518F5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::setRGBStroke(float $r, float $g, float $b)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

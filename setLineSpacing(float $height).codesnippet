@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>setLineSpacing</string>
+	<key>IDECodeSnippetContents</key>
+	<string>setLineSpacing ( &lt;#float $height#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2D59B05F-45BC-4DEA-A9D5-60FD6E50EA08</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>setLineSpacing(float $height)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

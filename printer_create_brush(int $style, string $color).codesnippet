@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_create_brush</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_create_brush ( &lt;#int $style#&gt;, &lt;#string $color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>18E3CD10-8A69-4C9B-A32D-FB14C43107F0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_create_brush(int $style, string $color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

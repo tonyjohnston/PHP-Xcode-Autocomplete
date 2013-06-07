@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>nsapi_virtual</string>
+	<key>IDECodeSnippetContents</key>
+	<string>nsapi_virtual ( &lt;#string $uri#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>482783E2-3F6C-4C79-B4FD-29E7A172E37F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>nsapi_virtual(string $uri)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

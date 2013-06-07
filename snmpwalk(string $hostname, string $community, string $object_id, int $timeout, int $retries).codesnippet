@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snmpwalk</string>
+	<key>IDECodeSnippetContents</key>
+	<string>snmpwalk ( &lt;#string $hostname#&gt;, &lt;#string $community#&gt;, &lt;#string $object_id#&gt;, &lt;#int $timeout#&gt;, &lt;#int $retries#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2D97DC47-EF2A-44E6-9B57-35DE68AA88B9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>snmpwalk(string $hostname, string $community, string $object_id, int $timeout, int $retries)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

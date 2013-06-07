@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setImageInterlaceScheme</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setImageInterlaceScheme ( &lt;#int $interlace_scheme#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E5F2A366-F050-4E76-8BC0-9F773DC7B334</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setImageInterlaceScheme(int $interlace_scheme)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_get_screen_size</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_get_screen_size ( &lt;#int &amp;amp;$cols#&gt;, &lt;#int &amp;amp;$rows#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5B76310C-9F03-4746-A5D2-69135BDE9BCF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_get_screen_size(int &amp;amp;$cols, int &amp;amp;$rows)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_lineto</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_lineto ( &lt;#resource $p#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>45FE6736-8A8D-4366-8787-D8B826E953D3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_lineto(resource $p, float $x, float $y)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

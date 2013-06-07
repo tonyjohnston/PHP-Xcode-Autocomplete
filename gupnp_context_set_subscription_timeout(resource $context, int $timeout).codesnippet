@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gupnp_context_set_subscription_timeout</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gupnp_context_set_subscription_timeout ( &lt;#resource $context#&gt;, &lt;#int $timeout#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1781F7DF-6857-4515-AA88-3B267D448C94</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gupnp_context_set_subscription_timeout(resource $context, int $timeout)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

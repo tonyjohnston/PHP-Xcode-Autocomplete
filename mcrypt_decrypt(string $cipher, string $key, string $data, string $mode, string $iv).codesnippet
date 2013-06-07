@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mcrypt_decrypt</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mcrypt_decrypt ( &lt;#string $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#string $mode#&gt;, &lt;#string $iv#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A81FA985-DD65-4CEB-AC86-6B3EA6D8F15D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mcrypt_decrypt(string $cipher, string $key, string $data, string $mode, string $iv)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

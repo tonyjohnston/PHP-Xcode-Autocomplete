@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ZipArchive::renameName</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ZipArchive::renameName ( &lt;#string $name#&gt;, &lt;#string $newname#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1C475993-802B-4F17-8E9C-DE0C206DBA49</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ZipArchive::renameName(string $name, string $newname)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

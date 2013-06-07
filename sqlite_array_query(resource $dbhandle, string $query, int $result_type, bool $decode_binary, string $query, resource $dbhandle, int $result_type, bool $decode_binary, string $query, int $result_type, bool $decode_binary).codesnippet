@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqlite_array_query</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqlite_array_query ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AA7BD106-8011-48C1-AF75-81DA55465150</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqlite_array_query(resource $dbhandle, string $query, int $result_type, bool $decode_binary, string $query, resource $dbhandle, int $result_type, bool $decode_binary, string $query, int $result_type, bool $decode_binary)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

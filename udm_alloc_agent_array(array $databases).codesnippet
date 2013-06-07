@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>udm_alloc_agent_array</string>
+	<key>IDECodeSnippetContents</key>
+	<string>udm_alloc_agent_array ( &lt;#array $databases#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EAD9DB2A-BB6A-4423-B3FA-4B86986BDFB3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>udm_alloc_agent_array(array $databases)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

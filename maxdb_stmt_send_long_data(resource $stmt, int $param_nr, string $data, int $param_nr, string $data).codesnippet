@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>maxdb_stmt_send_long_data</string>
+	<key>IDECodeSnippetContents</key>
+	<string>maxdb_stmt_send_long_data ( &lt;#resource $stmt#&gt;, &lt;#int $param_nr#&gt;, &lt;#string $data#&gt;, &lt;#int $param_nr#&gt;, &lt;#string $data#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1199BA85-9E9F-48DB-8194-5DD11B387CD9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>maxdb_stmt_send_long_data(resource $stmt, int $param_nr, string $data, int $param_nr, string $data)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

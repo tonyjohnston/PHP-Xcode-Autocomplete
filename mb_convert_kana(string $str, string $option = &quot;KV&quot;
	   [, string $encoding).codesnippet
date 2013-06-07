@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mb_convert_kana</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mb_convert_kana ( &lt;#string $str#&gt;, &lt;#string $option = &amp;quot;KV&amp;quot;
+	   [, string $encoding#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F976BE1F-6FB5-4FAA-AB9B-8A8537076425</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mb_convert_kana(string $str, string $option = &amp;quot;KV&amp;quot;
+	   [, string $encoding)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

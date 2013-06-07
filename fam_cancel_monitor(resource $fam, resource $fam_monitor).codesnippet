@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fam_cancel_monitor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fam_cancel_monitor ( &lt;#resource $fam#&gt;, &lt;#resource $fam_monitor#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>731E4D3D-262E-40C1-AD39-B1CF3A758214</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fam_cancel_monitor(resource $fam, resource $fam_monitor)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>w32api_set_call_method</string>
+	<key>IDECodeSnippetContents</key>
+	<string>w32api_set_call_method ( &lt;#int $method#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>26F6C5A7-AD0E-4FEB-B5C9-644B07E069CA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>w32api_set_call_method(int $method)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

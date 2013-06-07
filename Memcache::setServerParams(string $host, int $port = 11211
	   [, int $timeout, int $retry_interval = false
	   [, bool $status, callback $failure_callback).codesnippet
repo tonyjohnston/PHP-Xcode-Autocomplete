@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Memcache::setServerParams</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Memcache::setServerParams ( &lt;#string $host#&gt;, &lt;#int $port = 11211
+	   [, int $timeout#&gt;, &lt;#int $retry_interval = false
+	   [, bool $status#&gt;, &lt;#callback $failure_callback#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8489629A-59A7-41D9-9118-BFC97EAAED39</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Memcache::setServerParams(string $host, int $port = 11211
+	   [, int $timeout, int $retry_interval = false
+	   [, bool $status, callback $failure_callback)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

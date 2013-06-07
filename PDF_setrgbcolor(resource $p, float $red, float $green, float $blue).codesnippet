@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_setrgbcolor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_setrgbcolor ( &lt;#resource $p#&gt;, &lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8ADDF07D-C969-462E-983A-BF4B33092F85</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_setrgbcolor(resource $p, float $red, float $green, float $blue)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqlite_popen</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqlite_popen ( &lt;#string $filename#&gt;, &lt;#int $mode = 0666
+	   [, string &amp;amp;$error_message#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>05673E79-A707-44D1-9C50-6C9DE5180F20</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqlite_popen(string $filename, int $mode = 0666
+	   [, string &amp;amp;$error_message)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

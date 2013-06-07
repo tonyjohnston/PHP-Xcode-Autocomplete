@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_rand_phrase_to_seeds</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_rand_phrase_to_seeds ( &lt;#string $phrase#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8E866BB7-80B8-4ECA-AFF9-C469E60AC8DA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_rand_phrase_to_seeds(string $phrase)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

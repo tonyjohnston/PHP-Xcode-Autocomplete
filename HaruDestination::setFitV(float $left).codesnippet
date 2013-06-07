@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruDestination::setFitV</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruDestination::setFitV ( &lt;#float $left#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>915526FC-C081-456A-99F8-C4C3C8F825A2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruDestination::setFitV(float $left)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

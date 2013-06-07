@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>getservbyname</string>
+	<key>IDECodeSnippetContents</key>
+	<string>getservbyname ( &lt;#string $service#&gt;, &lt;#string $protocol#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>086FC4F8-3121-4691-A9D6-612961A99AB6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>getservbyname(string $service, string $protocol)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

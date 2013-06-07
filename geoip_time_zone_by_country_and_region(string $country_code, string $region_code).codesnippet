@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>geoip_time_zone_by_country_and_region</string>
+	<key>IDECodeSnippetContents</key>
+	<string>geoip_time_zone_by_country_and_region ( &lt;#string $country_code#&gt;, &lt;#string $region_code#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D392805A-BB60-4284-B78E-977D75220124</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>geoip_time_zone_by_country_and_region(string $country_code, string $region_code)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

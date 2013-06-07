@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>date_sun_info</string>
+	<key>IDECodeSnippetContents</key>
+	<string>date_sun_info ( &lt;#int $time#&gt;, &lt;#float $latitude#&gt;, &lt;#float $longitude#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FE7361DD-2909-4E61-969E-6DCF4D54AC01</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>date_sun_info(int $time, float $latitude, float $longitude)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagepng</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagepng ( &lt;#resource $image#&gt;, &lt;#string $filename#&gt;, &lt;#int $quality#&gt;, &lt;#int $filters#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F43F7110-D5D0-4D63-BA44-08E20BC51842</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagepng(resource $image, string $filename, int $quality, int $filters)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

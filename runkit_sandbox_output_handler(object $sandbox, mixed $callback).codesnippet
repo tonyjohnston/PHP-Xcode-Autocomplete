@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>runkit_sandbox_output_handler</string>
+	<key>IDECodeSnippetContents</key>
+	<string>runkit_sandbox_output_handler ( &lt;#object $sandbox#&gt;, &lt;#mixed $callback#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A9F5479F-0E58-4599-ACEA-C78756D113D0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>runkit_sandbox_output_handler(object $sandbox, mixed $callback)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_definepoly</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_definepoly ( &lt;#int $objid#&gt;, &lt;#array $coords#&gt;, &lt;#int $npoints#&gt;, &lt;#float $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CD097C3D-E985-4B93-8FB5-C5C4AB6E8990</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_definepoly(int $objid, array $coords, int $npoints, float $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

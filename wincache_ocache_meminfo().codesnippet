@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>wincache_ocache_meminfo</string>
+	<key>IDECodeSnippetContents</key>
+	<string>wincache_ocache_meminfo (  );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>276C4207-DCBB-4D88-AE20-99B3F782E14A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>wincache_ocache_meminfo()</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

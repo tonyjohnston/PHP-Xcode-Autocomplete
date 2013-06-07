@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fbsql_set_lob_mode</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fbsql_set_lob_mode ( &lt;#resource $result#&gt;, &lt;#int $lob_mode#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3CD746DB-2713-453D-9688-8CC1E218315C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fbsql_set_lob_mode(resource $result, int $lob_mode)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

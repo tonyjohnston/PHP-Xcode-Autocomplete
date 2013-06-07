@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruAnnotation::setBorderStyle</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruAnnotation::setBorderStyle ( &lt;#float $width#&gt;, &lt;#int $dash_on#&gt;, &lt;#int $dash_off#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9D00B8D1-0BD8-4753-B619-5AD64613773E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruAnnotation::setBorderStyle(float $width, int $dash_on, int $dash_off)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

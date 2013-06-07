@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sqliteCreateFunction</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sqliteCreateFunction ( &lt;#string $function_name#&gt;, &lt;#callback $callback#&gt;, &lt;#int $num_args#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D4D7985E-7453-4E1D-86DF-8CCC9FC71AE2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sqliteCreateFunction(string $function_name, callback $callback, int $num_args)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

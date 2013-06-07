@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>inotify_rm_watch</string>
+	<key>IDECodeSnippetContents</key>
+	<string>inotify_rm_watch ( &lt;#resource $inotify_instance#&gt;, &lt;#int $watch_descriptor#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4F0CD55F-4DB5-4D8E-8EAC-8B91E1D896F6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>inotify_rm_watch(resource $inotify_instance, int $watch_descriptor)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

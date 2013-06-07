@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>grapheme_strripos</string>
+	<key>IDECodeSnippetContents</key>
+	<string>grapheme_strripos ( &lt;#string $haystack#&gt;, &lt;#string $needle#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CEB9ABDB-897B-4B78-BC84-E5EA4DB079E7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>grapheme_strripos(string $haystack, string $needle)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HttpResponse::setThrottleDelay</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HttpResponse::setThrottleDelay ( &lt;#float $seconds#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9B0A118C-A739-48E6-8EEE-8B444CAAA059</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HttpResponse::setThrottleDelay(float $seconds)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

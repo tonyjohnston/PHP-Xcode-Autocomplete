@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::distortImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::distortImage ( &lt;#int $method#&gt;, &lt;#array $arguments#&gt;, &lt;#bool $bestfit#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>05491AAD-F00F-403E-928B-E9E7B8F43058</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::distortImage(int $method, array $arguments, bool $bestfit)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

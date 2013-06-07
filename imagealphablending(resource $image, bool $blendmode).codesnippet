@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagealphablending</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagealphablending ( &lt;#resource $image#&gt;, &lt;#bool $blendmode#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3FE6DB54-C346-4D93-8F2B-AA80B3928B72</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagealphablending(resource $image, bool $blendmode)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

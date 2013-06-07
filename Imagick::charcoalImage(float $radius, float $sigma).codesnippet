@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::charcoalImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::charcoalImage ( &lt;#float $radius#&gt;, &lt;#float $sigma#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A5D154A6-7A11-4F3D-B737-DBF112A93FB1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::charcoalImage(float $radius, float $sigma)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

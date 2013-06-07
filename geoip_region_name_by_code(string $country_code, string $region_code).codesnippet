@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>geoip_region_name_by_code</string>
+	<key>IDECodeSnippetContents</key>
+	<string>geoip_region_name_by_code ( &lt;#string $country_code#&gt;, &lt;#string $region_code#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F03A959E-0F3D-47C9-AF2D-B68E8A36D009</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>geoip_region_name_by_code(string $country_code, string $region_code)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

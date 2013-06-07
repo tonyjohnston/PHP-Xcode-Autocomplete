@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_arc</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_arc ( &lt;#resource $p#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;, &lt;#float $r#&gt;, &lt;#float $alpha#&gt;, &lt;#float $beta#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>711941F0-2F82-47AF-9D57-BF13AD34C25F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_arc(resource $p, float $x, float $y, float $r, float $alpha, float $beta)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

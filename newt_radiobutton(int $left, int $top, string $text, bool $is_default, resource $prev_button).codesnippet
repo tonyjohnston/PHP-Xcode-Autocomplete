@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_radiobutton</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_radiobutton ( &lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#string $text#&gt;, &lt;#bool $is_default#&gt;, &lt;#resource $prev_button#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>81590737-495E-45E4-B7D7-926924274F27</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_radiobutton(int $left, int $top, string $text, bool $is_default, resource $prev_button)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

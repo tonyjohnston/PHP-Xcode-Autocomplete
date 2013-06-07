@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::addImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::addImage ( &lt;#Imagick $source#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6506A2AD-212D-4A5D-9AC3-8337F2CFF760</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::addImage(Imagick $source)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

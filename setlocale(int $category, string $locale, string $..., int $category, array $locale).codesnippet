@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>setlocale</string>
+	<key>IDECodeSnippetContents</key>
+	<string>setlocale ( &lt;#int $category#&gt;, &lt;#string $locale#&gt;, &lt;#string $...#&gt;, &lt;#int $category#&gt;, &lt;#array $locale#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>063F5003-F4CA-4F46-8471-300BFC55CA5C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>setlocale(int $category, string $locale, string $..., int $category, array $locale)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

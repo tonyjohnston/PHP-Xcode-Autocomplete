@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>bcompiler_write_constant</string>
+	<key>IDECodeSnippetContents</key>
+	<string>bcompiler_write_constant ( &lt;#resource $filehandle#&gt;, &lt;#string $constantName#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8FE7950D-650A-4E80-B530-E5194FCF99DD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>bcompiler_write_constant(resource $filehandle, string $constantName)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

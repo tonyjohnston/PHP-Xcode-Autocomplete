@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_grid_free</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_grid_free ( &lt;#resource $grid#&gt;, &lt;#bool $recurse#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7471E0D8-5E09-4C32-ACC4-DBA0E615CCBB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_grid_free(resource $grid, bool $recurse)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

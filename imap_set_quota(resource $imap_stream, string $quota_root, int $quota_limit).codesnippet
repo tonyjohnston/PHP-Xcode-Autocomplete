@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imap_set_quota</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imap_set_quota ( &lt;#resource $imap_stream#&gt;, &lt;#string $quota_root#&gt;, &lt;#int $quota_limit#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9EA474A2-827E-478B-8B76-15D90B0FCAE5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imap_set_quota(resource $imap_stream, string $quota_root, int $quota_limit)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

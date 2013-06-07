@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_rand_gen_noncentral_f</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_rand_gen_noncentral_f ( &lt;#float $dfn#&gt;, &lt;#float $dfd#&gt;, &lt;#float $xnonc#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E771D3DC-6D1B-4A07-A1D2-2C4D9ED8B8E4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_rand_gen_noncentral_f(float $dfn, float $dfd, float $xnonc)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

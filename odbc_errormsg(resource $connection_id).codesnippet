@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>odbc_errormsg</string>
+	<key>IDECodeSnippetContents</key>
+	<string>odbc_errormsg ( &lt;#resource $connection_id#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C0DA7DEC-C73B-498D-B355-5A19ACCE311F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>odbc_errormsg(resource $connection_id)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

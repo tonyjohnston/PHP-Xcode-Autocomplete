@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagewbmp</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagewbmp ( &lt;#resource $image#&gt;, &lt;#string $filename#&gt;, &lt;#int $foreground#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CD5DB9C6-BFF4-405D-90CF-19FF659F5335</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagewbmp(resource $image, string $filename, int $foreground)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

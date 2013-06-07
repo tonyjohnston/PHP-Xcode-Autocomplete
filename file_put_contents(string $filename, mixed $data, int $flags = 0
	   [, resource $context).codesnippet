@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>file_put_contents</string>
+	<key>IDECodeSnippetContents</key>
+	<string>file_put_contents ( &lt;#string $filename#&gt;, &lt;#mixed $data#&gt;, &lt;#int $flags = 0
+	   [, resource $context#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E925FC82-F27A-47B8-AFD9-E96AA0A17358</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>file_put_contents(string $filename, mixed $data, int $flags = 0
+	   [, resource $context)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

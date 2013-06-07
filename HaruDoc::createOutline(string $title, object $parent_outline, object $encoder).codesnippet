@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruDoc::createOutline</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruDoc::createOutline ( &lt;#string $title#&gt;, &lt;#object $parent_outline#&gt;, &lt;#object $encoder#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7B7FCCDF-E4A0-4B15-864B-8276A22E26C8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruDoc::createOutline(string $title, object $parent_outline, object $encoder)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

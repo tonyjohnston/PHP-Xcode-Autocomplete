@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stopSound</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stopSound ( &lt;#SWFSound $sount#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2215E612-7C6B-4833-8EF5-20FC91127F59</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stopSound(SWFSound $sount)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

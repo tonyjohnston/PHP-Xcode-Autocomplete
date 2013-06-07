@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stream_socket_server</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stream_socket_server ( &lt;#string $local_socket#&gt;, &lt;#int &amp;amp;$errno#&gt;, &lt;#string &amp;amp;$errstr#&gt;, &lt;#int $flags = STREAM_SERVER_BIND | STREAM_SERVER_LISTEN
+	   [, resource $context#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4AAAEA54-9CE4-4A4F-AEDF-287759866739</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stream_socket_server(string $local_socket, int &amp;amp;$errno, string &amp;amp;$errstr, int $flags = STREAM_SERVER_BIND | STREAM_SERVER_LISTEN
+	   [, resource $context)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ftp_cdup</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ftp_cdup ( &lt;#resource $ftp_stream#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>29A9F617-5A0D-4B6D-AC3C-12B0CA2B91C8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ftp_cdup(resource $ftp_stream)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

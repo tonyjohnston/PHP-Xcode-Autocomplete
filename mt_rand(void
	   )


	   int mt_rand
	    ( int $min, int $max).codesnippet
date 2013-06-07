@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mt_rand</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mt_rand ( &lt;#void
+	   )
+
+
+	   int mt_rand
+	    ( int $min#&gt;, &lt;#int $max#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>564B9E3E-EFFC-4830-BD87-53537C9029BC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mt_rand(void
+	   )
+
+
+	   int mt_rand
+	    ( int $min, int $max)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

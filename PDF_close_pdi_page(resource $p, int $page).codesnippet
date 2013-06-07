@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_close_pdi_page</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_close_pdi_page ( &lt;#resource $p#&gt;, &lt;#int $page#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D7169F01-3380-460D-8EF0-82D17411C0D0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_close_pdi_page(resource $p, int $page)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setImageTicksPerSecond</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setImageTicksPerSecond ( &lt;#int $ticks_per-second#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7ABC5BC5-CC31-4397-A354-C88B2448269E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setImageTicksPerSecond(int $ticks_per-second)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

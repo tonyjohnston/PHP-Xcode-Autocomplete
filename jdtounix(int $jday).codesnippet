@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>jdtounix</string>
+	<key>IDECodeSnippetContents</key>
+	<string>jdtounix ( &lt;#int $jday#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7B89668C-12B8-47E3-8FA4-7F02B1A15059</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>jdtounix(int $jday)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

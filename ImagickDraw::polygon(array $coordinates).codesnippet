@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::polygon</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::polygon ( &lt;#array $coordinates#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3ED49BEF-CEA2-41C9-BCDB-2E12C37ABCDE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::polygon(array $coordinates)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

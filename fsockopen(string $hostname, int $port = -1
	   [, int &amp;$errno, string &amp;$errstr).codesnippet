@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fsockopen</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fsockopen ( &lt;#string $hostname#&gt;, &lt;#int $port = -1
+	   [, int &amp;amp;$errno#&gt;, &lt;#string &amp;amp;$errstr#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>32D15A62-E41C-44A8-8ED8-C75EBD05142F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fsockopen(string $hostname, int $port = -1
+	   [, int &amp;amp;$errno, string &amp;amp;$errstr)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

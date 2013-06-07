@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pcntl_wifsignaled</string>
+	<key>IDECodeSnippetContents</key>
+	<string>pcntl_wifsignaled ( &lt;#int $status#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FCCF7BC3-4E19-4E97-8C05-DB156F685CC6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>pcntl_wifsignaled(int $status)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

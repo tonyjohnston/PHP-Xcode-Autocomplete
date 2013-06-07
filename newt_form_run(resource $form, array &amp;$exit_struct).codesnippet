@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_form_run</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_form_run ( &lt;#resource $form#&gt;, &lt;#array &amp;amp;$exit_struct#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2C5F61C5-203E-48F6-B958-4C5D909DBF8A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_form_run(resource $form, array &amp;amp;$exit_struct)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

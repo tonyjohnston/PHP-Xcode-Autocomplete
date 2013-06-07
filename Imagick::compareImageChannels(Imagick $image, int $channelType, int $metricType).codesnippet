@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::compareImageChannels</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::compareImageChannels ( &lt;#Imagick $image#&gt;, &lt;#int $channelType#&gt;, &lt;#int $metricType#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C7944085-3614-4761-880F-8E3F1E9FB1A9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::compareImageChannels(Imagick $image, int $channelType, int $metricType)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

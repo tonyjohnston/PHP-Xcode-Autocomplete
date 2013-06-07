@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_cdf_gamma</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_cdf_gamma ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#int $which#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>92841C9E-9746-4528-B46C-5F11026B9151</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_cdf_gamma(float $par1, float $par2, float $par3, int $which)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

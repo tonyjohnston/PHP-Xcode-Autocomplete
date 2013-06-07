@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_listbox_set_current_by_key</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_listbox_set_current_by_key ( &lt;#resource $listbox#&gt;, &lt;#mixed $key#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>70EBE828-5C0B-405C-BAC6-402026CFAD1F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_listbox_set_current_by_key(resource $listbox, mixed $key)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

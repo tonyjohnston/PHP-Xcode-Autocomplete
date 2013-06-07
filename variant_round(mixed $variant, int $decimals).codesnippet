@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>variant_round</string>
+	<key>IDECodeSnippetContents</key>
+	<string>variant_round ( &lt;#mixed $variant#&gt;, &lt;#int $decimals#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E8474DB9-A162-470A-92AE-4AC58A60F500</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>variant_round(mixed $variant, int $decimals)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

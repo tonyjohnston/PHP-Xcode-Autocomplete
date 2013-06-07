@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::setSlideShow</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::setSlideShow ( &lt;#int $type#&gt;, &lt;#float $disp_time#&gt;, &lt;#float $trans_time#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D83DA717-9892-4AAE-8E31-0ADD30853A89</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::setSlideShow(int $type, float $disp_time, float $trans_time)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

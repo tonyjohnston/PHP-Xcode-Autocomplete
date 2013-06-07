@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>getmxrr</string>
+	<key>IDECodeSnippetContents</key>
+	<string>getmxrr ( &lt;#string $hostname#&gt;, &lt;#array &amp;amp;$mxhosts#&gt;, &lt;#array &amp;amp;$weight#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>92876A56-4A04-460C-BC6E-F67AB8A74A7A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>getmxrr(string $hostname, array &amp;amp;$mxhosts, array &amp;amp;$weight)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

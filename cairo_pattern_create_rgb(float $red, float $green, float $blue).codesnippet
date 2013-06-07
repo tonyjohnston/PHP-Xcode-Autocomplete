@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_pattern_create_rgb</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_pattern_create_rgb ( &lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B262AC77-E3C9-429C-9FB5-C0199A81DE62</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_pattern_create_rgb(float $red, float $green, float $blue)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

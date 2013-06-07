@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>iis_get_server_by_comment</string>
+	<key>IDECodeSnippetContents</key>
+	<string>iis_get_server_by_comment ( &lt;#string $comment#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7CD37637-A5FD-4625-9108-1664395D2CEB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>iis_get_server_by_comment(string $comment)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

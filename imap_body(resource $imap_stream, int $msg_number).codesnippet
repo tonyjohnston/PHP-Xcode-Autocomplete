@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imap_body</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imap_body ( &lt;#resource $imap_stream#&gt;, &lt;#int $msg_number#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1142E049-5D2A-4AB2-ABA9-DB996FB89F4A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imap_body(resource $imap_stream, int $msg_number)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

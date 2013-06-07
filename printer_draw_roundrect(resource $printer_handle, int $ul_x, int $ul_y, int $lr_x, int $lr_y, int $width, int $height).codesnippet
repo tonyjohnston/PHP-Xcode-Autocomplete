@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_draw_roundrect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_draw_roundrect ( &lt;#resource $printer_handle#&gt;, &lt;#int $ul_x#&gt;, &lt;#int $ul_y#&gt;, &lt;#int $lr_x#&gt;, &lt;#int $lr_y#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>81E6E5E5-9266-44A2-96A5-6CED95E1BF1E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_draw_roundrect(resource $printer_handle, int $ul_x, int $ul_y, int $lr_x, int $lr_y, int $width, int $height)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

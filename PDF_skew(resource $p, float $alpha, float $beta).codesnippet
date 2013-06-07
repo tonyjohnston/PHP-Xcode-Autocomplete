@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_skew</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_skew ( &lt;#resource $p#&gt;, &lt;#float $alpha#&gt;, &lt;#float $beta#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A4F428E4-EB8F-4A4C-85B0-6C87A2333FC9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_skew(resource $p, float $alpha, float $beta)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

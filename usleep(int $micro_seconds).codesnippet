@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>usleep</string>
+	<key>IDECodeSnippetContents</key>
+	<string>usleep ( &lt;#int $micro_seconds#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B07C1AD8-6E06-4A18-B406-60AD0C720C94</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>usleep(int $micro_seconds)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

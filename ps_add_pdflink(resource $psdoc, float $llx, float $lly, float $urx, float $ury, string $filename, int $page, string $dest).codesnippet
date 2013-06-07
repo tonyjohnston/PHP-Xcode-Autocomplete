@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ps_add_pdflink</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ps_add_pdflink ( &lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $filename#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B614623C-3A5E-4144-BAE6-586B3D55CA24</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ps_add_pdflink(resource $psdoc, float $llx, float $lly, float $urx, float $ury, string $filename, int $page, string $dest)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_win_menu</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_win_menu ( &lt;#string $title#&gt;, &lt;#string $text#&gt;, &lt;#int $suggestedWidth#&gt;, &lt;#int $flexDown#&gt;, &lt;#int $flexUp#&gt;, &lt;#int $maxListHeight#&gt;, &lt;#array $items#&gt;, &lt;#int &amp;amp;$listItem#&gt;, &lt;#string $button1#&gt;, &lt;#string $...#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1DF3F404-4D80-4CA6-BE5A-D11E06CFCB27</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_win_menu(string $title, string $text, int $suggestedWidth, int $flexDown, int $flexUp, int $maxListHeight, array $items, int &amp;amp;$listItem, string $button1, string $...)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

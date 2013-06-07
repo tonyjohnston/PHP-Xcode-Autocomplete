@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>iptcembed</string>
+	<key>IDECodeSnippetContents</key>
+	<string>iptcembed ( &lt;#string $iptcdata#&gt;, &lt;#string $jpeg_file_name#&gt;, &lt;#int $spool#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EF3D8D7B-FE97-4006-BC23-8681F7CBA46C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>iptcembed(string $iptcdata, string $jpeg_file_name, int $spool)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

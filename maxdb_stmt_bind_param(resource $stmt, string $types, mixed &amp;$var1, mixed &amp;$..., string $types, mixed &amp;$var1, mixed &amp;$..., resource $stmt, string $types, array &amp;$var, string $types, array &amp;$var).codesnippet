@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>maxdb_stmt_bind_param</string>
+	<key>IDECodeSnippetContents</key>
+	<string>maxdb_stmt_bind_param ( &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;amp;$var1#&gt;, &lt;#mixed &amp;amp;$...#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;amp;$var1#&gt;, &lt;#mixed &amp;amp;$...#&gt;, &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;amp;$var#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;amp;$var#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7B97260C-5F4C-418E-92F0-3C762AFDA375</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>maxdb_stmt_bind_param(resource $stmt, string $types, mixed &amp;amp;$var1, mixed &amp;amp;$..., string $types, mixed &amp;amp;$var1, mixed &amp;amp;$..., resource $stmt, string $types, array &amp;amp;$var, string $types, array &amp;amp;$var)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

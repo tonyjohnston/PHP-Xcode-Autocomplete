@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_delete_pen</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_delete_pen ( &lt;#resource $pen_handle#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8E09D60C-1C54-43ED-AAD2-F94EDD6FE935</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_delete_pen(resource $pen_handle)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

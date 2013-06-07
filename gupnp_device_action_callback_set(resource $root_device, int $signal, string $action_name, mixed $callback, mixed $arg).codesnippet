@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gupnp_device_action_callback_set</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gupnp_device_action_callback_set ( &lt;#resource $root_device#&gt;, &lt;#int $signal#&gt;, &lt;#string $action_name#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AE12CBD8-AEEB-47E3-B211-DA5517453241</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gupnp_device_action_callback_set(resource $root_device, int $signal, string $action_name, mixed $callback, mixed $arg)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_matrix_rotate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_matrix_rotate ( &lt;#CairoMatrix $matrix#&gt;, &lt;#string $radians#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D5C15495-E229-429C-9835-FD79E03F968E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_matrix_rotate(CairoMatrix $matrix, string $radians)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

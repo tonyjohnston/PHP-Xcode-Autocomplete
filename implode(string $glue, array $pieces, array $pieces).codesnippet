@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>implode</string>
+	<key>IDECodeSnippetContents</key>
+	<string>implode ( &lt;#string $glue#&gt;, &lt;#array $pieces#&gt;, &lt;#array $pieces#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F9C12F00-B36F-489A-8141-EF9009D9ABB3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>implode(string $glue, array $pieces, array $pieces)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

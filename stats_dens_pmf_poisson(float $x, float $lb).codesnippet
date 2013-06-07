@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_dens_pmf_poisson</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_dens_pmf_poisson ( &lt;#float $x#&gt;, &lt;#float $lb#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>28F6DD11-697F-461A-B85C-B46E23BAA069</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_dens_pmf_poisson(float $x, float $lb)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

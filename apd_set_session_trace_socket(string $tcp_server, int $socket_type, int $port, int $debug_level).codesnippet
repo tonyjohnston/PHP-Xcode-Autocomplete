@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>apd_set_session_trace_socket</string>
+	<key>IDECodeSnippetContents</key>
+	<string>apd_set_session_trace_socket ( &lt;#string $tcp_server#&gt;, &lt;#int $socket_type#&gt;, &lt;#int $port#&gt;, &lt;#int $debug_level#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>49D3A22C-351F-4B4A-96E8-DC4D1B955EE2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>apd_set_session_trace_socket(string $tcp_server, int $socket_type, int $port, int $debug_level)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

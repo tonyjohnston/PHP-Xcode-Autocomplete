@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setStrokeLineCap</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setStrokeLineCap ( &lt;#int $linecap#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B68B9B99-7FB0-4AD3-BD54-C2C0BD55EFF8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setStrokeLineCap(int $linecap)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

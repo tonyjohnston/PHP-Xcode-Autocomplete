@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>event_base_priority_init</string>
+	<key>IDECodeSnippetContents</key>
+	<string>event_base_priority_init ( &lt;#resource $event_base#&gt;, &lt;#int $npriorities#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>191398C1-62D8-4B72-ABEC-0A85CC3AFE7D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>event_base_priority_init(resource $event_base, int $npriorities)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

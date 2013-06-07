@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>id3_get_genre_name</string>
+	<key>IDECodeSnippetContents</key>
+	<string>id3_get_genre_name ( &lt;#int $genre_id#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>ACF2C892-597C-465B-92FC-8730B15A9171</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>id3_get_genre_name(int $genre_id)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>SDO_Sequence::insert</string>
+	<key>IDECodeSnippetContents</key>
+	<string>SDO_Sequence::insert ( &lt;#mixed $value#&gt;, &lt;#int $sequenceIndex#&gt;, &lt;#mixed $propertyIdentifier#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FD5D0FC5-A482-4968-9AF7-8F1A2A45BBC8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SDO_Sequence::insert(mixed $value, int $sequenceIndex, mixed $propertyIdentifier)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

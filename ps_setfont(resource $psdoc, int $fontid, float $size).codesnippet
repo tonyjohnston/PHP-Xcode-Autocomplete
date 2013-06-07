@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ps_setfont</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ps_setfont ( &lt;#resource $psdoc#&gt;, &lt;#int $fontid#&gt;, &lt;#float $size#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DB32DB25-1929-4AEE-AAA5-0B7F998BECD9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ps_setfont(resource $psdoc, int $fontid, float $size)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

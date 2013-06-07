@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_image_surface_create_for_data</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_image_surface_create_for_data ( &lt;#string $data#&gt;, &lt;#int $format#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CABF2324-CDDD-4D40-A363-03B8C2B07C67</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_image_surface_create_for_data(string $data, int $format, int $width, int $height)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

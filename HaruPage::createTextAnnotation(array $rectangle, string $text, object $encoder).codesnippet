@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::createTextAnnotation</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::createTextAnnotation ( &lt;#array $rectangle#&gt;, &lt;#string $text#&gt;, &lt;#object $encoder#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DB3443BD-2432-47CF-B9DB-F8231A345737</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::createTextAnnotation(array $rectangle, string $text, object $encoder)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

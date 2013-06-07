@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>flock</string>
+	<key>IDECodeSnippetContents</key>
+	<string>flock ( &lt;#resource $handle#&gt;, &lt;#int $operation#&gt;, &lt;#int &amp;amp;$wouldblock#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B80632A1-C791-4180-AC7B-5F0EB960008C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>flock(resource $handle, int $operation, int &amp;amp;$wouldblock)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

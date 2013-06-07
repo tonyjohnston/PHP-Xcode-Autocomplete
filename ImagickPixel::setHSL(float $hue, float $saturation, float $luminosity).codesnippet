@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickPixel::setHSL</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickPixel::setHSL ( &lt;#float $hue#&gt;, &lt;#float $saturation#&gt;, &lt;#float $luminosity#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0D906936-8EB7-4188-93F3-BA0EDFE8F1E6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickPixel::setHSL(float $hue, float $saturation, float $luminosity)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

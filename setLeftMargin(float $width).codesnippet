@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>setLeftMargin</string>
+	<key>IDECodeSnippetContents</key>
+	<string>setLeftMargin ( &lt;#float $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>38271FEE-5C49-46DF-8AA6-C67D3B2DF7BB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>setLeftMargin(float $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

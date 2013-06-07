@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>setMaskLevel</string>
+	<key>IDECodeSnippetContents</key>
+	<string>setMaskLevel ( &lt;#int $level#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5B8D7D21-F653-4076-BFC5-E3FCAC7D85D8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>setMaskLevel(int $level)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

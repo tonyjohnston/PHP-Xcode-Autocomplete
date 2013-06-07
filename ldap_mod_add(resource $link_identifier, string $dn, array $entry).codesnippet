@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ldap_mod_add</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ldap_mod_add ( &lt;#resource $link_identifier#&gt;, &lt;#string $dn#&gt;, &lt;#array $entry#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>64C345D7-8D10-474C-B25A-A40A0FF307C6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ldap_mod_add(resource $link_identifier, string $dn, array $entry)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

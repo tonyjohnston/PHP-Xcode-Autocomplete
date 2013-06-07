@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_cdf_weibull</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_cdf_weibull ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#int $which#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A666E681-E558-4202-9D1C-5063EBCF1E7F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_cdf_weibull(float $par1, float $par2, float $par3, int $which)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

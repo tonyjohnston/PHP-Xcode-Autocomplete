@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_setlinejoin</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_setlinejoin ( &lt;#resource $p#&gt;, &lt;#int $value#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CCCAAA2C-4155-45FE-B41B-A70E2BAA200B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_setlinejoin(resource $p, int $value)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

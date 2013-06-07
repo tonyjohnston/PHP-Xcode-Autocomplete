@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>db2_foreign_keys</string>
+	<key>IDECodeSnippetContents</key>
+	<string>db2_foreign_keys ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C8A384F2-A8F8-44AB-B2B2-48035378D055</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>db2_foreign_keys(resource $connection, string $qualifier, string $schema, string $table-name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

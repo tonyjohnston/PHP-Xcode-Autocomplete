@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ssh2_publickey_list</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ssh2_publickey_list ( &lt;#resource $pkey#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>95612082-6C82-48BC-AD27-B8C56EF9EE1E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ssh2_publickey_list(resource $pkey)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

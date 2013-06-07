@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setResourceLimit</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setResourceLimit ( &lt;#int $type#&gt;, &lt;#int $limit#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6F64046F-65A6-4DDC-AAAB-1C595B55FFBD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setResourceLimit(int $type, int $limit)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

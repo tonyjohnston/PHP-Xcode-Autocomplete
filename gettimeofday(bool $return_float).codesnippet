@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gettimeofday</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gettimeofday ( &lt;#bool $return_float#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6427DEB5-9E35-4A98-B5E4-A47F5AE61D56</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gettimeofday(bool $return_float)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

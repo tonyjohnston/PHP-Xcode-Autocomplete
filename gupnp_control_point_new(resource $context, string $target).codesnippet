@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gupnp_control_point_new</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gupnp_control_point_new ( &lt;#resource $context#&gt;, &lt;#string $target#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E25A3747-058C-4F94-8B72-CAE560BD4DF6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gupnp_control_point_new(resource $context, string $target)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

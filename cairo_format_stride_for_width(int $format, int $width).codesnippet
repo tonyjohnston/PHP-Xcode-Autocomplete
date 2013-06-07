@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_format_stride_for_width</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_format_stride_for_width ( &lt;#int $format#&gt;, &lt;#int $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CD2CF5AD-B7B1-4A44-8DE4-8C524D3E6A55</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_format_stride_for_width(int $format, int $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ibase_restore</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ibase_restore ( &lt;#resource $service_handle#&gt;, &lt;#string $source_file#&gt;, &lt;#string $dest_db#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E2337190-B17D-4697-9171-5ABBC8F52ABE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ibase_restore(resource $service_handle, string $source_file, string $dest_db)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

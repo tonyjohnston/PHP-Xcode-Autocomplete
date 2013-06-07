@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mqseries_set</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mqseries_set ( &lt;#resource $hconn#&gt;, &lt;#resource $hobj#&gt;, &lt;#int $selectorcount#&gt;, &lt;#array $selectors#&gt;, &lt;#int $intattrcount#&gt;, &lt;#array $intattrs#&gt;, &lt;#int $charattrlength#&gt;, &lt;#array $charattrs#&gt;, &lt;#resource &amp;amp;$compCode#&gt;, &lt;#resource &amp;amp;$reason#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7D3FAFE2-D16B-4726-A362-1BE38C3435CB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mqseries_set(resource $hconn, resource $hobj, int $selectorcount, array $selectors, int $intattrcount, array $intattrs, int $charattrlength, array $charattrs, resource &amp;amp;$compCode, resource &amp;amp;$reason)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

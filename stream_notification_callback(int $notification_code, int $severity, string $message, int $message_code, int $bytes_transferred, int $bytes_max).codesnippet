@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stream_notification_callback</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stream_notification_callback ( &lt;#int $notification_code#&gt;, &lt;#int $severity#&gt;, &lt;#string $message#&gt;, &lt;#int $message_code#&gt;, &lt;#int $bytes_transferred#&gt;, &lt;#int $bytes_max#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BF538DA2-1A35-4194-8075-E9C5EB445C6D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stream_notification_callback(int $notification_code, int $severity, string $message, int $message_code, int $bytes_transferred, int $bytes_max)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

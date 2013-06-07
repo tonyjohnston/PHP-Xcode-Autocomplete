@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mcrypt_enc_get_modes_name</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mcrypt_enc_get_modes_name ( &lt;#resource $td#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>77BB93AF-FF53-40FB-AEBA-F3B63E4F7551</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mcrypt_enc_get_modes_name(resource $td)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

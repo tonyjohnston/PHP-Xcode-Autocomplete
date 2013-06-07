@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>calcul_hmac</string>
+	<key>IDECodeSnippetContents</key>
+	<string>calcul_hmac ( &lt;#string $clent#&gt;, &lt;#string $siretcode#&gt;, &lt;#string $price#&gt;, &lt;#string $reference#&gt;, &lt;#string $validity#&gt;, &lt;#string $taxation#&gt;, &lt;#string $devise#&gt;, &lt;#string $language#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>40BE55DB-301E-4EAE-97C6-DCF709E9A65C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>calcul_hmac(string $clent, string $siretcode, string $price, string $reference, string $validity, string $taxation, string $devise, string $language)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

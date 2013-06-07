@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ps_rotate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ps_rotate ( &lt;#resource $psdoc#&gt;, &lt;#float $rot#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8D6F7530-D6B5-441C-93A0-7BE019A0411D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ps_rotate(resource $psdoc, float $rot)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

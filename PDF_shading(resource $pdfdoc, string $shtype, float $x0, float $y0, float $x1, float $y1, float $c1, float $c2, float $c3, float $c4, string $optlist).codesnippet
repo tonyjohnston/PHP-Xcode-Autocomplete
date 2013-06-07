@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_shading</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_shading ( &lt;#resource $pdfdoc#&gt;, &lt;#string $shtype#&gt;, &lt;#float $x0#&gt;, &lt;#float $y0#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $c1#&gt;, &lt;#float $c2#&gt;, &lt;#float $c3#&gt;, &lt;#float $c4#&gt;, &lt;#string $optlist#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D95FB2C6-325A-4123-BD48-C30B444685DE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_shading(resource $pdfdoc, string $shtype, float $x0, float $y0, float $x1, float $y1, float $c1, float $c2, float $c3, float $c4, string $optlist)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

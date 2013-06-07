@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::pathLineToHorizontalAbsolute</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::pathLineToHorizontalAbsolute ( &lt;#float $x#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>83C9C6A4-CC58-4FF3-92B9-CE0E7B53DF34</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::pathLineToHorizontalAbsolute(float $x)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

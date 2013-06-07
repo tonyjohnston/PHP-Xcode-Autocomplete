@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::shearImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::shearImage ( &lt;#mixed $background#&gt;, &lt;#float $x_shear#&gt;, &lt;#float $y_shear#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B3B00CB4-C7C7-48CA-8B64-B0A4BACCD8CB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::shearImage(mixed $background, float $x_shear, float $y_shear)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

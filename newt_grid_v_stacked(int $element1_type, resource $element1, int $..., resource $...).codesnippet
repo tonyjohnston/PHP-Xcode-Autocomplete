@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_grid_v_stacked</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_grid_v_stacked ( &lt;#int $element1_type#&gt;, &lt;#resource $element1#&gt;, &lt;#int $...#&gt;, &lt;#resource $...#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>98B7864D-E761-4DAD-B76D-5950B665328F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_grid_v_stacked(int $element1_type, resource $element1, int $..., resource $...)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

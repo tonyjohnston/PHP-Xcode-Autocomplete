@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>printer_logical_fontheight</string>
+	<key>IDECodeSnippetContents</key>
+	<string>printer_logical_fontheight ( &lt;#resource $printer_handle#&gt;, &lt;#int $height#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>69DD4965-4BAA-4554-ABCF-D810294A6C4F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>printer_logical_fontheight(resource $printer_handle, int $height)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

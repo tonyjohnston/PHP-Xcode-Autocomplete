@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>multColor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>multColor ( &lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt;, &lt;#float $a#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6414B53B-78E7-45C6-AD94-EECC63A7200E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>multColor(float $red, float $green, float $blue, float $a)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

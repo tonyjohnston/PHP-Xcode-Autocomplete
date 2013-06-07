@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>db2_procedures</string>
+	<key>IDECodeSnippetContents</key>
+	<string>db2_procedures ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $procedure#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6D9CDCDF-BAF9-4FF2-AD92-623D9ED82B5A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>db2_procedures(resource $connection, string $qualifier, string $schema, string $procedure)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

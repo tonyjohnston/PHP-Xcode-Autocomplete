@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>apd_breakpoint</string>
+	<key>IDECodeSnippetContents</key>
+	<string>apd_breakpoint ( &lt;#int $debug_level#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7D51538B-92D3-4929-AF42-637C5AA2C04A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>apd_breakpoint(int $debug_level)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

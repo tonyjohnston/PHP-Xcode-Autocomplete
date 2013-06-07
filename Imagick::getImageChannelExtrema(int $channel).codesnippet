@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::getImageChannelExtrema</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::getImageChannelExtrema ( &lt;#int $channel#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DFDC08B8-81F0-47C0-85A7-76508B96B903</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::getImageChannelExtrema(int $channel)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

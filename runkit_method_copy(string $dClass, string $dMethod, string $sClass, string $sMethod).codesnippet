@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>runkit_method_copy</string>
+	<key>IDECodeSnippetContents</key>
+	<string>runkit_method_copy ( &lt;#string $dClass#&gt;, &lt;#string $dMethod#&gt;, &lt;#string $sClass#&gt;, &lt;#string $sMethod#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1395C69E-29E2-4BDE-944E-496AC2432800</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>runkit_method_copy(string $dClass, string $dMethod, string $sClass, string $sMethod)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

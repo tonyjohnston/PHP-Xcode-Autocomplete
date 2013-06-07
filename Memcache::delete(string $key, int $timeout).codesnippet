@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Memcache::delete</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Memcache::delete ( &lt;#string $key#&gt;, &lt;#int $timeout#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5743B95C-4FE2-440A-8007-FE177E2A7F90</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Memcache::delete(string $key, int $timeout)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

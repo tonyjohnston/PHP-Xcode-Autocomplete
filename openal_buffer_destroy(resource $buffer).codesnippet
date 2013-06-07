@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>openal_buffer_destroy</string>
+	<key>IDECodeSnippetContents</key>
+	<string>openal_buffer_destroy ( &lt;#resource $buffer#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FB19807F-C69F-485B-929A-3AB44D13B4FA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>openal_buffer_destroy(resource $buffer)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

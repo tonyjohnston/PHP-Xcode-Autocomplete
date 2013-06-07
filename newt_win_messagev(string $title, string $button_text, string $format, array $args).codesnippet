@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_win_messagev</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_win_messagev ( &lt;#string $title#&gt;, &lt;#string $button_text#&gt;, &lt;#string $format#&gt;, &lt;#array $args#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3A79C9B6-15AC-4E4B-8538-B058C6FD0EA5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_win_messagev(string $title, string $button_text, string $format, array $args)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

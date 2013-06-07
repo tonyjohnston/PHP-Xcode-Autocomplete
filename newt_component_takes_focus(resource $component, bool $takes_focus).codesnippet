@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_component_takes_focus</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_component_takes_focus ( &lt;#resource $component#&gt;, &lt;#bool $takes_focus#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>79CE91BE-ECEA-4B78-9F11-458D84DAE392</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_component_takes_focus(resource $component, bool $takes_focus)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

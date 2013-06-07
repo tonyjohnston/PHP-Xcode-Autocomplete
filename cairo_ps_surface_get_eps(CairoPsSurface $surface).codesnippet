@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_ps_surface_get_eps</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_ps_surface_get_eps ( &lt;#CairoPsSurface $surface#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>43770482-E2A8-457B-9B2F-829D38E5F57A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_ps_surface_get_eps(CairoPsSurface $surface)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

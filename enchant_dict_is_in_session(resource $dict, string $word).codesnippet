@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>enchant_dict_is_in_session</string>
+	<key>IDECodeSnippetContents</key>
+	<string>enchant_dict_is_in_session ( &lt;#resource $dict#&gt;, &lt;#string $word#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3972687E-6D7E-480A-A735-6E292C7B885A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>enchant_dict_is_in_session(resource $dict, string $word)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

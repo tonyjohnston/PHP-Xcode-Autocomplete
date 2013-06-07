@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>array_diff_uassoc</string>
+	<key>IDECodeSnippetContents</key>
+	<string>array_diff_uassoc ( &lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $...#&gt;, &lt;#callback $key_compare_func#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9597668D-93E3-431E-9BBB-126D849168A3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>array_diff_uassoc(array $array1, array $array2, array $..., callback $key_compare_func)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

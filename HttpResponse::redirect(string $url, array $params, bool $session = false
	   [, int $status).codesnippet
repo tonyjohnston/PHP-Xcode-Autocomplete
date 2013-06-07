@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HttpResponse::redirect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HttpResponse::redirect ( &lt;#string $url#&gt;, &lt;#array $params#&gt;, &lt;#bool $session = false
+	   [, int $status#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B2167DE4-36AA-4198-ABAB-6511C5839CB8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HttpResponse::redirect(string $url, array $params, bool $session = false
+	   [, int $status)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

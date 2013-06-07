@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagesetthickness</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagesetthickness ( &lt;#resource $image#&gt;, &lt;#int $thickness#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EF89C5F4-55A5-4C4F-8C3B-3F2C8FEA74BC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagesetthickness(resource $image, int $thickness)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

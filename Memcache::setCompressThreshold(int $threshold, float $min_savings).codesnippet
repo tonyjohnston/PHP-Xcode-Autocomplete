@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Memcache::setCompressThreshold</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Memcache::setCompressThreshold ( &lt;#int $threshold#&gt;, &lt;#float $min_savings#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E7CB55BD-758A-478E-9B97-1B7776BC4585</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Memcache::setCompressThreshold(int $threshold, float $min_savings)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setStrokeMiterLimit</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setStrokeMiterLimit ( &lt;#int $miterlimit#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3C2612D5-36F9-480C-8AAE-908607C7B2E4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setStrokeMiterLimit(int $miterlimit)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

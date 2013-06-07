@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>date_default_timezone_set</string>
+	<key>IDECodeSnippetContents</key>
+	<string>date_default_timezone_set ( &lt;#string $timezone_identifier#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D929CD1C-AE24-4414-9FA3-D830B7D79932</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>date_default_timezone_set(string $timezone_identifier)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::skewX</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::skewX ( &lt;#float $degrees#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C3E9E5E4-C4C2-4ADC-91A8-8C09380DDEE4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::skewX(float $degrees)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

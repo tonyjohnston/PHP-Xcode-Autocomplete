@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imageconvolution</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imageconvolution ( &lt;#resource $image#&gt;, &lt;#array $matrix#&gt;, &lt;#float $div#&gt;, &lt;#float $offset#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>58D3BF37-FF33-43E6-8D13-469B25A77553</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imageconvolution(resource $image, array $matrix, float $div, float $offset)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

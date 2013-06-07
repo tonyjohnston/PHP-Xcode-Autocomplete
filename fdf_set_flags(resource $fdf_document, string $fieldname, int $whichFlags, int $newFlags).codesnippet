@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fdf_set_flags</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fdf_set_flags ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $whichFlags#&gt;, &lt;#int $newFlags#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>366D0CBF-4B5B-42D5-8C57-CA11893946B3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fdf_set_flags(resource $fdf_document, string $fieldname, int $whichFlags, int $newFlags)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

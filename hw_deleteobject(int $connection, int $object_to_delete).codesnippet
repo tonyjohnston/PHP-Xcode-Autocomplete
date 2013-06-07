@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>hw_deleteobject</string>
+	<key>IDECodeSnippetContents</key>
+	<string>hw_deleteobject ( &lt;#int $connection#&gt;, &lt;#int $object_to_delete#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1134229D-F404-4B78-96B0-CCDD52542EB4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>hw_deleteobject(int $connection, int $object_to_delete)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

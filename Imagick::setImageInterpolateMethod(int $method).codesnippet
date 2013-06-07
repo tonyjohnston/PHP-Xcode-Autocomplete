@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setImageInterpolateMethod</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setImageInterpolateMethod ( &lt;#int $method#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FB093CA9-E1F2-4415-B6C8-7B97C8FEE78A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setImageInterpolateMethod(int $method)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

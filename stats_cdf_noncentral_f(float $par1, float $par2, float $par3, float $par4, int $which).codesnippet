@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_cdf_noncentral_f</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_cdf_noncentral_f ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#float $par4#&gt;, &lt;#int $which#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1CB65B4C-40E0-4F1B-B584-E352E651257C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_cdf_noncentral_f(float $par1, float $par2, float $par3, float $par4, int $which)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

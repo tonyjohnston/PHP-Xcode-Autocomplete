@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>enchant_broker_set_ordering</string>
+	<key>IDECodeSnippetContents</key>
+	<string>enchant_broker_set_ordering ( &lt;#resource $broker#&gt;, &lt;#string $tag#&gt;, &lt;#string $ordering#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>563F692C-B0FB-4475-AD3A-0675E1E81009</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>enchant_broker_set_ordering(resource $broker, string $tag, string $ordering)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

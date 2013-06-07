@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>readline_callback_handler_install</string>
+	<key>IDECodeSnippetContents</key>
+	<string>readline_callback_handler_install ( &lt;#string $prompt#&gt;, &lt;#callback $callback#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>32A24AFE-1C8A-4EE7-8405-7CFC7E370198</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>readline_callback_handler_install(string $prompt, callback $callback)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

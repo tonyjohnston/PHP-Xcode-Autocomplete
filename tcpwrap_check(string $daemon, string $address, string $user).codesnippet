@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tcpwrap_check</string>
+	<key>IDECodeSnippetContents</key>
+	<string>tcpwrap_check ( &lt;#string $daemon#&gt;, &lt;#string $address#&gt;, &lt;#string $user#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>896DF68F-FE49-4A35-9556-A0CB7681F683</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>tcpwrap_check(string $daemon, string $address, string $user)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

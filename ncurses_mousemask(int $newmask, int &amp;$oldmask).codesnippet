@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ncurses_mousemask</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ncurses_mousemask ( &lt;#int $newmask#&gt;, &lt;#int &amp;amp;$oldmask#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>32591646-D95D-43D2-8FD9-D0F8D48503E6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ncurses_mousemask(int $newmask, int &amp;amp;$oldmask)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

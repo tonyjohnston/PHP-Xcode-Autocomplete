@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::solarizeImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::solarizeImage ( &lt;#int $threshold#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2EA11FE2-3778-479C-8F88-9F5898405AA4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::solarizeImage(int $threshold)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

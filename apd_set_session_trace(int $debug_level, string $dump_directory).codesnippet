@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>apd_set_session_trace</string>
+	<key>IDECodeSnippetContents</key>
+	<string>apd_set_session_trace ( &lt;#int $debug_level#&gt;, &lt;#string $dump_directory#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2FEC2E48-EA13-4246-ABC2-B9701DEC23E4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>apd_set_session_trace(int $debug_level, string $dump_directory)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

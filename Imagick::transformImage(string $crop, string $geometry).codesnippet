@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::transformImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::transformImage ( &lt;#string $crop#&gt;, &lt;#string $geometry#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>23985EFA-F8F4-44BC-B960-344C4AD27327</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::transformImage(string $crop, string $geometry)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

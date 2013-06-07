@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ssh2_connect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ssh2_connect ( &lt;#string $host#&gt;, &lt;#int $port = 22
+	   [, array $methods#&gt;, &lt;#array $callbacks#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>35DEDE82-A894-46F6-921C-B62C60EE664F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ssh2_connect(string $host, int $port = 22
+	   [, array $methods, array $callbacks)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

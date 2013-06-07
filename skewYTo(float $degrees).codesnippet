@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>skewYTo</string>
+	<key>IDECodeSnippetContents</key>
+	<string>skewYTo ( &lt;#float $degrees#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>166691B8-4E22-44B7-BD50-9AE6FD09982A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>skewYTo(float $degrees)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

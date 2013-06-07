@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::morphImages</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::morphImages ( &lt;#int $number_frames#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1295A885-CD38-448A-9E5F-1BDF64C6201D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::morphImages(int $number_frames)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

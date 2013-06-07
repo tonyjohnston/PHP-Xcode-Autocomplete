@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ps_add_locallink</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ps_add_locallink ( &lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>76B6FD73-A57C-429F-B185-EE7752450174</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ps_add_locallink(resource $psdoc, float $llx, float $lly, float $urx, float $ury, int $page, string $dest)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

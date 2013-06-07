@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>radius_demangle_mppe_key</string>
+	<key>IDECodeSnippetContents</key>
+	<string>radius_demangle_mppe_key ( &lt;#resource $radius_handle#&gt;, &lt;#string $mangled#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>80C4D323-B0A9-4967-A508-732449697326</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>radius_demangle_mppe_key(resource $radius_handle, string $mangled)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

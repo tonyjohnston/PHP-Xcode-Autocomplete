@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>classkit_method_add</string>
+	<key>IDECodeSnippetContents</key>
+	<string>classkit_method_add ( &lt;#string $classname#&gt;, &lt;#string $methodname#&gt;, &lt;#string $args#&gt;, &lt;#string $code#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3D056186-259B-4AE8-BC61-EBF9278EB7A7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>classkit_method_add(string $classname, string $methodname, string $args, string $code)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_create_grid</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_create_grid ( &lt;#int $cols#&gt;, &lt;#int $rows#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1F4430D7-09E3-4C95-9872-71171C04B549</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_create_grid(int $cols, int $rows)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

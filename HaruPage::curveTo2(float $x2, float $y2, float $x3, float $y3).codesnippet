@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::curveTo2</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::curveTo2 ( &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x3#&gt;, &lt;#float $y3#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B47FB661-3CF8-4541-9B98-46965B735DC9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::curveTo2(float $x2, float $y2, float $x3, float $y3)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

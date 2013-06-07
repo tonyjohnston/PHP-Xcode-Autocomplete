@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDO::pgsqlLOBUnlink</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDO::pgsqlLOBUnlink ( &lt;#string $oid#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>693984B6-C72C-4D2C-B85F-9AD7A4BDE254</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDO::pgsqlLOBUnlink(string $oid)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

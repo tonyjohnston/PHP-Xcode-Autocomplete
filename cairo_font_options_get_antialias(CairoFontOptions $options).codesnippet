@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_font_options_get_antialias</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_font_options_get_antialias ( &lt;#CairoFontOptions $options#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D050CDE7-1708-4A7F-BF5F-28957CC470CB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_font_options_get_antialias(CairoFontOptions $options)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

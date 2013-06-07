@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>svn_fs_copy</string>
+	<key>IDECodeSnippetContents</key>
+	<string>svn_fs_copy ( &lt;#resource $from_root#&gt;, &lt;#string $from_path#&gt;, &lt;#resource $to_root#&gt;, &lt;#string $to_path#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E272E910-D93D-4286-A636-DD186EEAFF47</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>svn_fs_copy(resource $from_root, string $from_path, resource $to_root, string $to_path)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

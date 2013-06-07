@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>addFill</string>
+	<key>IDECodeSnippetContents</key>
+	<string>addFill ( &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $alpha = 255
+	   ] )
+
+
+	    SWFFill addFill
+	     ( SWFBitmap $bitmap#&gt;, &lt;#int $flags#&gt;, &lt;#SWFGradient $gradient#&gt;, &lt;#int $flags#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AF3C3D51-D7F7-4C71-963C-F05F6DBA0F89</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>addFill(int $red, int $green, int $blue, int $alpha = 255
+	   ] )
+
+
+	    SWFFill addFill
+	     ( SWFBitmap $bitmap, int $flags, SWFGradient $gradient, int $flags)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

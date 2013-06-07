@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagerotate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagerotate ( &lt;#resource $image#&gt;, &lt;#float $angle#&gt;, &lt;#int $bgd_color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8AAAF3E4-7D04-4E50-A574-A1E88725D908</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagerotate(resource $image, float $angle, int $bgd_color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

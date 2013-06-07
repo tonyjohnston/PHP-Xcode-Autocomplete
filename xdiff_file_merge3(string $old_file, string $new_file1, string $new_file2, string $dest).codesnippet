@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xdiff_file_merge3</string>
+	<key>IDECodeSnippetContents</key>
+	<string>xdiff_file_merge3 ( &lt;#string $old_file#&gt;, &lt;#string $new_file1#&gt;, &lt;#string $new_file2#&gt;, &lt;#string $dest#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>61904A7E-D9E9-4BCA-A35F-E1A8101C8905</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>xdiff_file_merge3(string $old_file, string $new_file1, string $new_file2, string $dest)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

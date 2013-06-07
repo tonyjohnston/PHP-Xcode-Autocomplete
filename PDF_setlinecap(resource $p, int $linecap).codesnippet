@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_setlinecap</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_setlinecap ( &lt;#resource $p#&gt;, &lt;#int $linecap#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>233100FD-5BDD-4AF7-8009-203F9DA86786</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_setlinecap(resource $p, int $linecap)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

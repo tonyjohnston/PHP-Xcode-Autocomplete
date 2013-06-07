@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Swish-&gt;getMetaList</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Swish-&gt;getMetaList ( &lt;#string $index_name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>60BEF5B7-357E-4174-9EDB-2D8C14606188</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swish-&gt;getMetaList(string $index_name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

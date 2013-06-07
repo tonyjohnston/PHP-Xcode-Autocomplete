@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setStrokePatternURL</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setStrokePatternURL ( &lt;#string $stroke_url#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F994D221-BCDC-4D84-BCDE-59A7DD328BED</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setStrokePatternURL(string $stroke_url)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

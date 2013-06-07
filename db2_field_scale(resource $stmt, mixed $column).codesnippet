@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>db2_field_scale</string>
+	<key>IDECodeSnippetContents</key>
+	<string>db2_field_scale ( &lt;#resource $stmt#&gt;, &lt;#mixed $column#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DD1FC501-5493-4BB8-857D-84E6EA5A8E1E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>db2_field_scale(resource $stmt, mixed $column)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

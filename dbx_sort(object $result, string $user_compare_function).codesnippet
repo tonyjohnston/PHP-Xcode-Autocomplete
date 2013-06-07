@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>dbx_sort</string>
+	<key>IDECodeSnippetContents</key>
+	<string>dbx_sort ( &lt;#object $result#&gt;, &lt;#string $user_compare_function#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BDFB49E4-274E-49E8-9C80-7A1FE3247613</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>dbx_sort(object $result, string $user_compare_function)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

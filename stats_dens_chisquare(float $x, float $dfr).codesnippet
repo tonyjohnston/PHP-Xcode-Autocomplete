@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stats_dens_chisquare</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stats_dens_chisquare ( &lt;#float $x#&gt;, &lt;#float $dfr#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>30293D5C-F9AB-4DE7-8355-ED5AD2089A02</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stats_dens_chisquare(float $x, float $dfr)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

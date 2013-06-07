@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::getImageChannelDistortions</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::getImageChannelDistortions ( &lt;#Imagick $reference#&gt;, &lt;#int $metric#&gt;, &lt;#int $channel#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AFAFF752-AB81-49B8-B127-E77AFC8DB250</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::getImageChannelDistortions(Imagick $reference, int $metric, int $channel)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

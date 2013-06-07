@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sybase_unbuffered_query</string>
+	<key>IDECodeSnippetContents</key>
+	<string>sybase_unbuffered_query ( &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#bool $store_result#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3455A439-4728-4BCF-99B5-0AA2C0BA1178</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sybase_unbuffered_query(string $query, resource $link_identifier, bool $store_result)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

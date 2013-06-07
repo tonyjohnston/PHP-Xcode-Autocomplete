@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_setgray</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_setgray ( &lt;#resource $p#&gt;, &lt;#float $g#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3F9B1202-59D2-4FF7-900B-175F4650C8ED</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_setgray(resource $p, float $g)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

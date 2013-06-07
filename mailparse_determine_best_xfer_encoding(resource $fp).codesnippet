@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mailparse_determine_best_xfer_encoding</string>
+	<key>IDECodeSnippetContents</key>
+	<string>mailparse_determine_best_xfer_encoding ( &lt;#resource $fp#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>34195747-C3BF-4F36-88F4-A680CE719087</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>mailparse_determine_best_xfer_encoding(resource $fp)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

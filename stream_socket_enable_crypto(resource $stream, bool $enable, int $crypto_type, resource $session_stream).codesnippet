@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>stream_socket_enable_crypto</string>
+	<key>IDECodeSnippetContents</key>
+	<string>stream_socket_enable_crypto ( &lt;#resource $stream#&gt;, &lt;#bool $enable#&gt;, &lt;#int $crypto_type#&gt;, &lt;#resource $session_stream#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7AC50D27-D83E-446D-873D-5DF9243E82E4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>stream_socket_enable_crypto(resource $stream, bool $enable, int $crypto_type, resource $session_stream)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

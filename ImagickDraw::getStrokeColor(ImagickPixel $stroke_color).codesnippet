@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::getStrokeColor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::getStrokeColor ( &lt;#ImagickPixel $stroke_color#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>19BD4F8A-7054-444D-8EEB-4EB0E9B21C5A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::getStrokeColor(ImagickPixel $stroke_color)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>PDF_begin_font</string>
+	<key>IDECodeSnippetContents</key>
+	<string>PDF_begin_font ( &lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $e#&gt;, &lt;#float $f#&gt;, &lt;#string $optlist#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D6C79623-8832-494E-A9F5-62DE81B6CE4C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PDF_begin_font(resource $pdfdoc, string $filename, float $a, float $b, float $c, float $d, float $e, float $f, string $optlist)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

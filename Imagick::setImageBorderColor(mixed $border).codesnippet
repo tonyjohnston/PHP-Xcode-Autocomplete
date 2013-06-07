@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Imagick::setImageBorderColor</string>
+	<key>IDECodeSnippetContents</key>
+	<string>Imagick::setImageBorderColor ( &lt;#mixed $border#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>37A4846A-F664-4681-8913-F9BDB883C923</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Imagick::setImageBorderColor(mixed $border)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

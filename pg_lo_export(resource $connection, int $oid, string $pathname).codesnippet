@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pg_lo_export</string>
+	<key>IDECodeSnippetContents</key>
+	<string>pg_lo_export ( &lt;#resource $connection#&gt;, &lt;#int $oid#&gt;, &lt;#string $pathname#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D9B0B3AD-577A-43D2-B71D-38E19B88E830</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>pg_lo_export(resource $connection, int $oid, string $pathname)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

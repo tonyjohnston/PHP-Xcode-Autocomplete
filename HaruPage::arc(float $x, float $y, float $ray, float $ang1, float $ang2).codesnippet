@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruPage::arc</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruPage::arc ( &lt;#float $x#&gt;, &lt;#float $y#&gt;, &lt;#float $ray#&gt;, &lt;#float $ang1#&gt;, &lt;#float $ang2#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A4441B31-3FB9-4A40-8B27-E605D680E366</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruPage::arc(float $x, float $y, float $ray, float $ang1, float $ang2)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

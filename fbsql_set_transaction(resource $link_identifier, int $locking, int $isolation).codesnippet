@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fbsql_set_transaction</string>
+	<key>IDECodeSnippetContents</key>
+	<string>fbsql_set_transaction ( &lt;#resource $link_identifier#&gt;, &lt;#int $locking#&gt;, &lt;#int $isolation#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7DB58E60-D373-46EC-ACD5-80DFC520CD0F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>fbsql_set_transaction(resource $link_identifier, int $locking, int $isolation)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

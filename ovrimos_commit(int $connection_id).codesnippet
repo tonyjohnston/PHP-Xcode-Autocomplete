@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ovrimos_commit</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ovrimos_commit ( &lt;#int $connection_id#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>50FE3C28-2737-4966-932D-C259F17FB1F6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ovrimos_commit(int $connection_id)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

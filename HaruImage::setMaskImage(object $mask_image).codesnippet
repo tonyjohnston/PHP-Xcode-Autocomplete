@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>HaruImage::setMaskImage</string>
+	<key>IDECodeSnippetContents</key>
+	<string>HaruImage::setMaskImage ( &lt;#object $mask_image#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B533836F-DC3F-4482-94E3-0344C822D70B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HaruImage::setMaskImage(object $mask_image)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

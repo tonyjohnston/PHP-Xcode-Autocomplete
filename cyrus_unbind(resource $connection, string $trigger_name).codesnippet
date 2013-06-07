@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cyrus_unbind</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cyrus_unbind ( &lt;#resource $connection#&gt;, &lt;#string $trigger_name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B78FD2E1-7BE8-4FCA-8B23-28A8B4E71910</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cyrus_unbind(resource $connection, string $trigger_name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

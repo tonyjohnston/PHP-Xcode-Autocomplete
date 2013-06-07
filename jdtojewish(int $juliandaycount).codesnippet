@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>jdtojewish</string>
+	<key>IDECodeSnippetContents</key>
+	<string>jdtojewish ( &lt;#int $juliandaycount#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5B274768-2550-44AD-9203-57C1365ACAD6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>jdtojewish(int $juliandaycount)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

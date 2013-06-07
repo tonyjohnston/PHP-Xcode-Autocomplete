@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ZipArchive::setCommentName</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ZipArchive::setCommentName ( &lt;#string $name#&gt;, &lt;#string $comment#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0CD4C2FE-A3CB-4A8C-9D6E-0B77B9C6250F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ZipArchive::setCommentName(string $name, string $comment)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

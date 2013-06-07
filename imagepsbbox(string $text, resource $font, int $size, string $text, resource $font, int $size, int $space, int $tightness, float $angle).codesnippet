@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imagepsbbox</string>
+	<key>IDECodeSnippetContents</key>
+	<string>imagepsbbox ( &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#int $space#&gt;, &lt;#int $tightness#&gt;, &lt;#float $angle#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A098C450-4584-42AA-A8C9-BD7B10DBCC0B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>imagepsbbox(string $text, resource $font, int $size, string $text, resource $font, int $size, int $space, int $tightness, float $angle)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

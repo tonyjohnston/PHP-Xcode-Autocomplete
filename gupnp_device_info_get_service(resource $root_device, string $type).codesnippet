@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gupnp_device_info_get_service</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gupnp_device_info_get_service ( &lt;#resource $root_device#&gt;, &lt;#string $type#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CDECF8A2-ED17-48D6-B393-96935F9AAADF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gupnp_device_info_get_service(resource $root_device, string $type)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

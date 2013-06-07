@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_ortho</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_ortho ( &lt;#float $xmin#&gt;, &lt;#float $xmax#&gt;, &lt;#float $ymin#&gt;, &lt;#float $ymax#&gt;, &lt;#float $zmin#&gt;, &lt;#float $zmax#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>807C2FF4-116A-40FB-8F63-3B48D1D52F56</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_ortho(float $xmin, float $xmax, float $ymin, float $ymax, float $zmin, float $zmax)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

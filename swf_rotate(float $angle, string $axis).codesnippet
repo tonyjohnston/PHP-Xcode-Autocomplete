@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_rotate</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_rotate ( &lt;#float $angle#&gt;, &lt;#string $axis#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>00FB2FFF-8337-4F46-882F-2445FFAD9C87</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_rotate(float $angle, string $axis)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

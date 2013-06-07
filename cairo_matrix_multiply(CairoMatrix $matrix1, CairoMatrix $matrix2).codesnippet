@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cairo_matrix_multiply</string>
+	<key>IDECodeSnippetContents</key>
+	<string>cairo_matrix_multiply ( &lt;#CairoMatrix $matrix1#&gt;, &lt;#CairoMatrix $matrix2#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3D491587-7834-421B-8993-C144F896A8D6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>cairo_matrix_multiply(CairoMatrix $matrix1, CairoMatrix $matrix2)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

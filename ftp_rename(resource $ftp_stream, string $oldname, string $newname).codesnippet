@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ftp_rename</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ftp_rename ( &lt;#resource $ftp_stream#&gt;, &lt;#string $oldname#&gt;, &lt;#string $newname#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>079E24F7-2EAD-4A37-B99B-29CD045608D5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ftp_rename(resource $ftp_stream, string $oldname, string $newname)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

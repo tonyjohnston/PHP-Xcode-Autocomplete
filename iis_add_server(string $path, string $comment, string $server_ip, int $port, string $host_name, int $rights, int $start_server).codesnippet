@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>iis_add_server</string>
+	<key>IDECodeSnippetContents</key>
+	<string>iis_add_server ( &lt;#string $path#&gt;, &lt;#string $comment#&gt;, &lt;#string $server_ip#&gt;, &lt;#int $port#&gt;, &lt;#string $host_name#&gt;, &lt;#int $rights#&gt;, &lt;#int $start_server#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5A34D7C1-5E08-4233-9BFA-E8E77131C238</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>iis_add_server(string $path, string $comment, string $server_ip, int $port, string $host_name, int $rights, int $start_server)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

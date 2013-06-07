@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>openal_buffer_loadwav</string>
+	<key>IDECodeSnippetContents</key>
+	<string>openal_buffer_loadwav ( &lt;#resource $buffer#&gt;, &lt;#string $wavfile#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C92A1AE0-F569-496D-9EEB-2C94556DB3B4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>openal_buffer_loadwav(resource $buffer, string $wavfile)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

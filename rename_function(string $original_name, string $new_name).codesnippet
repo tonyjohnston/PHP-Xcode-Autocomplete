@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rename_function</string>
+	<key>IDECodeSnippetContents</key>
+	<string>rename_function ( &lt;#string $original_name#&gt;, &lt;#string $new_name#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>54ACEB31-EF72-445B-B6C1-D5579E41AE35</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>rename_function(string $original_name, string $new_name)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

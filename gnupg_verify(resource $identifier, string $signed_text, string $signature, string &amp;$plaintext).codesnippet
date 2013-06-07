@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gnupg_verify</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gnupg_verify ( &lt;#resource $identifier#&gt;, &lt;#string $signed_text#&gt;, &lt;#string $signature#&gt;, &lt;#string &amp;amp;$plaintext#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9A1103BB-3BA4-4424-85AE-E9258052A08A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gnupg_verify(resource $identifier, string $signed_text, string $signature, string &amp;amp;$plaintext)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ImagickDraw::setStrokeWidth</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ImagickDraw::setStrokeWidth ( &lt;#float $stroke_width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9E7544A8-CC50-4EF0-82A6-4B56CC0B27F7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ImagickDraw::setStrokeWidth(float $stroke_width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

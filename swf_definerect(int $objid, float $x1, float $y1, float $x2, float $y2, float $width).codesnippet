@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swf_definerect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>swf_definerect ( &lt;#int $objid#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $width#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0F199B08-7778-407F-8789-32A34CFC20CA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swf_definerect(int $objid, float $x1, float $y1, float $x2, float $y2, float $width)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

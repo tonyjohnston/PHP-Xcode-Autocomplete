@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vpopmail_add_alias_domain</string>
+	<key>IDECodeSnippetContents</key>
+	<string>vpopmail_add_alias_domain ( &lt;#string $domain#&gt;, &lt;#string $aliasdomain#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>19751F90-A166-49C7-AFAD-443ED1EC8B81</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>vpopmail_add_alias_domain(string $domain, string $aliasdomain)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

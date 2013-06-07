@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>maxdb_real_connect</string>
+	<key>IDECodeSnippetContents</key>
+	<string>maxdb_real_connect ( &lt;#resource $link#&gt;, &lt;#string $hostname#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt;, &lt;#string $hostname#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>AA7B67AE-E85D-4FC5-8AFC-297B63A802FB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>maxdb_real_connect(resource $link, string $hostname, string $username, string $passwd, string $dbname, int $port, string $socket, string $hostname, string $username, string $passwd, string $dbname, int $port, string $socket)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

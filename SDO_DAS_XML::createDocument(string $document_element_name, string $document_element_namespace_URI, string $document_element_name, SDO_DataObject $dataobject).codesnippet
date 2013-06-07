@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>SDO_DAS_XML::createDocument</string>
+	<key>IDECodeSnippetContents</key>
+	<string>SDO_DAS_XML::createDocument ( &lt;#string $document_element_name#&gt;, &lt;#string $document_element_namespace_URI#&gt;, &lt;#string $document_element_name#&gt;, &lt;#SDO_DataObject $dataobject#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>714C5ED2-7C04-48AB-A8C2-CBB505D125AA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SDO_DAS_XML::createDocument(string $document_element_name, string $document_element_namespace_URI, string $document_element_name, SDO_DataObject $dataobject)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

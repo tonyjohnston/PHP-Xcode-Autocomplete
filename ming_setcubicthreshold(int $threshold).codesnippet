@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ming_setcubicthreshold</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ming_setcubicthreshold ( &lt;#int $threshold#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D40DBD97-D020-4178-8A19-BFD89E69D74E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ming_setcubicthreshold(int $threshold)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

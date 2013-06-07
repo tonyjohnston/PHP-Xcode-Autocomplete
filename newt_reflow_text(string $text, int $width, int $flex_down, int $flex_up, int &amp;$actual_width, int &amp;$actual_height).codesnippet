@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>newt_reflow_text</string>
+	<key>IDECodeSnippetContents</key>
+	<string>newt_reflow_text ( &lt;#string $text#&gt;, &lt;#int $width#&gt;, &lt;#int $flex_down#&gt;, &lt;#int $flex_up#&gt;, &lt;#int &amp;amp;$actual_width#&gt;, &lt;#int &amp;amp;$actual_height#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D535F520-FB85-47A5-87A3-8191349BD0C1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>newt_reflow_text(string $text, int $width, int $flex_down, int $flex_up, int &amp;amp;$actual_width, int &amp;amp;$actual_height)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

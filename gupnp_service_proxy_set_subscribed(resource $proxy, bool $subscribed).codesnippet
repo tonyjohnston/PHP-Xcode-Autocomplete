@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>gupnp_service_proxy_set_subscribed</string>
+	<key>IDECodeSnippetContents</key>
+	<string>gupnp_service_proxy_set_subscribed ( &lt;#resource $proxy#&gt;, &lt;#bool $subscribed#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7DDE987A-2E86-4267-9006-9A58994AE32D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>gupnp_service_proxy_set_subscribed(resource $proxy, bool $subscribed)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

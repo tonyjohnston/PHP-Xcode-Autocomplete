@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>expect_expectl</string>
+	<key>IDECodeSnippetContents</key>
+	<string>expect_expectl ( &lt;#resource $expect#&gt;, &lt;#array $cases#&gt;, &lt;#array &amp;amp;$match#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C8DD08BF-2025-4F25-8EBF-62449738A170</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>expect_expectl(resource $expect, array $cases, array &amp;amp;$match)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

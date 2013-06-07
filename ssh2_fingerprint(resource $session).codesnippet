@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ssh2_fingerprint</string>
+	<key>IDECodeSnippetContents</key>
+	<string>ssh2_fingerprint ( &lt;#resource $session#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FD73C476-FE3D-4AA2-AB75-4AB5706CC6BF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ssh2_fingerprint(resource $session)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>

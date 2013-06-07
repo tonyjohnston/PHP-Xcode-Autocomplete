@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>msession_plugin</string>
+	<key>IDECodeSnippetContents</key>
+	<string>msession_plugin ( &lt;#string $session#&gt;, &lt;#string $val#&gt;, &lt;#string $param#&gt; );</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C7B7A6E4-AD1F-4145-9DE0-476E4AF31313</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.PHP</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>msession_plugin(string $session, string $val, string $param)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+</dict>
+</plist>
