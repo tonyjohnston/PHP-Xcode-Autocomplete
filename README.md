@@ -12,7 +12,7 @@ I have done some basic cleanup, but it could probably still use more.
 
 1. Download the .zip.
 
-2. Copy all files to ~/Library/Developer/Xcode/UserData/CodeSnippets
+2. Copy all files from the CodeSnippets directory to ~/Library/Developer/Xcode/UserData/CodeSnippets
 
 3. Close Xcode if it's open and restart it.
 
