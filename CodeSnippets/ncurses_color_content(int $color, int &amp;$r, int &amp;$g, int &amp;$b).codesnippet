@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ncurses_color_content</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_color_content ( &lt;#int $color#&gt;, &lt;#int &amp;amp;$r#&gt;, &lt;#int &amp;amp;$g#&gt;, &lt;#int &amp;amp;$b#&gt; );</string>
+	<string>ncurses_color_content ( &lt;#int $color#&gt;, &lt;#int &amp;$r#&gt;, &lt;#int &amp;$g#&gt;, &lt;#int &amp;$b#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C5A684A5-78C3-4818-862F-C3E75D142460</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ncurses_color_content(int $color, int &amp;amp;$r, int &amp;amp;$g, int &amp;amp;$b)</string>
+	<string>ncurses_color_content(int $color, int &amp;$r, int &amp;$g, int &amp;$b)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

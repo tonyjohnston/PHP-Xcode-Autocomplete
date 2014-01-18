@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ldap_get_values</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>ldap_get_values ( &lt;#resource $link_identifier#&gt;, &lt;#resource $result_entry_identifier#&gt;, &lt;#string $attribute#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>ldap_get_values(resource $link_identifier, resource $result_entry_identifier, string $attribute)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

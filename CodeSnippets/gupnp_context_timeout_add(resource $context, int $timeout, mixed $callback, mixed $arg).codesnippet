@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>gupnp_context_timeout_add</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>gupnp_context_timeout_add ( &lt;#resource $context#&gt;, &lt;#int $timeout#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>gupnp_context_timeout_add(resource $context, int $timeout, mixed $callback, mixed $arg)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

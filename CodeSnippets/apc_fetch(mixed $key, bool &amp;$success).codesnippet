@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>apc_fetch</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apc_fetch ( &lt;#mixed $key#&gt;, &lt;#bool &amp;amp;$success#&gt; );</string>
+	<string>apc_fetch ( &lt;#mixed $key#&gt;, &lt;#bool &amp;$success#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>844B835C-E3F2-48A7-B79B-E500C4166CA5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>apc_fetch(mixed $key, bool &amp;amp;$success)</string>
+	<string>apc_fetch(mixed $key, bool &amp;$success)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

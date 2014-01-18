@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>bcpowmod</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>bcpowmod ( &lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#string $modulus#&gt;, &lt;#int $scale#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>bcpowmod(string $left_operand, string $right_operand, string $modulus, int $scale)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

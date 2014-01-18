@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xdiff_string_merge3</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_string_merge3 ( &lt;#string $old_data#&gt;, &lt;#string $new_data1#&gt;, &lt;#string $new_data2#&gt;, &lt;#string &amp;amp;$error#&gt; );</string>
+	<string>xdiff_string_merge3 ( &lt;#string $old_data#&gt;, &lt;#string $new_data1#&gt;, &lt;#string $new_data2#&gt;, &lt;#string &amp;$error#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>294CCFA8-6CED-444B-A99E-5348457B0B72</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>xdiff_string_merge3(string $old_data, string $new_data1, string $new_data2, string &amp;amp;$error)</string>
+	<string>xdiff_string_merge3(string $old_data, string $new_data1, string $new_data2, string &amp;$error)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

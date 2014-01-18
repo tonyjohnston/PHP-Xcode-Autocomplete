@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>svn_ls</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>svn_ls ( &lt;#string $repos_url#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>svn_ls(string $repos_url)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

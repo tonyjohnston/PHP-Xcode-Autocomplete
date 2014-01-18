@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>SwishSearch-&gt;setLimit</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>SwishSearch-&gt;setLimit ( &lt;#string $property#&gt;, &lt;#string $low#&gt;, &lt;#string $high#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>SwishSearch-&gt;setLimit(string $property, string $low, string $high)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>enchant_dict_quick_check</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enchant_dict_quick_check ( &lt;#resource $dict#&gt;, &lt;#string $word#&gt;, &lt;#array &amp;amp;$suggestions#&gt; );</string>
+	<string>enchant_dict_quick_check ( &lt;#resource $dict#&gt;, &lt;#string $word#&gt;, &lt;#array &amp;$suggestions#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D333EE0C-AEA4-4B54-9455-F3D168A008AD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>enchant_dict_quick_check(resource $dict, string $word, array &amp;amp;$suggestions)</string>
+	<string>enchant_dict_quick_check(resource $dict, string $word, array &amp;$suggestions)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

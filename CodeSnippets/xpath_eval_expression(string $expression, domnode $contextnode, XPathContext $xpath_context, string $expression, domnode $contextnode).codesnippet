@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xpath_eval_expression</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>xpath_eval_expression ( &lt;#string $expression#&gt;, &lt;#domnode $contextnode#&gt;, &lt;#XPathContext $xpath_context#&gt;, &lt;#string $expression#&gt;, &lt;#domnode $contextnode#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>xpath_eval_expression(string $expression, domnode $contextnode, XPathContext $xpath_context, string $expression, domnode $contextnode)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

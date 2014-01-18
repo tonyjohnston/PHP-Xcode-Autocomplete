@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sort</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sort ( &lt;#array &amp;amp;$array#&gt; );</string>
+	<string>sort ( &lt;#array &amp;$array#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>231AF984-60F3-4B8D-8869-7BF7829CFA99</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sort(array &amp;amp;$array)</string>
+	<string>sort(array &amp;$array)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

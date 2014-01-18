@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>hw_getobjectbyquerycoll</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>hw_getobjectbyquerycoll ( &lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#string $query#&gt;, &lt;#int $max_hits#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>hw_getobjectbyquerycoll(int $connection, int $objectID, string $query, int $max_hits)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>msg_send</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msg_send ( &lt;#resource $queue#&gt;, &lt;#int $msgtype#&gt;, &lt;#mixed $message#&gt;, &lt;#bool $serialize#&gt;, &lt;#bool $blocking#&gt;, &lt;#int &amp;amp;$errorcode#&gt; );</string>
+	<string>msg_send ( &lt;#resource $queue#&gt;, &lt;#int $msgtype#&gt;, &lt;#mixed $message#&gt;, &lt;#bool $serialize#&gt;, &lt;#bool $blocking#&gt;, &lt;#int &amp;$errorcode#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D57F60ED-B330-4171-8311-9DD4EF689FEB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>msg_send(resource $queue, int $msgtype, mixed $message, bool $serialize, bool $blocking, int &amp;amp;$errorcode)</string>
+	<string>msg_send(resource $queue, int $msgtype, mixed $message, bool $serialize, bool $blocking, int &amp;$errorcode)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

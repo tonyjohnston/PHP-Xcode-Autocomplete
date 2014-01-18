@@ -4,32 +4,24 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>case</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>case &lt;#constant#&gt;:
 	&lt;#!statements!#&gt;
 	break;
 </string>
-	<key>IDECodeSnippetExcludeContexts</key>
-	<array>
-		<string>xcode.lang.string</string>
-		<string>xcode.lang.character</string>
-		<string>xcode.lang.comment</string>
-		<string>xcode.lang.c.preprocessor</string>
-		<string>xcode.lang.c.parenexpr</string>
-		<string>xcode.lang.c.bracketexpr</string>
-	</array>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>29656293-A78E-4D5B-9DEC-4DF11F9661BB</string>
-	<key>IDECodeSnippetIncludeContexts</key>
-	<array>
-		<string>xcode.lang.c.block</string>
-		<string>xcode.lang.java.block</string>
-	</array>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Case Block</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

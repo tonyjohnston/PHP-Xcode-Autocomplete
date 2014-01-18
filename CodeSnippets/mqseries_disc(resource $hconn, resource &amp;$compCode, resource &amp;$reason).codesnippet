@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mqseries_disc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_disc ( &lt;#resource $hconn#&gt;, &lt;#resource &amp;amp;$compCode#&gt;, &lt;#resource &amp;amp;$reason#&gt; );</string>
+	<string>mqseries_disc ( &lt;#resource $hconn#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84F06E35-42A1-49F0-A972-DFFBA4341283</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mqseries_disc(resource $hconn, resource &amp;amp;$compCode, resource &amp;amp;$reason)</string>
+	<string>mqseries_disc(resource $hconn, resource &amp;$compCode, resource &amp;$reason)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

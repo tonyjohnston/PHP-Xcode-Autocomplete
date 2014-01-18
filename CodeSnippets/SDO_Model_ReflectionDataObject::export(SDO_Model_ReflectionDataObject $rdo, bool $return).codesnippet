@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>SDO_Model_ReflectionDataObject::export</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>SDO_Model_ReflectionDataObject::export ( &lt;#SDO_Model_ReflectionDataObject $rdo#&gt;, &lt;#bool $return#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>SDO_Model_ReflectionDataObject::export(SDO_Model_ReflectionDataObject $rdo, bool $return)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

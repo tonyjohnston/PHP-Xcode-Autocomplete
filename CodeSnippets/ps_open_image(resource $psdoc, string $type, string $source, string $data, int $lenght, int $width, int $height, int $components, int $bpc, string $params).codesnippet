@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ps_open_image</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>ps_open_image ( &lt;#resource $psdoc#&gt;, &lt;#string $type#&gt;, &lt;#string $source#&gt;, &lt;#string $data#&gt;, &lt;#int $lenght#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $components#&gt;, &lt;#int $bpc#&gt;, &lt;#string $params#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>ps_open_image(resource $psdoc, string $type, string $source, string $data, int $lenght, int $width, int $height, int $components, int $bpc, string $params)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

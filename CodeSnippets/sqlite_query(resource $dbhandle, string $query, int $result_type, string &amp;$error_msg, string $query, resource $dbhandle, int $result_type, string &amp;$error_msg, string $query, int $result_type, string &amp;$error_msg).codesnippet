@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_query</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_query ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#string &amp;amp;$error_msg#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#int $result_type#&gt;, &lt;#string &amp;amp;$error_msg#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#string &amp;amp;$error_msg#&gt; );</string>
+	<string>sqlite_query ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#string &amp;$error_msg#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#int $result_type#&gt;, &lt;#string &amp;$error_msg#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#string &amp;$error_msg#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB3F923A-6D4F-4A48-B276-290C8E96BB1A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sqlite_query(resource $dbhandle, string $query, int $result_type, string &amp;amp;$error_msg, string $query, resource $dbhandle, int $result_type, string &amp;amp;$error_msg, string $query, int $result_type, string &amp;amp;$error_msg)</string>
+	<string>sqlite_query(resource $dbhandle, string $query, int $result_type, string &amp;$error_msg, string $query, resource $dbhandle, int $result_type, string &amp;$error_msg, string $query, int $result_type, string &amp;$error_msg)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

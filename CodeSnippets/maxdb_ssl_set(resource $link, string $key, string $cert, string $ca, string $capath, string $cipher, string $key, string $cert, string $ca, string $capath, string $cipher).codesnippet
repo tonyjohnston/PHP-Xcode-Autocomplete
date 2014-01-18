@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>maxdb_ssl_set</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>maxdb_ssl_set ( &lt;#resource $link#&gt;, &lt;#string $key#&gt;, &lt;#string $cert#&gt;, &lt;#string $ca#&gt;, &lt;#string $capath#&gt;, &lt;#string $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $cert#&gt;, &lt;#string $ca#&gt;, &lt;#string $capath#&gt;, &lt;#string $cipher#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>maxdb_ssl_set(resource $link, string $key, string $cert, string $ca, string $capath, string $cipher, string $key, string $cert, string $ca, string $capath, string $cipher)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

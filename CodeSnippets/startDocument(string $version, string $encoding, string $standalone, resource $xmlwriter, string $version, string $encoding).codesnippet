@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>startDocument</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>startDocument ( &lt;#string $version#&gt;, &lt;#string $encoding#&gt;, &lt;#string $standalone#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $version#&gt;, &lt;#string $encoding#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>startDocument(string $version, string $encoding, string $standalone, resource $xmlwriter, string $version, string $encoding)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>usort</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>usort ( &lt;#array &amp;amp;$array#&gt;, &lt;#callback $cmp_function#&gt; );</string>
+	<string>usort ( &lt;#array &amp;$array#&gt;, &lt;#callback $cmp_function#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>69191502-8E1B-4CE1-B9AA-738E6569B6A7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>usort(array &amp;amp;$array, callback $cmp_function)</string>
+	<string>usort(array &amp;$array, callback $cmp_function)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

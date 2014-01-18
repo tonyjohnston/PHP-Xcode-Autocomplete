@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imagettftext</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imagettftext ( &lt;#resource $image#&gt;, &lt;#float $size#&gt;, &lt;#float $angle#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#int $color#&gt;, &lt;#string $fontfile#&gt;, &lt;#string $text#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imagettftext(resource $image, float $size, float $angle, int $x, int $y, int $color, string $fontfile, string $text)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

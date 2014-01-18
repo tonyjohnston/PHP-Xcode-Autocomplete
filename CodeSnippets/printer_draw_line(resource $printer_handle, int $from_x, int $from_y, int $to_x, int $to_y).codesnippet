@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>printer_draw_line</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>printer_draw_line ( &lt;#resource $printer_handle#&gt;, &lt;#int $from_x#&gt;, &lt;#int $from_y#&gt;, &lt;#int $to_x#&gt;, &lt;#int $to_y#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>printer_draw_line(resource $printer_handle, int $from_x, int $from_y, int $to_x, int $to_y)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

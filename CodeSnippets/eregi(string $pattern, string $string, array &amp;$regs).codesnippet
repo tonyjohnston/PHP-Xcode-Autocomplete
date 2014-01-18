@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>eregi</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>eregi ( &lt;#string $pattern#&gt;, &lt;#string $string#&gt;, &lt;#array &amp;amp;$regs#&gt; );</string>
+	<string>eregi ( &lt;#string $pattern#&gt;, &lt;#string $string#&gt;, &lt;#array &amp;$regs#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>617A0B57-7A51-4CAC-9849-638648A1D428</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>eregi(string $pattern, string $string, array &amp;amp;$regs)</string>
+	<string>eregi(string $pattern, string $string, array &amp;$regs)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

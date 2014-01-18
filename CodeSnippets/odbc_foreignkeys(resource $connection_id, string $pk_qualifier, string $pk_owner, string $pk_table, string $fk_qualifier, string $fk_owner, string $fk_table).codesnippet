@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>odbc_foreignkeys</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>odbc_foreignkeys ( &lt;#resource $connection_id#&gt;, &lt;#string $pk_qualifier#&gt;, &lt;#string $pk_owner#&gt;, &lt;#string $pk_table#&gt;, &lt;#string $fk_qualifier#&gt;, &lt;#string $fk_owner#&gt;, &lt;#string $fk_table#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>odbc_foreignkeys(resource $connection_id, string $pk_qualifier, string $pk_owner, string $pk_table, string $fk_qualifier, string $fk_owner, string $fk_table)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

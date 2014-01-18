@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>dbplus_prev</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_prev ( &lt;#resource $relation#&gt;, &lt;#array &amp;amp;$tuple#&gt; );</string>
+	<string>dbplus_prev ( &lt;#resource $relation#&gt;, &lt;#array &amp;$tuple#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D97A04B8-EFB0-43D6-9F1C-8F786FEA8A48</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>dbplus_prev(resource $relation, array &amp;amp;$tuple)</string>
+	<string>dbplus_prev(resource $relation, array &amp;$tuple)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

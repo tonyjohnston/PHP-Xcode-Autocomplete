@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>pcntl_sigprocmask</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_sigprocmask ( &lt;#int $how#&gt;, &lt;#array $set#&gt;, &lt;#array &amp;amp;$oldset#&gt; );</string>
+	<string>pcntl_sigprocmask ( &lt;#int $how#&gt;, &lt;#array $set#&gt;, &lt;#array &amp;$oldset#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC8F948D-47C3-44AA-ACFA-7AD4397225D9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pcntl_sigprocmask(int $how, array $set, array &amp;amp;$oldset)</string>
+	<string>pcntl_sigprocmask(int $how, array $set, array &amp;$oldset)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

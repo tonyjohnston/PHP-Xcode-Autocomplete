@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>array_push</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_push ( &lt;#array &amp;amp;$array#&gt;, &lt;#mixed $var#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>array_push ( &lt;#array &amp;$array#&gt;, &lt;#mixed $var#&gt;, &lt;#mixed $...#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3231F305-870D-48CB-836A-02AADC6C5ADC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>array_push(array &amp;amp;$array, mixed $var, mixed $...)</string>
+	<string>array_push(array &amp;$array, mixed $var, mixed $...)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

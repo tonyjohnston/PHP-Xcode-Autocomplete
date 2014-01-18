@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imageftbbox</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imageftbbox ( &lt;#float $size#&gt;, &lt;#float $angle#&gt;, &lt;#string $fontfile#&gt;, &lt;#string $text#&gt;, &lt;#array $extrainfo#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imageftbbox(float $size, float $angle, string $fontfile, string $text, array $extrainfo)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

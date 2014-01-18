@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>maxdb_stmt_bind_param</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_bind_param ( &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;amp;$var1#&gt;, &lt;#mixed &amp;amp;$...#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;amp;$var1#&gt;, &lt;#mixed &amp;amp;$...#&gt;, &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;amp;$var#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;amp;$var#&gt; );</string>
+	<string>maxdb_stmt_bind_param ( &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;$var#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;$var#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B97260C-5F4C-418E-92F0-3C762AFDA375</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>maxdb_stmt_bind_param(resource $stmt, string $types, mixed &amp;amp;$var1, mixed &amp;amp;$..., string $types, mixed &amp;amp;$var1, mixed &amp;amp;$..., resource $stmt, string $types, array &amp;amp;$var, string $types, array &amp;amp;$var)</string>
+	<string>maxdb_stmt_bind_param(resource $stmt, string $types, mixed &amp;$var1, mixed &amp;$..., string $types, mixed &amp;$var1, mixed &amp;$..., resource $stmt, string $types, array &amp;$var, string $types, array &amp;$var)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

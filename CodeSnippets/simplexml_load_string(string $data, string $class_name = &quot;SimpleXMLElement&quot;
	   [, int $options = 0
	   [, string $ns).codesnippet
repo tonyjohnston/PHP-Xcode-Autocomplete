@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>simplexml_load_string</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>simplexml_load_string ( &lt;#string $data#&gt;, &lt;#string $class_name = &amp;quot;SimpleXMLElement&amp;quot;
 	   [, int $options = 0
@@ -18,5 +22,7 @@
 	   [, string $ns)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

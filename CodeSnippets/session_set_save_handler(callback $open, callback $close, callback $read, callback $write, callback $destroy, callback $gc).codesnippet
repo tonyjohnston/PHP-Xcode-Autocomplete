@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>session_set_save_handler</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>session_set_save_handler ( &lt;#callback $open#&gt;, &lt;#callback $close#&gt;, &lt;#callback $read#&gt;, &lt;#callback $write#&gt;, &lt;#callback $destroy#&gt;, &lt;#callback $gc#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>session_set_save_handler(callback $open, callback $close, callback $read, callback $write, callback $destroy, callback $gc)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

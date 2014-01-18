@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>system</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>system ( &lt;#string $command#&gt;, &lt;#int &amp;amp;$return_var#&gt; );</string>
+	<string>system ( &lt;#string $command#&gt;, &lt;#int &amp;$return_var#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>434F5EE5-C1F7-420F-BC2B-51A9B9A329FC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>system(string $command, int &amp;amp;$return_var)</string>
+	<string>system(string $command, int &amp;$return_var)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

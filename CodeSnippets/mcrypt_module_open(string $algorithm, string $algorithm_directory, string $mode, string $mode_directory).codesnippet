@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mcrypt_module_open</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>mcrypt_module_open ( &lt;#string $algorithm#&gt;, &lt;#string $algorithm_directory#&gt;, &lt;#string $mode#&gt;, &lt;#string $mode_directory#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>mcrypt_module_open(string $algorithm, string $algorithm_directory, string $mode, string $mode_directory)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

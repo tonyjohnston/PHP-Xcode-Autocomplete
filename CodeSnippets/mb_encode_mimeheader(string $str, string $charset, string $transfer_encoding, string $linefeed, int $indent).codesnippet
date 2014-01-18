@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mb_encode_mimeheader</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>mb_encode_mimeheader ( &lt;#string $str#&gt;, &lt;#string $charset#&gt;, &lt;#string $transfer_encoding#&gt;, &lt;#string $linefeed#&gt;, &lt;#int $indent#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>mb_encode_mimeheader(string $str, string $charset, string $transfer_encoding, string $linefeed, int $indent)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

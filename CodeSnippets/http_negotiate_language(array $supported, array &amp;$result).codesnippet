@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>http_negotiate_language</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_negotiate_language ( &lt;#array $supported#&gt;, &lt;#array &amp;amp;$result#&gt; );</string>
+	<string>http_negotiate_language ( &lt;#array $supported#&gt;, &lt;#array &amp;$result#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C8EA6567-3E76-4ADF-9AD2-C9D205799F37</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>http_negotiate_language(array $supported, array &amp;amp;$result)</string>
+	<string>http_negotiate_language(array $supported, array &amp;$result)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

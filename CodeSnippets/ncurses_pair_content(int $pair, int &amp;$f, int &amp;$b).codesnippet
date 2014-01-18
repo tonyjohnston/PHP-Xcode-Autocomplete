@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ncurses_pair_content</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_pair_content ( &lt;#int $pair#&gt;, &lt;#int &amp;amp;$f#&gt;, &lt;#int &amp;amp;$b#&gt; );</string>
+	<string>ncurses_pair_content ( &lt;#int $pair#&gt;, &lt;#int &amp;$f#&gt;, &lt;#int &amp;$b#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1B0CFA2-29F5-4C11-8C12-A370EFE0F71E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ncurses_pair_content(int $pair, int &amp;amp;$f, int &amp;amp;$b)</string>
+	<string>ncurses_pair_content(int $pair, int &amp;$f, int &amp;$b)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

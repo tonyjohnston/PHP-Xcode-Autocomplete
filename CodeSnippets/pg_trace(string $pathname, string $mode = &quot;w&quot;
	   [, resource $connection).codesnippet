@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>pg_trace</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>pg_trace ( &lt;#string $pathname#&gt;, &lt;#string $mode = &amp;quot;w&amp;quot;
 	   [, resource $connection#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, resource $connection)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

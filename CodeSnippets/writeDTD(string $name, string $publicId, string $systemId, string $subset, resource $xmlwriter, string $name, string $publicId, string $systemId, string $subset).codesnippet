@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>writeDTD</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>writeDTD ( &lt;#string $name#&gt;, &lt;#string $publicId#&gt;, &lt;#string $systemId#&gt;, &lt;#string $subset#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt;, &lt;#string $publicId#&gt;, &lt;#string $systemId#&gt;, &lt;#string $subset#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>writeDTD(string $name, string $publicId, string $systemId, string $subset, resource $xmlwriter, string $name, string $publicId, string $systemId, string $subset)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

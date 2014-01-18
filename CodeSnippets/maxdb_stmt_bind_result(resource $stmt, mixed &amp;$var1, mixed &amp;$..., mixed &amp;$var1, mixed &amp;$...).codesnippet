@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>maxdb_stmt_bind_result</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_bind_result ( &lt;#resource $stmt#&gt;, &lt;#mixed &amp;amp;$var1#&gt;, &lt;#mixed &amp;amp;$...#&gt;, &lt;#mixed &amp;amp;$var1#&gt;, &lt;#mixed &amp;amp;$...#&gt; );</string>
+	<string>maxdb_stmt_bind_result ( &lt;#resource $stmt#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EF9D4F81-B0C6-422B-AB03-9138AF986D01</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>maxdb_stmt_bind_result(resource $stmt, mixed &amp;amp;$var1, mixed &amp;amp;$..., mixed &amp;amp;$var1, mixed &amp;amp;$...)</string>
+	<string>maxdb_stmt_bind_result(resource $stmt, mixed &amp;$var1, mixed &amp;$..., mixed &amp;$var1, mixed &amp;$...)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

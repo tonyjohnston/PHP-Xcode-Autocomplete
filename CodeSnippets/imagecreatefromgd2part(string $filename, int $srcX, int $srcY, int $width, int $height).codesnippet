@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imagecreatefromgd2part</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imagecreatefromgd2part ( &lt;#string $filename#&gt;, &lt;#int $srcX#&gt;, &lt;#int $srcY#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imagecreatefromgd2part(string $filename, int $srcX, int $srcY, int $width, int $height)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

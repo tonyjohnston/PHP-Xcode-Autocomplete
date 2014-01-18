@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>HttpRequest::__construct</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>HttpRequest::__construct ( &lt;#string $url#&gt;, &lt;#int $request_method = HTTP_METH_GET
 	   [, array $options#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, array $options)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

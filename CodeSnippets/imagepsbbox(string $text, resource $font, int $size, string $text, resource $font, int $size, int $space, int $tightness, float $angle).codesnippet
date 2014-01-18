@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imagepsbbox</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imagepsbbox ( &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#int $space#&gt;, &lt;#int $tightness#&gt;, &lt;#float $angle#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imagepsbbox(string $text, resource $font, int $size, string $text, resource $font, int $size, int $space, int $tightness, float $angle)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

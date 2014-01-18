@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>stats_dens_pmf_hypergeometric</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>stats_dens_pmf_hypergeometric ( &lt;#float $n1#&gt;, &lt;#float $n2#&gt;, &lt;#float $N1#&gt;, &lt;#float $N2#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>stats_dens_pmf_hypergeometric(float $n1, float $n2, float $N1, float $N2)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

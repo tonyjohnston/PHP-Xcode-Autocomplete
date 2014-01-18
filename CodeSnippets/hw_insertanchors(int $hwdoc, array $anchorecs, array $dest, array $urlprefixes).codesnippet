@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>hw_insertanchors</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>hw_insertanchors ( &lt;#int $hwdoc#&gt;, &lt;#array $anchorecs#&gt;, &lt;#array $dest#&gt;, &lt;#array $urlprefixes#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>hw_insertanchors(int $hwdoc, array $anchorecs, array $dest, array $urlprefixes)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

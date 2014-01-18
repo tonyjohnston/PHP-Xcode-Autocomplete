@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imagefilter</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imagefilter ( &lt;#resource $image#&gt;, &lt;#int $filtertype#&gt;, &lt;#int $arg1#&gt;, &lt;#int $arg2#&gt;, &lt;#int $arg3#&gt;, &lt;#int $arg4#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imagefilter(resource $image, int $filtertype, int $arg1, int $arg2, int $arg3, int $arg4)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ssh2_auth_pubkey_file</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>ssh2_auth_pubkey_file ( &lt;#resource $session#&gt;, &lt;#string $username#&gt;, &lt;#string $pubkeyfile#&gt;, &lt;#string $privkeyfile#&gt;, &lt;#string $passphrase#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>ssh2_auth_pubkey_file(resource $session, string $username, string $pubkeyfile, string $privkeyfile, string $passphrase)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

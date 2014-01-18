@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mssql_bind</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_bind ( &lt;#resource $stmt#&gt;, &lt;#string $param_name#&gt;, &lt;#mixed &amp;amp;$var#&gt;, &lt;#int $type#&gt; );</string>
+	<string>mssql_bind ( &lt;#resource $stmt#&gt;, &lt;#string $param_name#&gt;, &lt;#mixed &amp;$var#&gt;, &lt;#int $type#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D51453C6-F0F6-410D-9CE2-FEA4D32CFED6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mssql_bind(resource $stmt, string $param_name, mixed &amp;amp;$var, int $type)</string>
+	<string>mssql_bind(resource $stmt, string $param_name, mixed &amp;$var, int $type)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

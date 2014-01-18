@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>pg_fetch_object</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>pg_fetch_object ( &lt;#resource $result#&gt;, &lt;#int $row#&gt;, &lt;#int $result_type = PGSQL_ASSOC
 	  ]] )
@@ -24,5 +28,7 @@
 	    ( resource $result, int $row, string $class_name, array $params)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

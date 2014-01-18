@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xdiff_file_merge3</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>xdiff_file_merge3 ( &lt;#string $old_file#&gt;, &lt;#string $new_file1#&gt;, &lt;#string $new_file2#&gt;, &lt;#string $dest#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>xdiff_file_merge3(string $old_file, string $new_file1, string $new_file2, string $dest)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>array_walk_recursive</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_walk_recursive ( &lt;#array &amp;amp;$input#&gt;, &lt;#callback $funcname#&gt;, &lt;#mixed $userdata#&gt; );</string>
+	<string>array_walk_recursive ( &lt;#array &amp;$input#&gt;, &lt;#callback $funcname#&gt;, &lt;#mixed $userdata#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B7C0C0CD-60AD-4E81-A5DB-6972894A216D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>array_walk_recursive(array &amp;amp;$input, callback $funcname, mixed $userdata)</string>
+	<string>array_walk_recursive(array &amp;$input, callback $funcname, mixed $userdata)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

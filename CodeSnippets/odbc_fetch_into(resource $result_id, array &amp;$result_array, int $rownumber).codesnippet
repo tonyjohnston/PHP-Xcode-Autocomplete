@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>odbc_fetch_into</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_fetch_into ( &lt;#resource $result_id#&gt;, &lt;#array &amp;amp;$result_array#&gt;, &lt;#int $rownumber#&gt; );</string>
+	<string>odbc_fetch_into ( &lt;#resource $result_id#&gt;, &lt;#array &amp;$result_array#&gt;, &lt;#int $rownumber#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>53504680-A57E-4780-913C-413BBAEE8FBE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>odbc_fetch_into(resource $result_id, array &amp;amp;$result_array, int $rownumber)</string>
+	<string>odbc_fetch_into(resource $result_id, array &amp;$result_array, int $rownumber)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>m_completeauthorizations</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_completeauthorizations ( &lt;#resource $conn#&gt;, &lt;#int &amp;amp;$array#&gt; );</string>
+	<string>m_completeauthorizations ( &lt;#resource $conn#&gt;, &lt;#int &amp;$array#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>48AABED4-7A47-4382-80FE-10DBE5F6DB5A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>m_completeauthorizations(resource $conn, int &amp;amp;$array)</string>
+	<string>m_completeauthorizations(resource $conn, int &amp;$array)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

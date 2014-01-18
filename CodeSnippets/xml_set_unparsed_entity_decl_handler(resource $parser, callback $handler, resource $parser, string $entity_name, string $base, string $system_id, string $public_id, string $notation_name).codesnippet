@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xml_set_unparsed_entity_decl_handler</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>xml_set_unparsed_entity_decl_handler ( &lt;#resource $parser#&gt;, &lt;#callback $handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $entity_name#&gt;, &lt;#string $base#&gt;, &lt;#string $system_id#&gt;, &lt;#string $public_id#&gt;, &lt;#string $notation_name#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>xml_set_unparsed_entity_decl_handler(resource $parser, callback $handler, resource $parser, string $entity_name, string $base, string $system_id, string $public_id, string $notation_name)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

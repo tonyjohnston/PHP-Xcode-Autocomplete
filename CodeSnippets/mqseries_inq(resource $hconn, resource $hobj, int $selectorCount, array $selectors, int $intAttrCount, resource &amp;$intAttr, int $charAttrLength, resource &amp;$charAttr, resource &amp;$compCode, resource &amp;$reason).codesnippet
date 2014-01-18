@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mqseries_inq</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_inq ( &lt;#resource $hconn#&gt;, &lt;#resource $hobj#&gt;, &lt;#int $selectorCount#&gt;, &lt;#array $selectors#&gt;, &lt;#int $intAttrCount#&gt;, &lt;#resource &amp;amp;$intAttr#&gt;, &lt;#int $charAttrLength#&gt;, &lt;#resource &amp;amp;$charAttr#&gt;, &lt;#resource &amp;amp;$compCode#&gt;, &lt;#resource &amp;amp;$reason#&gt; );</string>
+	<string>mqseries_inq ( &lt;#resource $hconn#&gt;, &lt;#resource $hobj#&gt;, &lt;#int $selectorCount#&gt;, &lt;#array $selectors#&gt;, &lt;#int $intAttrCount#&gt;, &lt;#resource &amp;$intAttr#&gt;, &lt;#int $charAttrLength#&gt;, &lt;#resource &amp;$charAttr#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BE65C636-B961-47F1-9FB9-3C5C3B8EE984</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mqseries_inq(resource $hconn, resource $hobj, int $selectorCount, array $selectors, int $intAttrCount, resource &amp;amp;$intAttr, int $charAttrLength, resource &amp;amp;$charAttr, resource &amp;amp;$compCode, resource &amp;amp;$reason)</string>
+	<string>mqseries_inq(resource $hconn, resource $hobj, int $selectorCount, array $selectors, int $intAttrCount, resource &amp;$intAttr, int $charAttrLength, resource &amp;$charAttr, resource &amp;$compCode, resource &amp;$reason)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

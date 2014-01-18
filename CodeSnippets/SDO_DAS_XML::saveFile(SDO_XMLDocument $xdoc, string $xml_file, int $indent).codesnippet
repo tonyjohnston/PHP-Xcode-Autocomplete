@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>SDO_DAS_XML::saveFile</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>SDO_DAS_XML::saveFile ( &lt;#SDO_XMLDocument $xdoc#&gt;, &lt;#string $xml_file#&gt;, &lt;#int $indent#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>SDO_DAS_XML::saveFile(SDO_XMLDocument $xdoc, string $xml_file, int $indent)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

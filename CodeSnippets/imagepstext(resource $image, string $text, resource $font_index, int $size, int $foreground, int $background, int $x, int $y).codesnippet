@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imagepstext</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imagepstext ( &lt;#resource $image#&gt;, &lt;#string $text#&gt;, &lt;#resource $font_index#&gt;, &lt;#int $size#&gt;, &lt;#int $foreground#&gt;, &lt;#int $background#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imagepstext(resource $image, string $text, resource $font_index, int $size, int $foreground, int $background, int $x, int $y)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

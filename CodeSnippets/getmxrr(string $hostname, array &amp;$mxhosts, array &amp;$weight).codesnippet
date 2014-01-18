@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>getmxrr</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getmxrr ( &lt;#string $hostname#&gt;, &lt;#array &amp;amp;$mxhosts#&gt;, &lt;#array &amp;amp;$weight#&gt; );</string>
+	<string>getmxrr ( &lt;#string $hostname#&gt;, &lt;#array &amp;$mxhosts#&gt;, &lt;#array &amp;$weight#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92876A56-4A04-460C-BC6E-F67AB8A74A7A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>getmxrr(string $hostname, array &amp;amp;$mxhosts, array &amp;amp;$weight)</string>
+	<string>getmxrr(string $hostname, array &amp;$mxhosts, array &amp;$weight)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ImagickDraw::pathEllipticArcRelative</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>ImagickDraw::pathEllipticArcRelative ( &lt;#float $rx#&gt;, &lt;#float $ry#&gt;, &lt;#float $x_axis_rotation#&gt;, &lt;#bool $large_arc_flag#&gt;, &lt;#bool $sweep_flag#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>ImagickDraw::pathEllipticArcRelative(float $rx, float $ry, float $x_axis_rotation, bool $large_arc_flag, bool $sweep_flag, float $x, float $y)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

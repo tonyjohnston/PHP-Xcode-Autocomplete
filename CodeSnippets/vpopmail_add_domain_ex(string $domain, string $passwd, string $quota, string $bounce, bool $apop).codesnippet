@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>vpopmail_add_domain_ex</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>vpopmail_add_domain_ex ( &lt;#string $domain#&gt;, &lt;#string $passwd#&gt;, &lt;#string $quota#&gt;, &lt;#string $bounce#&gt;, &lt;#bool $apop#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>vpopmail_add_domain_ex(string $domain, string $passwd, string $quota, string $bounce, bool $apop)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

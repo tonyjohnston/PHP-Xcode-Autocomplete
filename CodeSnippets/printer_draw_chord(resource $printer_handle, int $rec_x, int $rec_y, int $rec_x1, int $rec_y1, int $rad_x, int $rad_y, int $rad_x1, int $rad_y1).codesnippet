@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>printer_draw_chord</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>printer_draw_chord ( &lt;#resource $printer_handle#&gt;, &lt;#int $rec_x#&gt;, &lt;#int $rec_y#&gt;, &lt;#int $rec_x1#&gt;, &lt;#int $rec_y1#&gt;, &lt;#int $rad_x#&gt;, &lt;#int $rad_y#&gt;, &lt;#int $rad_x1#&gt;, &lt;#int $rad_y1#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>printer_draw_chord(resource $printer_handle, int $rec_x, int $rec_y, int $rec_x1, int $rec_y1, int $rad_x, int $rad_y, int $rad_x1, int $rad_y1)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

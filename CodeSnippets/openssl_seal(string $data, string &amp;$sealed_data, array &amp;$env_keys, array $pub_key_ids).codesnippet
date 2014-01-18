@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_seal</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_seal ( &lt;#string $data#&gt;, &lt;#string &amp;amp;$sealed_data#&gt;, &lt;#array &amp;amp;$env_keys#&gt;, &lt;#array $pub_key_ids#&gt; );</string>
+	<string>openssl_seal ( &lt;#string $data#&gt;, &lt;#string &amp;$sealed_data#&gt;, &lt;#array &amp;$env_keys#&gt;, &lt;#array $pub_key_ids#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DAF423BA-368A-46CF-B055-C0F2DC3AB99F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>openssl_seal(string $data, string &amp;amp;$sealed_data, array &amp;amp;$env_keys, array $pub_key_ids)</string>
+	<string>openssl_seal(string $data, string &amp;$sealed_data, array &amp;$env_keys, array $pub_key_ids)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

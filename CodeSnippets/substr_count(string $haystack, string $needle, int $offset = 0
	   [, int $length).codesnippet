@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>substr_count</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>substr_count ( &lt;#string $haystack#&gt;, &lt;#string $needle#&gt;, &lt;#int $offset = 0
 	   [, int $length#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, int $length)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

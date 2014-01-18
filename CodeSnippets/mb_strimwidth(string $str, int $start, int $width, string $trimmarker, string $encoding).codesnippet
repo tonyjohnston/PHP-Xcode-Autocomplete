@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mb_strimwidth</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>mb_strimwidth ( &lt;#string $str#&gt;, &lt;#int $start#&gt;, &lt;#int $width#&gt;, &lt;#string $trimmarker#&gt;, &lt;#string $encoding#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>mb_strimwidth(string $str, int $start, int $width, string $trimmarker, string $encoding)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

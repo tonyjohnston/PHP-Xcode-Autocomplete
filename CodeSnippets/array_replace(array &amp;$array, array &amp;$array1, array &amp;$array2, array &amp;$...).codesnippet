@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>array_replace</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_replace ( &lt;#array &amp;amp;$array#&gt;, &lt;#array &amp;amp;$array1#&gt;, &lt;#array &amp;amp;$array2#&gt;, &lt;#array &amp;amp;$...#&gt; );</string>
+	<string>array_replace ( &lt;#array &amp;$array#&gt;, &lt;#array &amp;$array1#&gt;, &lt;#array &amp;$array2#&gt;, &lt;#array &amp;$...#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1F9C66D-6933-4C09-B21F-D869CF8B86D7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>array_replace(array &amp;amp;$array, array &amp;amp;$array1, array &amp;amp;$array2, array &amp;amp;$...)</string>
+	<string>array_replace(array &amp;$array, array &amp;$array1, array &amp;$array2, array &amp;$...)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

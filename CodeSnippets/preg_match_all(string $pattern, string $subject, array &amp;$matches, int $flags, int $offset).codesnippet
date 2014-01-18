@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>preg_match_all</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>preg_match_all ( &lt;#string $pattern#&gt;, &lt;#string $subject#&gt;, &lt;#array &amp;amp;$matches#&gt;, &lt;#int $flags#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>preg_match_all ( &lt;#string $pattern#&gt;, &lt;#string $subject#&gt;, &lt;#array &amp;$matches#&gt;, &lt;#int $flags#&gt;, &lt;#int $offset#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C7940C48-531D-4AC8-B29E-A67571929F20</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>preg_match_all(string $pattern, string $subject, array &amp;amp;$matches, int $flags, int $offset)</string>
+	<string>preg_match_all(string $pattern, string $subject, array &amp;$matches, int $flags, int $offset)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

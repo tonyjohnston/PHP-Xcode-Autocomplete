@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>apd_set_session_trace_socket</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>apd_set_session_trace_socket ( &lt;#string $tcp_server#&gt;, &lt;#int $socket_type#&gt;, &lt;#int $port#&gt;, &lt;#int $debug_level#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>apd_set_session_trace_socket(string $tcp_server, int $socket_type, int $port, int $debug_level)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

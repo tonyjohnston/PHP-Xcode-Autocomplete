@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>oci_fetch_all</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_fetch_all ( &lt;#resource $statement#&gt;, &lt;#array &amp;amp;$output#&gt; );</string>
+	<string>oci_fetch_all ( &lt;#resource $statement#&gt;, &lt;#array &amp;$output#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>42F0E7AA-2440-4FB9-B594-AAA439BF4B42</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>oci_fetch_all(resource $statement, array &amp;amp;$output)</string>
+	<string>oci_fetch_all(resource $statement, array &amp;$output)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

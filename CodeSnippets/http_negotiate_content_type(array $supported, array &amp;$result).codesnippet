@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>http_negotiate_content_type</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_negotiate_content_type ( &lt;#array $supported#&gt;, &lt;#array &amp;amp;$result#&gt; );</string>
+	<string>http_negotiate_content_type ( &lt;#array $supported#&gt;, &lt;#array &amp;$result#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3927D2BA-568B-4A29-9EC5-D4A90B24756B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>http_negotiate_content_type(array $supported, array &amp;amp;$result)</string>
+	<string>http_negotiate_content_type(array $supported, array &amp;$result)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

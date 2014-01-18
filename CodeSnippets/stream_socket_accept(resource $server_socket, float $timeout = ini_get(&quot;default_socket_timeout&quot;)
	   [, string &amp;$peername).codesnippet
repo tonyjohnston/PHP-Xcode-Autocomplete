@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>stream_socket_accept</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>stream_socket_accept ( &lt;#resource $server_socket#&gt;, &lt;#float $timeout = ini_get(&amp;quot;default_socket_timeout&amp;quot;)
-	   [, string &amp;amp;$peername#&gt; );</string>
+	   [, string &amp;$peername#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C8F68A0E-3EB8-43A6-8F14-9DED7481E891</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>stream_socket_accept(resource $server_socket, float $timeout = ini_get(&amp;quot;default_socket_timeout&amp;quot;)
-	   [, string &amp;amp;$peername)</string>
+	   [, string &amp;$peername)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

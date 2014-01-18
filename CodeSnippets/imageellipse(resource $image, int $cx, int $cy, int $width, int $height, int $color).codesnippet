@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>imageellipse</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>imageellipse ( &lt;#resource $image#&gt;, &lt;#int $cx#&gt;, &lt;#int $cy#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $color#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>imageellipse(resource $image, int $cx, int $cy, int $width, int $height, int $color)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

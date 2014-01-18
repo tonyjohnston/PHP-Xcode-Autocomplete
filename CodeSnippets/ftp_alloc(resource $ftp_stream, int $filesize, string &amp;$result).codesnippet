@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ftp_alloc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_alloc ( &lt;#resource $ftp_stream#&gt;, &lt;#int $filesize#&gt;, &lt;#string &amp;amp;$result#&gt; );</string>
+	<string>ftp_alloc ( &lt;#resource $ftp_stream#&gt;, &lt;#int $filesize#&gt;, &lt;#string &amp;$result#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6FC80307-8D23-47E8-A48D-05D9B09ED8D1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ftp_alloc(resource $ftp_stream, int $filesize, string &amp;amp;$result)</string>
+	<string>ftp_alloc(resource $ftp_stream, int $filesize, string &amp;$result)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>setrawcookie</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>setrawcookie ( &lt;#string $name#&gt;, &lt;#string $value#&gt;, &lt;#int $expire = 0
 	   [, string $path#&gt;, &lt;#string $domain#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, string $path, string $domain)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

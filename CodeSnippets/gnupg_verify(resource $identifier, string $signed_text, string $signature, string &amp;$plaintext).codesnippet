@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>gnupg_verify</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_verify ( &lt;#resource $identifier#&gt;, &lt;#string $signed_text#&gt;, &lt;#string $signature#&gt;, &lt;#string &amp;amp;$plaintext#&gt; );</string>
+	<string>gnupg_verify ( &lt;#resource $identifier#&gt;, &lt;#string $signed_text#&gt;, &lt;#string $signature#&gt;, &lt;#string &amp;$plaintext#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A1103BB-3BA4-4424-85AE-E9258052A08A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>gnupg_verify(resource $identifier, string $signed_text, string $signature, string &amp;amp;$plaintext)</string>
+	<string>gnupg_verify(resource $identifier, string $signed_text, string $signature, string &amp;$plaintext)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>HaruImage::setColorMask</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>HaruImage::setColorMask ( &lt;#int $rmin#&gt;, &lt;#int $rmax#&gt;, &lt;#int $gmin#&gt;, &lt;#int $gmax#&gt;, &lt;#int $bmin#&gt;, &lt;#int $bmax#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>HaruImage::setColorMask(int $rmin, int $rmax, int $gmin, int $gmax, int $bmin, int $bmax)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mqseries_open</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_open ( &lt;#resource $hconn#&gt;, &lt;#array &amp;amp;$objDesc#&gt;, &lt;#int $option#&gt;, &lt;#resource &amp;amp;$hobj#&gt;, &lt;#resource &amp;amp;$compCode#&gt;, &lt;#resource &amp;amp;$reason#&gt; );</string>
+	<string>mqseries_open ( &lt;#resource $hconn#&gt;, &lt;#array &amp;$objDesc#&gt;, &lt;#int $option#&gt;, &lt;#resource &amp;$hobj#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>38DD9140-12A5-4535-BEAB-B03509F3B7D1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mqseries_open(resource $hconn, array &amp;amp;$objDesc, int $option, resource &amp;amp;$hobj, resource &amp;amp;$compCode, resource &amp;amp;$reason)</string>
+	<string>mqseries_open(resource $hconn, array &amp;$objDesc, int $option, resource &amp;$hobj, resource &amp;$compCode, resource &amp;$reason)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

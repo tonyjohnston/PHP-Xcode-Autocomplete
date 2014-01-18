@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>array_replace_recursive</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_replace_recursive ( &lt;#array &amp;amp;$array#&gt;, &lt;#array &amp;amp;$array1#&gt;, &lt;#array &amp;amp;$array2#&gt;, &lt;#array &amp;amp;$...#&gt; );</string>
+	<string>array_replace_recursive ( &lt;#array &amp;$array#&gt;, &lt;#array &amp;$array1#&gt;, &lt;#array &amp;$array2#&gt;, &lt;#array &amp;$...#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F57A4470-D442-4326-B239-513657F03A45</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>array_replace_recursive(array &amp;amp;$array, array &amp;amp;$array1, array &amp;amp;$array2, array &amp;amp;$...)</string>
+	<string>array_replace_recursive(array &amp;$array, array &amp;$array1, array &amp;$array2, array &amp;$...)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

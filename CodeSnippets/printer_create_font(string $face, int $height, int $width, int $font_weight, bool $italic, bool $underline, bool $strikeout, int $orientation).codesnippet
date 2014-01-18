@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>printer_create_font</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>printer_create_font ( &lt;#string $face#&gt;, &lt;#int $height#&gt;, &lt;#int $width#&gt;, &lt;#int $font_weight#&gt;, &lt;#bool $italic#&gt;, &lt;#bool $underline#&gt;, &lt;#bool $strikeout#&gt;, &lt;#int $orientation#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>printer_create_font(string $face, int $height, int $width, int $font_weight, bool $italic, bool $underline, bool $strikeout, int $orientation)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

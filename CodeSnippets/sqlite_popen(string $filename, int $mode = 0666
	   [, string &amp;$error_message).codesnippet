@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_popen</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>sqlite_popen ( &lt;#string $filename#&gt;, &lt;#int $mode = 0666
-	   [, string &amp;amp;$error_message#&gt; );</string>
+	   [, string &amp;$error_message#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>05673E79-A707-44D1-9C50-6C9DE5180F20</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>sqlite_popen(string $filename, int $mode = 0666
-	   [, string &amp;amp;$error_message)</string>
+	   [, string &amp;$error_message)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

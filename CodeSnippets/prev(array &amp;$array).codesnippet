@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>prev</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>prev ( &lt;#array &amp;amp;$array#&gt; );</string>
+	<string>prev ( &lt;#array &amp;$array#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB57D7D1-F39E-496E-AD12-F4D67B87A8DB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>prev(array &amp;amp;$array)</string>
+	<string>prev(array &amp;$array)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

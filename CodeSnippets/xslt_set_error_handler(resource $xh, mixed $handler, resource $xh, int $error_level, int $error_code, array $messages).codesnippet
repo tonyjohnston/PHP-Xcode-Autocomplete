@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xslt_set_error_handler</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>xslt_set_error_handler ( &lt;#resource $xh#&gt;, &lt;#mixed $handler#&gt;, &lt;#resource $xh#&gt;, &lt;#int $error_level#&gt;, &lt;#int $error_code#&gt;, &lt;#array $messages#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>xslt_set_error_handler(resource $xh, mixed $handler, resource $xh, int $error_level, int $error_code, array $messages)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

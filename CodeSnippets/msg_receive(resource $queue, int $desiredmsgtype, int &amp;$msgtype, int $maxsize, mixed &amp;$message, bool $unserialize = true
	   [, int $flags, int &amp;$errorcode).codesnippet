@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>msg_receive</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msg_receive ( &lt;#resource $queue#&gt;, &lt;#int $desiredmsgtype#&gt;, &lt;#int &amp;amp;$msgtype#&gt;, &lt;#int $maxsize#&gt;, &lt;#mixed &amp;amp;$message#&gt;, &lt;#bool $unserialize = true
-	   [, int $flags#&gt;, &lt;#int &amp;amp;$errorcode#&gt; );</string>
+	<string>msg_receive ( &lt;#resource $queue#&gt;, &lt;#int $desiredmsgtype#&gt;, &lt;#int &amp;$msgtype#&gt;, &lt;#int $maxsize#&gt;, &lt;#mixed &amp;$message#&gt;, &lt;#bool $unserialize = true
+	   [, int $flags#&gt;, &lt;#int &amp;$errorcode#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84D41527-D664-4B42-8FE6-D038E0A2635A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>msg_receive(resource $queue, int $desiredmsgtype, int &amp;amp;$msgtype, int $maxsize, mixed &amp;amp;$message, bool $unserialize = true
-	   [, int $flags, int &amp;amp;$errorcode)</string>
+	<string>msg_receive(resource $queue, int $desiredmsgtype, int &amp;$msgtype, int $maxsize, mixed &amp;$message, bool $unserialize = true
+	   [, int $flags, int &amp;$errorcode)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

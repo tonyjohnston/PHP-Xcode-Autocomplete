@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_exec</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_exec ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#string &amp;amp;$error_msg#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#string &amp;amp;$error_msg#&gt; );</string>
+	<string>sqlite_exec ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#string &amp;$error_msg#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#string &amp;$error_msg#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F89B34B6-5437-4294-B195-FC45AD5E34A0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sqlite_exec(resource $dbhandle, string $query, string &amp;amp;$error_msg, string $query, resource $dbhandle, string $query, string &amp;amp;$error_msg)</string>
+	<string>sqlite_exec(resource $dbhandle, string $query, string &amp;$error_msg, string $query, resource $dbhandle, string $query, string &amp;$error_msg)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

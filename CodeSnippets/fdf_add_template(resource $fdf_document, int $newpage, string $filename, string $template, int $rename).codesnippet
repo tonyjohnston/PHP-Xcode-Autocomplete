@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>fdf_add_template</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>fdf_add_template ( &lt;#resource $fdf_document#&gt;, &lt;#int $newpage#&gt;, &lt;#string $filename#&gt;, &lt;#string $template#&gt;, &lt;#int $rename#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>fdf_add_template(resource $fdf_document, int $newpage, string $filename, string $template, int $rename)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

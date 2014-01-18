@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>gnupg_decryptverify</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_decryptverify ( &lt;#resource $identifier#&gt;, &lt;#string $text#&gt;, &lt;#string &amp;amp;$plaintext#&gt; );</string>
+	<string>gnupg_decryptverify ( &lt;#resource $identifier#&gt;, &lt;#string $text#&gt;, &lt;#string &amp;$plaintext#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>43C5A0AD-C7C4-4340-99A7-8791D9DECD4F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>gnupg_decryptverify(resource $identifier, string $text, string &amp;amp;$plaintext)</string>
+	<string>gnupg_decryptverify(resource $identifier, string $text, string &amp;$plaintext)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mb_convert_kana</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>mb_convert_kana ( &lt;#string $str#&gt;, &lt;#string $option = &amp;quot;KV&amp;quot;
 	   [, string $encoding#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, string $encoding)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

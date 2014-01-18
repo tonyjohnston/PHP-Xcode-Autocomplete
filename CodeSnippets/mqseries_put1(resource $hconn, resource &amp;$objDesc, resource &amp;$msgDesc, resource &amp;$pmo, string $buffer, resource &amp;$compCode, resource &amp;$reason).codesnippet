@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mqseries_put1</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_put1 ( &lt;#resource $hconn#&gt;, &lt;#resource &amp;amp;$objDesc#&gt;, &lt;#resource &amp;amp;$msgDesc#&gt;, &lt;#resource &amp;amp;$pmo#&gt;, &lt;#string $buffer#&gt;, &lt;#resource &amp;amp;$compCode#&gt;, &lt;#resource &amp;amp;$reason#&gt; );</string>
+	<string>mqseries_put1 ( &lt;#resource $hconn#&gt;, &lt;#resource &amp;$objDesc#&gt;, &lt;#resource &amp;$msgDesc#&gt;, &lt;#resource &amp;$pmo#&gt;, &lt;#string $buffer#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>457DBA6F-F04F-4659-B8C0-30C2DF6FA87F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mqseries_put1(resource $hconn, resource &amp;amp;$objDesc, resource &amp;amp;$msgDesc, resource &amp;amp;$pmo, string $buffer, resource &amp;amp;$compCode, resource &amp;amp;$reason)</string>
+	<string>mqseries_put1(resource $hconn, resource &amp;$objDesc, resource &amp;$msgDesc, resource &amp;$pmo, string $buffer, resource &amp;$compCode, resource &amp;$reason)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

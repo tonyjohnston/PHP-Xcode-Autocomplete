@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>HaruDoc::setInfoDateAttr</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>HaruDoc::setInfoDateAttr ( &lt;#int $type#&gt;, &lt;#int $year#&gt;, &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $hour#&gt;, &lt;#int $min#&gt;, &lt;#int $sec#&gt;, &lt;#string $ind#&gt;, &lt;#int $off_hour#&gt;, &lt;#int $off_min#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>HaruDoc::setInfoDateAttr(int $type, int $year, int $month, int $day, int $hour, int $min, int $sec, string $ind, int $off_hour, int $off_min)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

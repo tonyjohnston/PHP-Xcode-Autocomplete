@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>filter_input</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>filter_input ( &lt;#int $type#&gt;, &lt;#string $variable_name#&gt;, &lt;#int $filter = FILTER_DEFAULT
 	   [, mixed $options#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, mixed $options)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

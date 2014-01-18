@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ncurses_getmaxyx</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_getmaxyx ( &lt;#resource $window#&gt;, &lt;#int &amp;amp;$y#&gt;, &lt;#int &amp;amp;$x#&gt; );</string>
+	<string>ncurses_getmaxyx ( &lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83C4C698-486C-4462-8111-0E6712EC447D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ncurses_getmaxyx(resource $window, int &amp;amp;$y, int &amp;amp;$x)</string>
+	<string>ncurses_getmaxyx(resource $window, int &amp;$y, int &amp;$x)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

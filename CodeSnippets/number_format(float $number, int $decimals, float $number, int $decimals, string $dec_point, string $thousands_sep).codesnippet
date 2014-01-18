@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>number_format</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>number_format ( &lt;#float $number#&gt;, &lt;#int $decimals#&gt;, &lt;#float $number#&gt;, &lt;#int $decimals#&gt;, &lt;#string $dec_point#&gt;, &lt;#string $thousands_sep#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>number_format(float $number, int $decimals, float $number, int $decimals, string $dec_point, string $thousands_sep)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

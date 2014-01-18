@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>stream_select</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_select ( &lt;#array &amp;amp;$read#&gt;, &lt;#array &amp;amp;$write#&gt;, &lt;#array &amp;amp;$except#&gt;, &lt;#int $tv_sec#&gt; );</string>
+	<string>stream_select ( &lt;#array &amp;$read#&gt;, &lt;#array &amp;$write#&gt;, &lt;#array &amp;$except#&gt;, &lt;#int $tv_sec#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7D2F2BB-132A-45A8-ACA6-C6DFB7D39691</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>stream_select(array &amp;amp;$read, array &amp;amp;$write, array &amp;amp;$except, int $tv_sec)</string>
+	<string>stream_select(array &amp;$read, array &amp;$write, array &amp;$except, int $tv_sec)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

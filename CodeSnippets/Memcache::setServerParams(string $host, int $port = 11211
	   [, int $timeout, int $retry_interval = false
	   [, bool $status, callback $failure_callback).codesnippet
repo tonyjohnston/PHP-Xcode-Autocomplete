@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>Memcache::setServerParams</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>Memcache::setServerParams ( &lt;#string $host#&gt;, &lt;#int $port = 11211
 	   [, int $timeout#&gt;, &lt;#int $retry_interval = false
@@ -18,5 +22,7 @@
 	   [, bool $status, callback $failure_callback)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

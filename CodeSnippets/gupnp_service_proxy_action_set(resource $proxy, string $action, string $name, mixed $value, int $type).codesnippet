@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>gupnp_service_proxy_action_set</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>gupnp_service_proxy_action_set ( &lt;#resource $proxy#&gt;, &lt;#string $action#&gt;, &lt;#string $name#&gt;, &lt;#mixed $value#&gt;, &lt;#int $type#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>gupnp_service_proxy_action_set(resource $proxy, string $action, string $name, mixed $value, int $type)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

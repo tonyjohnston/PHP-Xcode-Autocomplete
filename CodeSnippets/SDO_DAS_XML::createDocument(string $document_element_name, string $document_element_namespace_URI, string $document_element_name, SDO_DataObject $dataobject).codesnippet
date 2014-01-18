@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>SDO_DAS_XML::createDocument</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>SDO_DAS_XML::createDocument ( &lt;#string $document_element_name#&gt;, &lt;#string $document_element_namespace_URI#&gt;, &lt;#string $document_element_name#&gt;, &lt;#SDO_DataObject $dataobject#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>SDO_DAS_XML::createDocument(string $document_element_name, string $document_element_namespace_URI, string $document_element_name, SDO_DataObject $dataobject)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

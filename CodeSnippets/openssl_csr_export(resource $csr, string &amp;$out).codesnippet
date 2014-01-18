@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_csr_export</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_csr_export ( &lt;#resource $csr#&gt;, &lt;#string &amp;amp;$out#&gt; );</string>
+	<string>openssl_csr_export ( &lt;#resource $csr#&gt;, &lt;#string &amp;$out#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>724ACB16-2E43-4707-8006-4C922FAD48CA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>openssl_csr_export(resource $csr, string &amp;amp;$out)</string>
+	<string>openssl_csr_export(resource $csr, string &amp;$out)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

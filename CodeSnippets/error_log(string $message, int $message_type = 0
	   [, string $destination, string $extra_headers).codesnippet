@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>error_log</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>error_log ( &lt;#string $message#&gt;, &lt;#int $message_type = 0
 	   [, string $destination#&gt;, &lt;#string $extra_headers#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, string $destination, string $extra_headers)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

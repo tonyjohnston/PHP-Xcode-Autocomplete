@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>php_check_syntax</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>php_check_syntax ( &lt;#string $filename#&gt;, &lt;#string &amp;amp;$error_message#&gt; );</string>
+	<string>php_check_syntax ( &lt;#string $filename#&gt;, &lt;#string &amp;$error_message#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E10733D9-9F1C-4572-B28E-0E76FB8FB6E7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>php_check_syntax(string $filename, string &amp;amp;$error_message)</string>
+	<string>php_check_syntax(string $filename, string &amp;$error_message)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

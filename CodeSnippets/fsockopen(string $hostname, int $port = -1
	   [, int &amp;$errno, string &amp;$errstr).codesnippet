@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>fsockopen</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>fsockopen ( &lt;#string $hostname#&gt;, &lt;#int $port = -1
-	   [, int &amp;amp;$errno#&gt;, &lt;#string &amp;amp;$errstr#&gt; );</string>
+	   [, int &amp;$errno#&gt;, &lt;#string &amp;$errstr#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32D15A62-E41C-44A8-8ED8-C75EBD05142F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>fsockopen(string $hostname, int $port = -1
-	   [, int &amp;amp;$errno, string &amp;amp;$errstr)</string>
+	   [, int &amp;$errno, string &amp;$errstr)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

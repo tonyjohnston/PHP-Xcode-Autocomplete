@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_create_function</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>sqlite_create_function ( &lt;#resource $dbhandle#&gt;, &lt;#string $function_name#&gt;, &lt;#callback $callback#&gt;, &lt;#int $num_args = -1
 	  ] )
@@ -22,5 +26,7 @@
 	<string>sqlite_create_function(resource $dbhandle, string $function_name, callback $callback, int $num_args = -1)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

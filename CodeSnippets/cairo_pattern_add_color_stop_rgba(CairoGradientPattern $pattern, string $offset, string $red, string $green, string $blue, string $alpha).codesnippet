@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>cairo_pattern_add_color_stop_rgba</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>cairo_pattern_add_color_stop_rgba ( &lt;#CairoGradientPattern $pattern#&gt;, &lt;#string $offset#&gt;, &lt;#string $red#&gt;, &lt;#string $green#&gt;, &lt;#string $blue#&gt;, &lt;#string $alpha#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>cairo_pattern_add_color_stop_rgba(CairoGradientPattern $pattern, string $offset, string $red, string $green, string $blue, string $alpha)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

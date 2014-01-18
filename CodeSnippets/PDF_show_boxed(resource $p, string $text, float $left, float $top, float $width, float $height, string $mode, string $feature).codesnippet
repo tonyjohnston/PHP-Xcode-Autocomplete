@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>PDF_show_boxed</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>PDF_show_boxed ( &lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#string $mode#&gt;, &lt;#string $feature#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>PDF_show_boxed(resource $p, string $text, float $left, float $top, float $width, float $height, string $mode, string $feature)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

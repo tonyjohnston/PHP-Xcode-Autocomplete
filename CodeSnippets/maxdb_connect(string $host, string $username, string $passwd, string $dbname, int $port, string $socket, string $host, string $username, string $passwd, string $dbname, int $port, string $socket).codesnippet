@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>maxdb_connect</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>maxdb_connect ( &lt;#string $host#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt;, &lt;#string $host#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>maxdb_connect(string $host, string $username, string $passwd, string $dbname, int $port, string $socket, string $host, string $username, string $passwd, string $dbname, int $port, string $socket)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

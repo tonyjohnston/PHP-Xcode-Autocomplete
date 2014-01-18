@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>grapheme_extract</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>grapheme_extract ( &lt;#string $haystack#&gt;, &lt;#int $size#&gt;, &lt;#int $extract_type#&gt;, &lt;#int $start = 0
-	   [, int &amp;amp;$next#&gt; );</string>
+	   [, int &amp;$next#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>960C99B9-BA97-4E3D-8535-E05802FE0B2E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>grapheme_extract(string $haystack, int $size, int $extract_type, int $start = 0
-	   [, int &amp;amp;$next)</string>
+	   [, int &amp;$next)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

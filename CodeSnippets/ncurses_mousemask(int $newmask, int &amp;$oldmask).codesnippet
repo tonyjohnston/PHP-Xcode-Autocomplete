@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ncurses_mousemask</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mousemask ( &lt;#int $newmask#&gt;, &lt;#int &amp;amp;$oldmask#&gt; );</string>
+	<string>ncurses_mousemask ( &lt;#int $newmask#&gt;, &lt;#int &amp;$oldmask#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32591646-D95D-43D2-8FD9-D0F8D48503E6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ncurses_mousemask(int $newmask, int &amp;amp;$oldmask)</string>
+	<string>ncurses_mousemask(int $newmask, int &amp;$oldmask)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

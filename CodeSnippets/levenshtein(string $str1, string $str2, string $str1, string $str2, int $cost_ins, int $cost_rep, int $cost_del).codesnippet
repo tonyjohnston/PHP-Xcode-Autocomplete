@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>levenshtein</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>levenshtein ( &lt;#string $str1#&gt;, &lt;#string $str2#&gt;, &lt;#string $str1#&gt;, &lt;#string $str2#&gt;, &lt;#int $cost_ins#&gt;, &lt;#int $cost_rep#&gt;, &lt;#int $cost_del#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>levenshtein(string $str1, string $str2, string $str1, string $str2, int $cost_ins, int $cost_rep, int $cost_del)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

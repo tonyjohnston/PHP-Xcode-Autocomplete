@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>http_put_file</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_put_file ( &lt;#string $url#&gt;, &lt;#string $file#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;amp;$info#&gt; );</string>
+	<string>http_put_file ( &lt;#string $url#&gt;, &lt;#string $file#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6687E72D-6CA0-46C5-BF97-814C4052F23B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>http_put_file(string $url, string $file, array $options, array &amp;amp;$info)</string>
+	<string>http_put_file(string $url, string $file, array $options, array &amp;$info)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

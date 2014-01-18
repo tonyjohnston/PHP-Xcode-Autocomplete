@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xmlrpc_decode_request</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_decode_request ( &lt;#string $xml#&gt;, &lt;#string &amp;amp;$method#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>xmlrpc_decode_request ( &lt;#string $xml#&gt;, &lt;#string &amp;$method#&gt;, &lt;#string $encoding#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0CCD79C0-D4DE-48F7-AC47-7D79A77DCF8A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>xmlrpc_decode_request(string $xml, string &amp;amp;$method, string $encoding)</string>
+	<string>xmlrpc_decode_request(string $xml, string &amp;$method, string $encoding)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>http_build_url</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>http_build_url ( &lt;#mixed $url#&gt;, &lt;#mixed $parts#&gt;, &lt;#int $flags = HTTP_URL_REPLACE
-	   [, array &amp;amp;$new_url#&gt; );</string>
+	   [, array &amp;$new_url#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4D47C65B-EFA7-41D2-A584-E9A9F31E3E0C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>http_build_url(mixed $url, mixed $parts, int $flags = HTTP_URL_REPLACE
-	   [, array &amp;amp;$new_url)</string>
+	   [, array &amp;$new_url)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>yaz_hits</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_hits ( &lt;#resource $id#&gt;, &lt;#array &amp;amp;$searchresult#&gt; );</string>
+	<string>yaz_hits ( &lt;#resource $id#&gt;, &lt;#array &amp;$searchresult#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E426C90C-3C09-42D7-AE2C-F2B0D0474229</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>yaz_hits(resource $id, array &amp;amp;$searchresult)</string>
+	<string>yaz_hits(resource $id, array &amp;$searchresult)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

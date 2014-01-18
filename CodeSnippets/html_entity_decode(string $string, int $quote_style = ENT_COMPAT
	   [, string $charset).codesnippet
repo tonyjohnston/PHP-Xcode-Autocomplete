@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>html_entity_decode</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>html_entity_decode ( &lt;#string $string#&gt;, &lt;#int $quote_style = ENT_COMPAT
 	   [, string $charset#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, string $charset)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

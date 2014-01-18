@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>exif_thumbnail</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>exif_thumbnail ( &lt;#string $filename#&gt;, &lt;#int &amp;amp;$width#&gt;, &lt;#int &amp;amp;$height#&gt;, &lt;#int &amp;amp;$imagetype#&gt; );</string>
+	<string>exif_thumbnail ( &lt;#string $filename#&gt;, &lt;#int &amp;$width#&gt;, &lt;#int &amp;$height#&gt;, &lt;#int &amp;$imagetype#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0ECF6087-D821-46D3-8AE9-5812BD9DCFD7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>exif_thumbnail(string $filename, int &amp;amp;$width, int &amp;amp;$height, int &amp;amp;$imagetype)</string>
+	<string>exif_thumbnail(string $filename, int &amp;$width, int &amp;$height, int &amp;$imagetype)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

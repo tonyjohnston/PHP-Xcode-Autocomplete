@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ldap_get_option</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_get_option ( &lt;#resource $link_identifier#&gt;, &lt;#int $option#&gt;, &lt;#mixed &amp;amp;$retval#&gt; );</string>
+	<string>ldap_get_option ( &lt;#resource $link_identifier#&gt;, &lt;#int $option#&gt;, &lt;#mixed &amp;$retval#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A99341A-B52F-4D13-AE4C-07BB1D9DA48A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ldap_get_option(resource $link_identifier, int $option, mixed &amp;amp;$retval)</string>
+	<string>ldap_get_option(resource $link_identifier, int $option, mixed &amp;$retval)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

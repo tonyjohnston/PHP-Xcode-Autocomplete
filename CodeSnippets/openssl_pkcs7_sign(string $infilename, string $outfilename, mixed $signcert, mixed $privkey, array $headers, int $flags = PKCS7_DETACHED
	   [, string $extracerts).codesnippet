@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_pkcs7_sign</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>openssl_pkcs7_sign ( &lt;#string $infilename#&gt;, &lt;#string $outfilename#&gt;, &lt;#mixed $signcert#&gt;, &lt;#mixed $privkey#&gt;, &lt;#array $headers#&gt;, &lt;#int $flags = PKCS7_DETACHED
 	   [, string $extracerts#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, string $extracerts)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

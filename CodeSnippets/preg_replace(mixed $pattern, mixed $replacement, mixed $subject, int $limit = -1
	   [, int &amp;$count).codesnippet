@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>preg_replace</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>preg_replace ( &lt;#mixed $pattern#&gt;, &lt;#mixed $replacement#&gt;, &lt;#mixed $subject#&gt;, &lt;#int $limit = -1
-	   [, int &amp;amp;$count#&gt; );</string>
+	   [, int &amp;$count#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12136952-87C9-403C-97B4-5E07AD35D41A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>preg_replace(mixed $pattern, mixed $replacement, mixed $subject, int $limit = -1
-	   [, int &amp;amp;$count)</string>
+	   [, int &amp;$count)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

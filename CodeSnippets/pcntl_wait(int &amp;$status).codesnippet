@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>pcntl_wait</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_wait ( &lt;#int &amp;amp;$status#&gt; );</string>
+	<string>pcntl_wait ( &lt;#int &amp;$status#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA92F131-74E8-4596-A743-B3F20CE0548B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pcntl_wait(int &amp;amp;$status)</string>
+	<string>pcntl_wait(int &amp;$status)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

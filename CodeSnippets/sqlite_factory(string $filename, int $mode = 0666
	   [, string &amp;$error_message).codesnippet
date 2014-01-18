@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_factory</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>sqlite_factory ( &lt;#string $filename#&gt;, &lt;#int $mode = 0666
-	   [, string &amp;amp;$error_message#&gt; );</string>
+	   [, string &amp;$error_message#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB2E60C3-EFCA-46C5-B8D1-3E6483C15519</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>sqlite_factory(string $filename, int $mode = 0666
-	   [, string &amp;amp;$error_message)</string>
+	   [, string &amp;$error_message)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

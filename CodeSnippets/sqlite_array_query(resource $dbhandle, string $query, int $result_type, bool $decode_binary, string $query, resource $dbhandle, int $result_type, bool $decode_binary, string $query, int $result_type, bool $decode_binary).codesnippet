@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_array_query</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>sqlite_array_query ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>sqlite_array_query(resource $dbhandle, string $query, int $result_type, bool $decode_binary, string $query, resource $dbhandle, int $result_type, bool $decode_binary, string $query, int $result_type, bool $decode_binary)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

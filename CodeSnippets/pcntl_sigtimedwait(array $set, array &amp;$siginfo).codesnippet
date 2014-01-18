@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>pcntl_sigtimedwait</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_sigtimedwait ( &lt;#array $set#&gt;, &lt;#array &amp;amp;$siginfo#&gt; );</string>
+	<string>pcntl_sigtimedwait ( &lt;#array $set#&gt;, &lt;#array &amp;$siginfo#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B686D4F-8AA0-4AC7-B2CC-83352750A4A3</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pcntl_sigtimedwait(array $set, array &amp;amp;$siginfo)</string>
+	<string>pcntl_sigtimedwait(array $set, array &amp;$siginfo)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

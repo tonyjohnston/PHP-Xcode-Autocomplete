@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>PDF_setcolor</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>PDF_setcolor ( &lt;#resource $p#&gt;, &lt;#string $fstype#&gt;, &lt;#string $colorspace#&gt;, &lt;#float $c1#&gt;, &lt;#float $c2#&gt;, &lt;#float $c3#&gt;, &lt;#float $c4#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>PDF_setcolor(resource $p, string $fstype, string $colorspace, float $c1, float $c2, float $c3, float $c4)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

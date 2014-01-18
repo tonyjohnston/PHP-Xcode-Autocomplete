@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>dns_get_record</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>dns_get_record ( &lt;#string $hostname#&gt;, &lt;#int $type = DNS_ANY
-	   [, array &amp;amp;$authns#&gt;, &lt;#array &amp;amp;$addtl#&gt; );</string>
+	   [, array &amp;$authns#&gt;, &lt;#array &amp;$addtl#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9C11F44-46C7-47A1-9E7D-56FFCAE0176A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>dns_get_record(string $hostname, int $type = DNS_ANY
-	   [, array &amp;amp;$authns, array &amp;amp;$addtl)</string>
+	   [, array &amp;$authns, array &amp;$addtl)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

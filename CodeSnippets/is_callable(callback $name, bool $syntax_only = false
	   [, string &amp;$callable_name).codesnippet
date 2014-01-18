@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>is_callable</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>is_callable ( &lt;#callback $name#&gt;, &lt;#bool $syntax_only = false
-	   [, string &amp;amp;$callable_name#&gt; );</string>
+	   [, string &amp;$callable_name#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C3F404A9-2EC6-42A2-953D-425A41948C6E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>is_callable(callback $name, bool $syntax_only = false
-	   [, string &amp;amp;$callable_name)</string>
+	   [, string &amp;$callable_name)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

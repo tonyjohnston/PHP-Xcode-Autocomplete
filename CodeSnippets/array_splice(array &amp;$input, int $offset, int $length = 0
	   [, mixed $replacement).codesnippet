@@ -4,17 +4,23 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>array_splice</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_splice ( &lt;#array &amp;amp;$input#&gt;, &lt;#int $offset#&gt;, &lt;#int $length = 0
+	<string>array_splice ( &lt;#array &amp;$input#&gt;, &lt;#int $offset#&gt;, &lt;#int $length = 0
 	   [, mixed $replacement#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D49C8D3D-1E9D-4D4F-BD71-C948A1073E6A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>array_splice(array &amp;amp;$input, int $offset, int $length = 0
+	<string>array_splice(array &amp;$input, int $offset, int $length = 0
 	   [, mixed $replacement)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

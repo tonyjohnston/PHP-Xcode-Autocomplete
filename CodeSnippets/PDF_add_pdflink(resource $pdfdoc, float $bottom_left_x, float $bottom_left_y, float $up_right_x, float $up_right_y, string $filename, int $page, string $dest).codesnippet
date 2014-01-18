@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>PDF_add_pdflink</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>PDF_add_pdflink ( &lt;#resource $pdfdoc#&gt;, &lt;#float $bottom_left_x#&gt;, &lt;#float $bottom_left_y#&gt;, &lt;#float $up_right_x#&gt;, &lt;#float $up_right_y#&gt;, &lt;#string $filename#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>PDF_add_pdflink(resource $pdfdoc, float $bottom_left_x, float $bottom_left_y, float $up_right_x, float $up_right_y, string $filename, int $page, string $dest)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

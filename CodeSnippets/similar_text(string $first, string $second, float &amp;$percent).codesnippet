@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>similar_text</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>similar_text ( &lt;#string $first#&gt;, &lt;#string $second#&gt;, &lt;#float &amp;amp;$percent#&gt; );</string>
+	<string>similar_text ( &lt;#string $first#&gt;, &lt;#string $second#&gt;, &lt;#float &amp;$percent#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A52C185-8DE2-45F8-9EF4-83D96896C1F6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>similar_text(string $first, string $second, float &amp;amp;$percent)</string>
+	<string>similar_text(string $first, string $second, float &amp;$percent)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

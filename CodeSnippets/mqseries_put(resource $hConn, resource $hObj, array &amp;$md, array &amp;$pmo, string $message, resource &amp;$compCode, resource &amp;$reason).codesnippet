@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>mqseries_put</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_put ( &lt;#resource $hConn#&gt;, &lt;#resource $hObj#&gt;, &lt;#array &amp;amp;$md#&gt;, &lt;#array &amp;amp;$pmo#&gt;, &lt;#string $message#&gt;, &lt;#resource &amp;amp;$compCode#&gt;, &lt;#resource &amp;amp;$reason#&gt; );</string>
+	<string>mqseries_put ( &lt;#resource $hConn#&gt;, &lt;#resource $hObj#&gt;, &lt;#array &amp;$md#&gt;, &lt;#array &amp;$pmo#&gt;, &lt;#string $message#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B08E8F2F-C5D8-4359-8855-92F876836033</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mqseries_put(resource $hConn, resource $hObj, array &amp;amp;$md, array &amp;amp;$pmo, string $message, resource &amp;amp;$compCode, resource &amp;amp;$reason)</string>
+	<string>mqseries_put(resource $hConn, resource $hObj, array &amp;$md, array &amp;$pmo, string $message, resource &amp;$compCode, resource &amp;$reason)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

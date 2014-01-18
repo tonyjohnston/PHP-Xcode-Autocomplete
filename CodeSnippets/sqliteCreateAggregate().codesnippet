@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqliteCreateAggregate</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>sqliteCreateAggregate ( &lt;#string $function_name#&gt;, &lt;#callback $step_func#&gt;, &lt;#callback $finalize_func#&gt;, &lt;#int $num_args#&gt;, &lt;#mixed $context#&gt;, &lt;#int $rownumber#&gt;, &lt;#mixed $value1#&gt;, &lt;#mixed $value2#&gt;, &lt;#mixed $..#&gt;, &lt;#mixed $context#&gt;, &lt;#int $rownumber#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>sqliteCreateAggregate()</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

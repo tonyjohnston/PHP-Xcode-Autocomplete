@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xml_set_object</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_set_object ( &lt;#resource $parser#&gt;, &lt;#object &amp;amp;$object#&gt; );</string>
+	<string>xml_set_object ( &lt;#resource $parser#&gt;, &lt;#object &amp;$object#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61F81A43-268E-4551-9CA1-DAF9C046CEAE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>xml_set_object(resource $parser, object &amp;amp;$object)</string>
+	<string>xml_set_object(resource $parser, object &amp;$object)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>process</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>process ( &lt;#DomDocument $xml_doc#&gt;, &lt;#array $xslt_params#&gt;, &lt;#bool $is_xpath_param#&gt;, &lt;#string $profile_filename#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>process(DomDocument $xml_doc, array $xslt_params, bool $is_xpath_param, string $profile_filename)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

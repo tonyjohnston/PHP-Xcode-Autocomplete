@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>drawCurve</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>drawCurve ( &lt;#float $controldx#&gt;, &lt;#float $controldy#&gt;, &lt;#float $anchordx#&gt;, &lt;#float $anchordy#&gt;, &lt;#float $targetdx#&gt;, &lt;#float $targetdy#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>drawCurve(float $controldx, float $controldy, float $anchordx, float $anchordy, float $targetdx, float $targetdy)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

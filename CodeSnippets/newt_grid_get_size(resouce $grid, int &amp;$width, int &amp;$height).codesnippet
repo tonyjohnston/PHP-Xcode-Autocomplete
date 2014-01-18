@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>newt_grid_get_size</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_get_size ( &lt;#resouce $grid#&gt;, &lt;#int &amp;amp;$width#&gt;, &lt;#int &amp;amp;$height#&gt; );</string>
+	<string>newt_grid_get_size ( &lt;#resouce $grid#&gt;, &lt;#int &amp;$width#&gt;, &lt;#int &amp;$height#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98F30148-8E0D-4194-B9E8-82B16426506D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>newt_grid_get_size(resouce $grid, int &amp;amp;$width, int &amp;amp;$height)</string>
+	<string>newt_grid_get_size(resouce $grid, int &amp;$width, int &amp;$height)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

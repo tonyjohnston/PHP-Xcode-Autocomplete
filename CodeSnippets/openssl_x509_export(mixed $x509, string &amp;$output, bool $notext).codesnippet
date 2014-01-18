@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_x509_export</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_x509_export ( &lt;#mixed $x509#&gt;, &lt;#string &amp;amp;$output#&gt;, &lt;#bool $notext#&gt; );</string>
+	<string>openssl_x509_export ( &lt;#mixed $x509#&gt;, &lt;#string &amp;$output#&gt;, &lt;#bool $notext#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92D93361-7DCC-41F2-8B2F-D89CC60DA713</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>openssl_x509_export(mixed $x509, string &amp;amp;$output, bool $notext)</string>
+	<string>openssl_x509_export(mixed $x509, string &amp;$output, bool $notext)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

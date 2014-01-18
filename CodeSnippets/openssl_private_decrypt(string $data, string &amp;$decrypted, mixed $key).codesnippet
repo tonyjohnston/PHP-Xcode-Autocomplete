@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_private_decrypt</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_private_decrypt ( &lt;#string $data#&gt;, &lt;#string &amp;amp;$decrypted#&gt;, &lt;#mixed $key#&gt; );</string>
+	<string>openssl_private_decrypt ( &lt;#string $data#&gt;, &lt;#string &amp;$decrypted#&gt;, &lt;#mixed $key#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>891AF9FF-D09E-44E5-8B69-046D4DD39F30</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>openssl_private_decrypt(string $data, string &amp;amp;$decrypted, mixed $key)</string>
+	<string>openssl_private_decrypt(string $data, string &amp;$decrypted, mixed $key)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

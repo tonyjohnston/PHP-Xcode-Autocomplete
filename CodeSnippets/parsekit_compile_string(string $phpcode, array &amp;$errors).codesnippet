@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>parsekit_compile_string</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>parsekit_compile_string ( &lt;#string $phpcode#&gt;, &lt;#array &amp;amp;$errors#&gt; );</string>
+	<string>parsekit_compile_string ( &lt;#string $phpcode#&gt;, &lt;#array &amp;$errors#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B0857993-89D4-4D98-BEB4-75EAA8918625</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>parsekit_compile_string(string $phpcode, array &amp;amp;$errors)</string>
+	<string>parsekit_compile_string(string $phpcode, array &amp;$errors)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

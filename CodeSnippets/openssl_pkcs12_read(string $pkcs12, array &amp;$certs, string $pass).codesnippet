@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_pkcs12_read</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkcs12_read ( &lt;#string $pkcs12#&gt;, &lt;#array &amp;amp;$certs#&gt;, &lt;#string $pass#&gt; );</string>
+	<string>openssl_pkcs12_read ( &lt;#string $pkcs12#&gt;, &lt;#array &amp;$certs#&gt;, &lt;#string $pass#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C47B3040-6AB6-4748-A43A-48A80AAA3C79</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>openssl_pkcs12_read(string $pkcs12, array &amp;amp;$certs, string $pass)</string>
+	<string>openssl_pkcs12_read(string $pkcs12, array &amp;$certs, string $pass)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>pg_copy_from</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>pg_copy_from ( &lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#array $rows#&gt;, &lt;#string $delimiter#&gt;, &lt;#string $null_as#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>pg_copy_from(resource $connection, string $table_name, array $rows, string $delimiter, string $null_as)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

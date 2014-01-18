@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ovrimos_fetch_into</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_fetch_into ( &lt;#int $result_id#&gt;, &lt;#array &amp;amp;$result_array#&gt;, &lt;#string $how#&gt;, &lt;#int $rownumber#&gt; );</string>
+	<string>ovrimos_fetch_into ( &lt;#int $result_id#&gt;, &lt;#array &amp;$result_array#&gt;, &lt;#string $how#&gt;, &lt;#int $rownumber#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6F4053DF-263C-4644-8D2B-B0AB1B1B4304</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ovrimos_fetch_into(int $result_id, array &amp;amp;$result_array, string $how, int $rownumber)</string>
+	<string>ovrimos_fetch_into(int $result_id, array &amp;$result_array, string $how, int $rownumber)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

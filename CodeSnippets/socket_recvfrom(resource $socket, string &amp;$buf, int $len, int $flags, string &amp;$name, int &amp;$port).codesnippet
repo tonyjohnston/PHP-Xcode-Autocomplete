@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>socket_recvfrom</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_recvfrom ( &lt;#resource $socket#&gt;, &lt;#string &amp;amp;$buf#&gt;, &lt;#int $len#&gt;, &lt;#int $flags#&gt;, &lt;#string &amp;amp;$name#&gt;, &lt;#int &amp;amp;$port#&gt; );</string>
+	<string>socket_recvfrom ( &lt;#resource $socket#&gt;, &lt;#string &amp;$buf#&gt;, &lt;#int $len#&gt;, &lt;#int $flags#&gt;, &lt;#string &amp;$name#&gt;, &lt;#int &amp;$port#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8577B96F-D4F4-41BD-A852-746CFD2695EF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>socket_recvfrom(resource $socket, string &amp;amp;$buf, int $len, int $flags, string &amp;amp;$name, int &amp;amp;$port)</string>
+	<string>socket_recvfrom(resource $socket, string &amp;$buf, int $len, int $flags, string &amp;$name, int &amp;$port)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

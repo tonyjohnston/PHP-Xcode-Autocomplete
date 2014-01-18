@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>swf_ortho</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>swf_ortho ( &lt;#float $xmin#&gt;, &lt;#float $xmax#&gt;, &lt;#float $ymin#&gt;, &lt;#float $ymax#&gt;, &lt;#float $zmin#&gt;, &lt;#float $zmax#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>swf_ortho(float $xmin, float $xmax, float $ymin, float $ymax, float $zmin, float $zmax)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

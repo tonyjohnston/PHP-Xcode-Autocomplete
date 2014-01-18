@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xml_set_element_handler</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>xml_set_element_handler ( &lt;#resource $parser#&gt;, &lt;#callback $start_element_handler#&gt;, &lt;#callback $end_element_handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $name#&gt;, &lt;#array $attribs#&gt;, &lt;#resource $parser#&gt;, &lt;#string $name#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>xml_set_element_handler(resource $parser, callback $start_element_handler, callback $end_element_handler, resource $parser, string $name, array $attribs, resource $parser, string $name)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

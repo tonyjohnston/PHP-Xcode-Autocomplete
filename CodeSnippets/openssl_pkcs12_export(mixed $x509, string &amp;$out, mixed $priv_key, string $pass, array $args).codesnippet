@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_pkcs12_export</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkcs12_export ( &lt;#mixed $x509#&gt;, &lt;#string &amp;amp;$out#&gt;, &lt;#mixed $priv_key#&gt;, &lt;#string $pass#&gt;, &lt;#array $args#&gt; );</string>
+	<string>openssl_pkcs12_export ( &lt;#mixed $x509#&gt;, &lt;#string &amp;$out#&gt;, &lt;#mixed $priv_key#&gt;, &lt;#string $pass#&gt;, &lt;#array $args#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>81CB77DB-8D0F-4142-9DEB-B603E703F75F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>openssl_pkcs12_export(mixed $x509, string &amp;amp;$out, mixed $priv_key, string $pass, array $args)</string>
+	<string>openssl_pkcs12_export(mixed $x509, string &amp;$out, mixed $priv_key, string $pass, array $args)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

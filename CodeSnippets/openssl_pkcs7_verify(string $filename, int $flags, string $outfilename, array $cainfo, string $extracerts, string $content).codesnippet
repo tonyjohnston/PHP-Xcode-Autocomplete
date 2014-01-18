@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_pkcs7_verify</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>openssl_pkcs7_verify ( &lt;#string $filename#&gt;, &lt;#int $flags#&gt;, &lt;#string $outfilename#&gt;, &lt;#array $cainfo#&gt;, &lt;#string $extracerts#&gt;, &lt;#string $content#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>openssl_pkcs7_verify(string $filename, int $flags, string $outfilename, array $cainfo, string $extracerts, string $content)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

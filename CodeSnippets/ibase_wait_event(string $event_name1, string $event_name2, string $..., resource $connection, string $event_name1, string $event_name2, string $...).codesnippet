@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>ibase_wait_event</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>ibase_wait_event ( &lt;#string $event_name1#&gt;, &lt;#string $event_name2#&gt;, &lt;#string $...#&gt;, &lt;#resource $connection#&gt;, &lt;#string $event_name1#&gt;, &lt;#string $event_name2#&gt;, &lt;#string $...#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>ibase_wait_event(string $event_name1, string $event_name2, string $..., resource $connection, string $event_name1, string $event_name2, string $...)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

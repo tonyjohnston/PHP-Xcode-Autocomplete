@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>printer_draw_elipse</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>printer_draw_elipse ( &lt;#resource $printer_handle#&gt;, &lt;#int $ul_x#&gt;, &lt;#int $ul_y#&gt;, &lt;#int $lr_x#&gt;, &lt;#int $lr_y#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>printer_draw_elipse(resource $printer_handle, int $ul_x, int $ul_y, int $lr_x, int $lr_y)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>Memcache::get</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::get ( &lt;#string $key#&gt;, &lt;#int &amp;amp;$flags#&gt;, &lt;#array $keys#&gt;, &lt;#array &amp;amp;$flags#&gt; );</string>
+	<string>Memcache::get ( &lt;#string $key#&gt;, &lt;#int &amp;$flags#&gt;, &lt;#array $keys#&gt;, &lt;#array &amp;$flags#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CFD5D5C5-EB93-4BD7-B0D4-5EE51697E4FC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Memcache::get(string $key, int &amp;amp;$flags, array $keys, array &amp;amp;$flags)</string>
+	<string>Memcache::get(string $key, int &amp;$flags, array $keys, array &amp;$flags)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

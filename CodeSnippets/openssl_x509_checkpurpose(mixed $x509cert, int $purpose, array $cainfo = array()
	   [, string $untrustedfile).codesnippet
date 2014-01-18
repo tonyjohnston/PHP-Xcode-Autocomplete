@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>openssl_x509_checkpurpose</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>openssl_x509_checkpurpose ( &lt;#mixed $x509cert#&gt;, &lt;#int $purpose#&gt;, &lt;#array $cainfo = array()
 	   [, string $untrustedfile#&gt; );</string>
@@ -16,5 +20,7 @@
 	   [, string $untrustedfile)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

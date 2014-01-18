@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>stream_socket_enable_crypto</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>stream_socket_enable_crypto ( &lt;#resource $stream#&gt;, &lt;#bool $enable#&gt;, &lt;#int $crypto_type#&gt;, &lt;#resource $session_stream#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>stream_socket_enable_crypto(resource $stream, bool $enable, int $crypto_type, resource $session_stream)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>oci_define_by_name</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_define_by_name ( &lt;#resource $statement#&gt;, &lt;#string $column_name#&gt;, &lt;#mixed &amp;amp;$variable#&gt; );</string>
+	<string>oci_define_by_name ( &lt;#resource $statement#&gt;, &lt;#string $column_name#&gt;, &lt;#mixed &amp;$variable#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13911E16-55A7-4C0C-8BEF-8B3AF8DB5A1B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>oci_define_by_name(resource $statement, string $column_name, mixed &amp;amp;$variable)</string>
+	<string>oci_define_by_name(resource $statement, string $column_name, mixed &amp;$variable)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

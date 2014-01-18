@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>xml_parse_into_struct</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_parse_into_struct ( &lt;#resource $parser#&gt;, &lt;#string $data#&gt;, &lt;#array &amp;amp;$values#&gt;, &lt;#array &amp;amp;$index#&gt; );</string>
+	<string>xml_parse_into_struct ( &lt;#resource $parser#&gt;, &lt;#string $data#&gt;, &lt;#array &amp;$values#&gt;, &lt;#array &amp;$index#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>14D3A48A-AEDA-448E-AB89-0E6D771C53A8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>xml_parse_into_struct(resource $parser, string $data, array &amp;amp;$values, array &amp;amp;$index)</string>
+	<string>xml_parse_into_struct(resource $parser, string $data, array &amp;$values, array &amp;$index)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

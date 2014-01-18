@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>svn_repos_fs_begin_txn_for_commit</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>svn_repos_fs_begin_txn_for_commit ( &lt;#resource $repos#&gt;, &lt;#int $rev#&gt;, &lt;#string $author#&gt;, &lt;#string $log_msg#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>svn_repos_fs_begin_txn_for_commit(resource $repos, int $rev, string $author, string $log_msg)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

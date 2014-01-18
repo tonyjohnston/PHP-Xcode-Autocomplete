@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>calcul_hmac</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>calcul_hmac ( &lt;#string $clent#&gt;, &lt;#string $siretcode#&gt;, &lt;#string $price#&gt;, &lt;#string $reference#&gt;, &lt;#string $validity#&gt;, &lt;#string $taxation#&gt;, &lt;#string $devise#&gt;, &lt;#string $language#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>calcul_hmac(string $clent, string $siretcode, string $price, string $reference, string $validity, string $taxation, string $devise, string $language)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

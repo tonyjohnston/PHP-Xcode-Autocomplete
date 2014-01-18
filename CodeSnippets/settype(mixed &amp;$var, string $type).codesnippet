@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>settype</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>settype ( &lt;#mixed &amp;amp;$var#&gt;, &lt;#string $type#&gt; );</string>
+	<string>settype ( &lt;#mixed &amp;$var#&gt;, &lt;#string $type#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2FF0F5DF-94F4-4BEA-83F3-09BE9ED419C8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>settype(mixed &amp;amp;$var, string $type)</string>
+	<string>settype(mixed &amp;$var, string $type)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>sqlite_fetch_object</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>sqlite_fetch_object ( &lt;#resource $result#&gt;, &lt;#string $class_name#&gt;, &lt;#array $ctor_params#&gt;, &lt;#bool $decode_binary = true
 	  ]]] )
@@ -30,5 +34,7 @@
 	<string>sqlite_fetch_object(resource $result, string $class_name, array $ctor_params, bool $decode_binary = true)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

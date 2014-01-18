@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>Imagick::frameImage</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>Imagick::frameImage ( &lt;#mixed $matte_color#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $inner_bevel#&gt;, &lt;#int $outer_bevel#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>Imagick::frameImage(mixed $matte_color, int $width, int $height, int $inner_bevel, int $outer_bevel)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

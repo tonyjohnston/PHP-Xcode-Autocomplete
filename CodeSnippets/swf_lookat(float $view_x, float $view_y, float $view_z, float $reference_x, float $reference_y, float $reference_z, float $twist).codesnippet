@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>swf_lookat</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>swf_lookat ( &lt;#float $view_x#&gt;, &lt;#float $view_y#&gt;, &lt;#float $view_z#&gt;, &lt;#float $reference_x#&gt;, &lt;#float $reference_y#&gt;, &lt;#float $reference_z#&gt;, &lt;#float $twist#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>swf_lookat(float $view_x, float $view_y, float $view_z, float $reference_x, float $reference_y, float $reference_z, float $twist)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

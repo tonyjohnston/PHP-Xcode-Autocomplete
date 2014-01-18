@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>domxml_open_mem</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>domxml_open_mem ( &lt;#string $str#&gt;, &lt;#int $mode#&gt;, &lt;#array &amp;amp;$error#&gt; );</string>
+	<string>domxml_open_mem ( &lt;#string $str#&gt;, &lt;#int $mode#&gt;, &lt;#array &amp;$error#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B3E27086-B4AD-432E-AF1F-3F2DBC1708C7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>domxml_open_mem(string $str, int $mode, array &amp;amp;$error)</string>
+	<string>domxml_open_mem(string $str, int $mode, array &amp;$error)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

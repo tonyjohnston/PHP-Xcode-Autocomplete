@@ -4,15 +4,21 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>fscanf</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fscanf ( &lt;#resource $handle#&gt;, &lt;#string $format#&gt;, &lt;#mixed &amp;amp;$...#&gt; );</string>
+	<string>fscanf ( &lt;#resource $handle#&gt;, &lt;#string $format#&gt;, &lt;#mixed &amp;$...#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA65BEE3-4A6F-4204-B99A-B05B970736DD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.PHP</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>fscanf(resource $handle, string $format, mixed &amp;amp;$...)</string>
+	<string>fscanf(resource $handle, string $format, mixed &amp;$...)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>

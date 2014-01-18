@@ -4,6 +4,10 @@
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
 	<string>drawCubic</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>drawCubic ( &lt;#float $bx#&gt;, &lt;#float $by#&gt;, &lt;#float $cx#&gt;, &lt;#float $cy#&gt;, &lt;#float $dx#&gt;, &lt;#float $dy#&gt; );</string>
 	<key>IDECodeSnippetIdentifier</key>
@@ -14,5 +18,7 @@
 	<string>drawCubic(float $bx, float $by, float $cx, float $cy, float $dx, float $dy)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
 </dict>
 </plist>
