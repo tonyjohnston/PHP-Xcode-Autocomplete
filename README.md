@@ -25,3 +25,6 @@ There are over 5,000 snippets related to editing .php files. Voila! PHP autocomp
 Names can be cleaned up, summaries added, and updates for the latest version of PHP can be based on the basic structure of these documents.
 	
 Enjoy!
+
+More info:
+http://www.harikari.com/technology/better-native-php-syntax-support-in-xcode.html
