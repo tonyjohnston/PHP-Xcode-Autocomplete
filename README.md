@@ -14,7 +14,7 @@ I have done some basic cleanup, but it could probably still use more.
 
 2. Copy all files from the CodeSnippets directory to ~/Library/Developer/Xcode/UserData/CodeSnippets
 
-3. Close Xcode if it's open and restart it.
+3. Close Xcode if it's open and restart it. It may take a while to open again and Xcode might look like it's hung, but give it a minute.
 
 4. Open a PHP project or file in Xcode.
 
